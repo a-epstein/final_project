@@ -1,0 +1,2197 @@
+AGE|AGE_ADJUSTED_CI_LOWER|AGE_ADJUSTED_CI_UPPER|AGE_ADJUSTED_RATE|COUNT|ICCC_GROUP|POPULATION|YEAR
+0-14|142.3|148.5|145.4|8499|All ICCC Groups Combined|58588724|1999
+0-19|155.7|161.3|158.5|12369|All ICCC Groups Combined|78174581|1999
+0-14|43.6|47.1|45.3|2651|I Leukemias, myeloproliferative & myelodysplastic diseases|58588724|1999
+0-19|39.2|42.1|40.6|3174|I Leukemias, myeloproliferative & myelodysplastic diseases|78174581|1999
+0-14|34.0|37.1|35.5|2081|I(a) Lymphoid leukemias|58588724|1999
+0-19|28.9|31.4|30.1|2355|I(a) Lymphoid leukemias|78174581|1999
+0-14|6.9|8.3|7.6|441|I(b) Acute myeloid leukemias|58588724|1999
+0-19|7.4|8.7|8.0|624|I(b) Acute myeloid leukemias|78174581|1999
+0-14|0.4|0.9|0.6|36|I(c) Chronic myeloproliferative diseases|58588724|1999
+0-19|0.8|1.2|1.0|78|I(c) Chronic myeloproliferative diseases|78174581|1999
+0-14|~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|58588724|1999
+0-19|~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|78174581|1999
+0-14|1.1|1.7|1.4|82|I(e) Unspecified and other specified leukemias|58588724|1999
+0-19|1.1|1.6|1.3|105|I(e) Unspecified and other specified leukemias|78174581|1999
+0-14|14.3|16.3|15.3|896|II Lymphomas and reticuloendothelial neoplasms|58588724|1999
+0-19|22.2|24.3|23.2|1813|II Lymphomas and reticuloendothelial neoplasms|78174581|1999
+0-14|4.9|6.1|5.5|319|II(a) Hodgkin lymphomas|58588724|1999
+0-19|11.1|12.7|11.9|925|II(a) Hodgkin lymphomas|78174581|1999
+0-14|5.4|6.6|6.0|349|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|58588724|1999
+0-19|7.0|8.3|7.6|597|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|78174581|1999
+0-14|2.1|3.0|2.5|148|II(c) Burkitt lymphoma|58588724|1999
+0-19|2.1|2.8|2.4|188|II(c) Burkitt lymphoma|78174581|1999
+0-14|0.7|1.2|0.9|52|II(d) Miscellaneous lymphoreticular neoplasms|58588724|1999
+0-19|0.5|0.9|0.7|54|II(d) Miscellaneous lymphoreticular neoplasms|78174581|1999
+0-14|0.3|0.7|0.5|28|II(e) Unspecified lymphomas|58588724|1999
+0-19|0.5|0.8|0.6|49|II(e) Unspecified lymphomas|78174581|1999
+0-14|30.2|33.1|31.6|1853|III CNS and misc intracranial and intraspinal neoplasms|58588724|1999
+0-19|27.4|29.8|28.6|2238|III CNS and misc intracranial and intraspinal neoplasms|78174581|1999
+0-14|2.6|3.5|3.0|174|III(a) Ependymomas and choroid plexus tumor|58588724|1999
+0-19|2.3|3.0|2.6|204|III(a) Ependymomas and choroid plexus tumor|78174581|1999
+0-14|13.5|15.4|14.4|846|III(b) Astrocytomas|58588724|1999
+0-19|12.8|14.5|13.6|1065|III(b) Astrocytomas|78174581|1999
+0-14|7.1|8.6|7.8|460|III(c) Intracranial and intraspinal embryonal tumors|58588724|1999
+0-19|6.1|7.2|6.6|519|III(c) Intracranial and intraspinal embryonal tumors|78174581|1999
+0-14|4.6|5.8|5.1|302|III(d) Other gliomas|58588724|1999
+0-19|4.2|5.1|4.6|364|III(d) Other gliomas|78174581|1999
+0-14|0.3|0.7|0.5|30|III(e) Other specified intracranial & intraspinal neoplasms|58588724|1999
+0-19|0.4|0.7|0.5|39|III(e) Other specified intracranial & intraspinal neoplasms|78174581|1999
+0-14|0.5|1.0|0.7|41|III(f) Unspecified intracranial and intraspinal neoplasms|58588724|1999
+0-19|0.4|0.8|0.6|47|III(f) Unspecified intracranial and intraspinal neoplasms|78174581|1999
+0-14|9.8|11.5|10.6|617|IV Neuroblastoma and other peripheral nervous cell tumors|58588724|1999
+0-19|7.6|8.9|8.2|638|IV Neuroblastoma and other peripheral nervous cell tumors|78174581|1999
+0-14|9.6|11.3|10.4|607|IV(a) Neuroblastoma and ganglioneuroblastoma|58588724|1999
+0-19|7.3|8.6|7.9|616|IV(a) Neuroblastoma and ganglioneuroblastoma|78174581|1999
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|58588724|1999
+0-19|0.2|0.4|0.3|22|IV(b) Other peripheral nervous cell tumors|78174581|1999
+0-14|8.7|10.3|9.5|554|IX Soft tissue and other extraosseous sarcomas|58588724|1999
+0-19|10.2|11.7|10.9|854|IX Soft tissue and other extraosseous sarcomas|78174581|1999
+0-14|4.4|5.5|4.9|289|IX(a) Rhabdomyosarcomas|58588724|1999
+0-19|4.1|5.1|4.6|356|IX(a) Rhabdomyosarcomas|78174581|1999
+0-14|0.7|1.2|0.9|55|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|58588724|1999
+0-19|0.9|1.4|1.1|88|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|78174581|1999
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|58588724|1999
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|78174581|1999
+0-14|2.3|3.1|2.7|156|IX(d) Other specified soft tissue sarcomas|58588724|1999
+0-19|3.5|4.4|4.0|310|IX(d) Other specified soft tissue sarcomas|78174581|1999
+0-14|0.7|1.2|0.9|53|IX(e) Unspecified soft tissue sarcomas|58588724|1999
+0-19|1.0|1.5|1.2|97|IX(e) Unspecified soft tissue sarcomas|78174581|1999
+0-14|0.2|0.4|0.3|16|Not classified by ICCC|58588724|1999
+0-19|0.2|0.4|0.3|22|Not classified by ICCC|78174581|1999
+0-14|3.7|4.8|4.2|244|V Retinoblastoma|58588724|1999
+0-19|2.8|3.6|3.2|245|V Retinoblastoma|78174581|1999
+0-14|7.3|8.8|8.0|467|VI Renal tumors|58588724|1999
+0-19|5.8|6.9|6.3|494|VI Renal tumors|78174581|1999
+0-14|6.9|8.3|7.6|442|VI(a) Nephroblastoma and other nonepithelial renal tumors|58588724|1999
+0-19|5.3|6.3|5.8|451|VI(a) Nephroblastoma and other nonepithelial renal tumors|78174581|1999
+0-14|0.2|0.6|0.4|22|VI(b) Renal carcinomas|58588724|1999
+0-19|0.4|0.7|0.5|39|VI(b) Renal carcinomas|78174581|1999
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|58588724|1999
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|78174581|1999
+0-14|1.8|2.5|2.1|123|VII Hepatic tumors|58588724|1999
+0-19|1.7|2.3|2.0|155|VII Hepatic tumors|78174581|1999
+0-14|1.4|2.1|1.7|101|VII(a) Hepatoblastoma|58588724|1999
+0-19|1.1|1.6|1.3|102|VII(a) Hepatoblastoma|78174581|1999
+0-14|0.2|0.6|0.4|22|VII(b) Hepatic carcinomas|58588724|1999
+0-19|0.5|0.9|0.7|52|VII(b) Hepatic carcinomas|78174581|1999
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|58588724|1999
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|78174581|1999
+0-14|6.5|7.9|7.2|420|VIII Malignant bone tumors|58588724|1999
+0-19|8.2|9.6|8.9|693|VIII Malignant bone tumors|78174581|1999
+0-14|3.7|4.8|4.2|246|VIII(a) Osteosarcomas|58588724|1999
+0-19|4.6|5.7|5.1|400|VIII(a) Osteosarcomas|78174581|1999
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|58588724|1999
+0-19|0.2|0.5|0.4|28|VIII(b) Chondrosarcomas|78174581|1999
+0-14|2.0|2.8|2.3|137|VIII(c) Ewing tumor and related sarcomas of bone|58588724|1999
+0-19|2.4|3.1|2.7|213|VIII(c) Ewing tumor and related sarcomas of bone|78174581|1999
+0-14|0.2|0.5|0.3|19|VIII(d) Other specified malignant bone tumors|58588724|1999
+0-19|0.4|0.7|0.5|40|VIII(d) Other specified malignant bone tumors|78174581|1999
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|58588724|1999
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|78174581|1999
+0-14|4.4|5.6|5.0|289|X Germ cell, trophoblastic tumors & neoplasms of gonads|58588724|1999
+0-19|9.4|10.8|10.1|787|X Germ cell, trophoblastic tumors & neoplasms of gonads|78174581|1999
+0-14|1.0|1.6|1.3|75|X(a) Intracranial & intraspinal germ cell tumors|58588724|1999
+0-19|1.1|1.7|1.4|109|X(a) Intracranial & intraspinal germ cell tumors|78174581|1999
+0-14|1.1|1.7|1.3|78|X(b) Malignant extracranial & extragonadal germ cell tumors|58588724|1999
+0-19|1.1|1.7|1.4|106|X(b) Malignant extracranial & extragonadal germ cell tumors|78174581|1999
+0-14|1.8|2.5|2.1|124|X(c) Malignant gonadal germ cell tumors|58588724|1999
+0-19|6.1|7.3|6.7|521|X(c) Malignant gonadal germ cell tumors|78174581|1999
+0-14|~|~|~|~|X(d) Gonadal carcinomas|58588724|1999
+0-19|0.3|0.6|0.4|32|X(d) Gonadal carcinomas|78174581|1999
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|58588724|1999
+0-19|0.1|0.4|0.2|19|X(e) Other and unspecified malignant gonadal tumors|78174581|1999
+0-14|5.2|6.5|5.8|339|XI Other malignant epithelial neoplasms and malignant melanomas|58588724|1999
+0-19|14.4|16.2|15.3|1192|XI Other malignant epithelial neoplasms and malignant melanomas|78174581|1999
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|58588724|1999
+0-19|0.1|0.4|0.2|18|XI(a) Adrenocortical carcinomas|78174581|1999
+0-14|1.5|2.2|1.9|109|XI(b) Thyroid carcinomas|58588724|1999
+0-19|5.3|6.4|5.9|456|XI(b) Thyroid carcinomas|78174581|1999
+0-14|0.2|0.6|0.4|22|XI(c) Nasopharyngeal carcinomas|58588724|1999
+0-19|0.4|0.7|0.5|41|XI(c) Nasopharyngeal carcinomas|78174581|1999
+0-14|1.4|2.1|1.8|102|XI(d) Malignant melanomas|58588724|1999
+0-19|4.3|5.3|4.8|370|XI(d) Malignant melanomas|78174581|1999
+0-14|~|~|~|~|XI(e) Skin carcinomas|58588724|1999
+0-19|~|~|~|~|XI(e) Skin carcinomas|78174581|1999
+0-14|1.2|1.9|1.5|89|XI(f) Other and unspecified carcinomas|58588724|1999
+0-19|3.4|4.3|3.9|300|XI(f) Other and unspecified carcinomas|78174581|1999
+0-14|0.3|0.7|0.5|30|XII Other and unspecified malignant neoplasms|58588724|1999
+0-19|0.6|1.0|0.8|64|XII Other and unspecified malignant neoplasms|78174581|1999
+0-14|~|~|~|~|XII(a) Other specified malignant tumors|58588724|1999
+0-19|0.1|0.3|0.2|17|XII(a) Other specified malignant tumors|78174581|1999
+0-14|0.2|0.5|0.3|19|XII(b) Other unspecified malignant tumors|58588724|1999
+0-19|0.4|0.8|0.6|47|XII(b) Other unspecified malignant tumors|78174581|1999
+0-14|146.8|153.0|149.9|8809|All ICCC Groups Combined|58914904|2000
+0-19|161.0|166.7|163.8|12876|All ICCC Groups Combined|78714159|2000
+0-14|44.2|47.7|46.0|2696|I Leukemias, myeloproliferative & myelodysplastic diseases|58914904|2000
+0-19|40.0|42.8|41.4|3246|I Leukemias, myeloproliferative & myelodysplastic diseases|78714159|2000
+0-14|35.5|38.7|37.1|2174|I(a) Lymphoid leukemias|58914904|2000
+0-19|30.6|33.1|31.8|2496|I(a) Lymphoid leukemias|78714159|2000
+0-14|5.9|7.3|6.6|386|I(b) Acute myeloid leukemias|58914904|2000
+0-19|6.5|7.7|7.1|559|I(b) Acute myeloid leukemias|78714159|2000
+0-14|0.6|1.0|0.8|46|I(c) Chronic myeloproliferative diseases|58914904|2000
+0-19|0.7|1.2|0.9|74|I(c) Chronic myeloproliferative diseases|78714159|2000
+0-14|~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|58914904|2000
+0-19|~|~|~|~|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|78714159|2000
+0-14|1.1|1.7|1.4|81|I(e) Unspecified and other specified leukemias|58914904|2000
+0-19|1.1|1.6|1.4|106|I(e) Unspecified and other specified leukemias|78714159|2000
+0-14|15.5|17.6|16.5|975|II Lymphomas and reticuloendothelial neoplasms|58914904|2000
+0-19|23.7|25.9|24.8|1951|II Lymphomas and reticuloendothelial neoplasms|78714159|2000
+0-14|5.2|6.5|5.8|344|II(a) Hodgkin lymphomas|58914904|2000
+0-19|11.5|13.1|12.3|969|II(a) Hodgkin lymphomas|78714159|2000
+0-14|5.4|6.6|6.0|353|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|58914904|2000
+0-19|7.5|8.8|8.1|642|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|78714159|2000
+0-14|2.4|3.3|2.8|166|II(c) Burkitt lymphoma|58914904|2000
+0-19|2.3|3.1|2.7|211|II(c) Burkitt lymphoma|78714159|2000
+0-14|1.0|1.6|1.3|75|II(d) Miscellaneous lymphoreticular neoplasms|58914904|2000
+0-19|0.8|1.2|1.0|78|II(d) Miscellaneous lymphoreticular neoplasms|78714159|2000
+0-14|0.4|0.9|0.6|37|II(e) Unspecified lymphomas|58914904|2000
+0-19|0.5|0.9|0.6|51|II(e) Unspecified lymphomas|78714159|2000
+0-14|31.8|34.7|33.2|1956|III CNS and misc intracranial and intraspinal neoplasms|58914904|2000
+0-19|29.1|31.5|30.3|2381|III CNS and misc intracranial and intraspinal neoplasms|78714159|2000
+0-14|2.3|3.1|2.7|158|III(a) Ependymomas and choroid plexus tumor|58914904|2000
+0-19|2.0|2.7|2.3|184|III(a) Ependymomas and choroid plexus tumor|78714159|2000
+0-14|16.1|18.3|17.2|1011|III(b) Astrocytomas|58914904|2000
+0-19|14.9|16.7|15.8|1243|III(b) Astrocytomas|78714159|2000
+0-14|6.9|8.3|7.6|445|III(c) Intracranial and intraspinal embryonal tumors|58914904|2000
+0-19|5.9|7.1|6.5|508|III(c) Intracranial and intraspinal embryonal tumors|78714159|2000
+0-14|4.1|5.2|4.7|274|III(d) Other gliomas|58914904|2000
+0-19|4.1|5.0|4.5|358|III(d) Other gliomas|78714159|2000
+0-14|0.3|0.7|0.5|27|III(e) Other specified intracranial & intraspinal neoplasms|58914904|2000
+0-19|0.3|0.6|0.5|37|III(e) Other specified intracranial & intraspinal neoplasms|78714159|2000
+0-14|0.5|0.9|0.7|41|III(f) Unspecified intracranial and intraspinal neoplasms|58914904|2000
+0-19|0.5|0.9|0.6|51|III(f) Unspecified intracranial and intraspinal neoplasms|78714159|2000
+0-14|9.2|10.9|10.0|587|IV Neuroblastoma and other peripheral nervous cell tumors|58914904|2000
+0-19|7.1|8.3|7.7|598|IV Neuroblastoma and other peripheral nervous cell tumors|78714159|2000
+0-14|9.1|10.8|9.9|580|IV(a) Neuroblastoma and ganglioneuroblastoma|58914904|2000
+0-19|6.9|8.2|7.5|588|IV(a) Neuroblastoma and ganglioneuroblastoma|78714159|2000
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|58914904|2000
+0-19|~|~|~|~|IV(b) Other peripheral nervous cell tumors|78714159|2000
+0-14|9.6|11.3|10.4|615|IX Soft tissue and other extraosseous sarcomas|58914904|2000
+0-19|11.2|12.7|11.9|940|IX Soft tissue and other extraosseous sarcomas|78714159|2000
+0-14|4.7|5.9|5.3|309|IX(a) Rhabdomyosarcomas|58914904|2000
+0-19|4.4|5.4|4.9|383|IX(a) Rhabdomyosarcomas|78714159|2000
+0-14|0.7|1.2|1.0|56|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|58914904|2000
+0-19|1.0|1.5|1.2|94|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|78714159|2000
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|58914904|2000
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|78714159|2000
+0-14|2.7|3.7|3.2|188|IX(d) Other specified soft tissue sarcomas|58914904|2000
+0-19|4.0|5.0|4.5|354|IX(d) Other specified soft tissue sarcomas|78714159|2000
+0-14|0.8|1.3|1.0|61|IX(e) Unspecified soft tissue sarcomas|58914904|2000
+0-19|1.1|1.6|1.3|105|IX(e) Unspecified soft tissue sarcomas|78714159|2000
+0-14|~|~|~|~|Not classified by ICCC|58914904|2000
+0-19|0.1|0.3|0.2|17|Not classified by ICCC|78714159|2000
+0-14|3.9|5.0|4.4|256|V Retinoblastoma|58914904|2000
+0-19|2.9|3.7|3.3|257|V Retinoblastoma|78714159|2000
+0-14|8.1|9.6|8.8|515|VI Renal tumors|58914904|2000
+0-19|6.3|7.5|6.9|538|VI Renal tumors|78714159|2000
+0-14|7.7|9.2|8.4|492|VI(a) Nephroblastoma and other nonepithelial renal tumors|58914904|2000
+0-19|5.8|7.0|6.4|499|VI(a) Nephroblastoma and other nonepithelial renal tumors|78714159|2000
+0-14|0.2|0.6|0.4|22|VI(b) Renal carcinomas|58914904|2000
+0-19|0.3|0.6|0.5|37|VI(b) Renal carcinomas|78714159|2000
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|58914904|2000
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|78714159|2000
+0-14|1.8|2.6|2.2|129|VII Hepatic tumors|58914904|2000
+0-19|1.6|2.2|1.8|144|VII Hepatic tumors|78714159|2000
+0-14|1.6|2.3|1.9|113|VII(a) Hepatoblastoma|58914904|2000
+0-19|1.2|1.7|1.4|113|VII(a) Hepatoblastoma|78714159|2000
+0-14|~|~|~|~|VII(b) Hepatic carcinomas|58914904|2000
+0-19|0.2|0.5|0.4|29|VII(b) Hepatic carcinomas|78714159|2000
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|58914904|2000
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|78714159|2000
+0-14|5.9|7.2|6.6|388|VIII Malignant bone tumors|58914904|2000
+0-19|7.8|9.1|8.4|663|VIII Malignant bone tumors|78714159|2000
+0-14|3.1|4.1|3.6|211|VIII(a) Osteosarcomas|58914904|2000
+0-19|4.2|5.2|4.7|372|VIII(a) Osteosarcomas|78714159|2000
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|58914904|2000
+0-19|~|~|~|~|VIII(b) Chondrosarcomas|78714159|2000
+0-14|2.3|3.1|2.7|157|VIII(c) Ewing tumor and related sarcomas of bone|58914904|2000
+0-19|2.7|3.5|3.1|242|VIII(c) Ewing tumor and related sarcomas of bone|78714159|2000
+0-14|~|~|~|~|VIII(d) Other specified malignant bone tumors|58914904|2000
+0-19|0.1|0.4|0.2|19|VIII(d) Other specified malignant bone tumors|78714159|2000
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|58914904|2000
+0-19|0.1|0.3|0.2|16|VIII(e) Unspecified malignant bone tumors|78714159|2000
+0-14|4.4|5.5|4.9|291|X Germ cell, trophoblastic tumors & neoplasms of gonads|58914904|2000
+0-19|10.0|11.5|10.7|845|X Germ cell, trophoblastic tumors & neoplasms of gonads|78714159|2000
+0-14|1.2|1.8|1.5|86|X(a) Intracranial & intraspinal germ cell tumors|58914904|2000
+0-19|1.4|2.0|1.6|130|X(a) Intracranial & intraspinal germ cell tumors|78714159|2000
+0-14|0.9|1.4|1.1|66|X(b) Malignant extracranial & extragonadal germ cell tumors|58914904|2000
+0-19|1.1|1.7|1.4|109|X(b) Malignant extracranial & extragonadal germ cell tumors|78714159|2000
+0-14|1.8|2.6|2.2|128|X(c) Malignant gonadal germ cell tumors|58914904|2000
+0-19|6.4|7.6|7.0|553|X(c) Malignant gonadal germ cell tumors|78714159|2000
+0-14|~|~|~|~|X(d) Gonadal carcinomas|58914904|2000
+0-19|0.3|0.6|0.4|34|X(d) Gonadal carcinomas|78714159|2000
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|58914904|2000
+0-19|0.1|0.4|0.2|19|X(e) Other and unspecified malignant gonadal tumors|78714159|2000
+0-14|5.2|6.4|5.8|343|XI Other malignant epithelial neoplasms and malignant melanomas|58914904|2000
+0-19|14.8|16.5|15.6|1231|XI Other malignant epithelial neoplasms and malignant melanomas|78714159|2000
+0-14|0.2|0.5|0.3|18|XI(a) Adrenocortical carcinomas|58914904|2000
+0-19|0.2|0.5|0.3|25|XI(a) Adrenocortical carcinomas|78714159|2000
+0-14|1.6|2.3|1.9|113|XI(b) Thyroid carcinomas|58914904|2000
+0-19|5.1|6.2|5.6|444|XI(b) Thyroid carcinomas|78714159|2000
+0-14|0.2|0.5|0.3|19|XI(c) Nasopharyngeal carcinomas|58914904|2000
+0-19|0.4|0.7|0.5|40|XI(c) Nasopharyngeal carcinomas|78714159|2000
+0-14|1.5|2.2|1.8|105|XI(d) Malignant melanomas|58914904|2000
+0-19|4.7|5.8|5.2|412|XI(d) Malignant melanomas|78714159|2000
+0-14|~|~|~|~|XI(e) Skin carcinomas|58914904|2000
+0-19|~|~|~|~|XI(e) Skin carcinomas|78714159|2000
+0-14|1.1|1.8|1.4|85|XI(f) Other and unspecified carcinomas|58914904|2000
+0-19|3.4|4.3|3.9|304|XI(f) Other and unspecified carcinomas|78714159|2000
+0-14|0.5|1.0|0.7|44|XII Other and unspecified malignant neoplasms|58914904|2000
+0-19|0.6|1.1|0.8|65|XII Other and unspecified malignant neoplasms|78714159|2000
+0-14|~|~|~|~|XII(a) Other specified malignant tumors|58914904|2000
+0-19|~|~|~|~|XII(a) Other specified malignant tumors|78714159|2000
+0-14|0.4|0.7|0.5|31|XII(b) Other unspecified malignant tumors|58914904|2000
+0-19|0.5|0.8|0.6|50|XII(b) Other unspecified malignant tumors|78714159|2000
+0-14|152.9|159.2|156.0|9327|All ICCC Groups Combined|59815030|2001
+0-19|167.4|173.1|170.2|13626|All ICCC Groups Combined|80042731|2001
+0-14|48.7|52.3|50.4|3000|I Leukemias, myeloproliferative & myelodysplastic diseases|59815030|2001
+0-19|44.1|47.1|45.6|3628|I Leukemias, myeloproliferative & myelodysplastic diseases|80042731|2001
+0-14|37.1|40.3|38.7|2293|I(a) Lymphoid leukemias|59815030|2001
+0-19|31.6|34.1|32.8|2608|I(a) Lymphoid leukemias|80042731|2001
+0-14|6.6|8.0|7.3|437|I(b) Acute myeloid leukemias|59815030|2001
+0-19|7.1|8.4|7.7|619|I(b) Acute myeloid leukemias|80042731|2001
+0-14|1.3|2.0|1.6|99|I(c) Chronic myeloproliferative diseases|59815030|2001
+0-19|1.9|2.6|2.2|179|I(c) Chronic myeloproliferative diseases|80042731|2001
+0-14|1.3|2.0|1.6|96|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|59815030|2001
+0-19|1.2|1.8|1.5|118|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|80042731|2001
+0-14|1.0|1.6|1.3|75|I(e) Unspecified and other specified leukemias|59815030|2001
+0-19|1.1|1.6|1.3|104|I(e) Unspecified and other specified leukemias|80042731|2001
+0-14|15.0|17.1|16.0|965|II Lymphomas and reticuloendothelial neoplasms|59815030|2001
+0-19|23.5|25.7|24.6|1978|II Lymphomas and reticuloendothelial neoplasms|80042731|2001
+0-14|5.3|6.5|5.9|356|II(a) Hodgkin lymphomas|59815030|2001
+0-19|11.7|13.3|12.5|1003|II(a) Hodgkin lymphomas|80042731|2001
+0-14|5.8|7.1|6.5|388|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|59815030|2001
+0-19|8.0|9.3|8.7|696|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|80042731|2001
+0-14|1.9|2.7|2.3|135|II(c) Burkitt lymphoma|59815030|2001
+0-19|1.9|2.5|2.2|174|II(c) Burkitt lymphoma|80042731|2001
+0-14|0.8|1.3|1.0|61|II(d) Miscellaneous lymphoreticular neoplasms|59815030|2001
+0-19|0.6|1.0|0.8|65|II(d) Miscellaneous lymphoreticular neoplasms|80042731|2001
+0-14|0.3|0.6|0.4|25|II(e) Unspecified lymphomas|59815030|2001
+0-19|0.4|0.7|0.5|40|II(e) Unspecified lymphomas|80042731|2001
+0-14|31.3|34.3|32.8|1956|III CNS and misc intracranial and intraspinal neoplasms|59815030|2001
+0-19|28.8|31.2|29.9|2391|III CNS and misc intracranial and intraspinal neoplasms|80042731|2001
+0-14|2.3|3.2|2.7|164|III(a) Ependymomas and choroid plexus tumor|59815030|2001
+0-19|2.1|2.8|2.4|194|III(a) Ependymomas and choroid plexus tumor|80042731|2001
+0-14|15.3|17.4|16.3|974|III(b) Astrocytomas|59815030|2001
+0-19|14.2|15.9|15.1|1202|III(b) Astrocytomas|80042731|2001
+0-14|6.6|8.0|7.3|434|III(c) Intracranial and intraspinal embryonal tumors|59815030|2001
+0-19|5.9|7.1|6.5|517|III(c) Intracranial and intraspinal embryonal tumors|80042731|2001
+0-14|4.8|6.0|5.4|321|III(d) Other gliomas|59815030|2001
+0-19|4.5|5.5|5.0|400|III(d) Other gliomas|80042731|2001
+0-14|0.5|0.9|0.7|42|III(e) Other specified intracranial & intraspinal neoplasms|59815030|2001
+0-19|0.5|0.8|0.6|49|III(e) Other specified intracranial & intraspinal neoplasms|80042731|2001
+0-14|0.2|0.5|0.3|21|III(f) Unspecified intracranial and intraspinal neoplasms|59815030|2001
+0-19|0.2|0.5|0.4|29|III(f) Unspecified intracranial and intraspinal neoplasms|80042731|2001
+0-14|10.7|12.5|11.6|693|IV Neuroblastoma and other peripheral nervous cell tumors|59815030|2001
+0-19|8.2|9.5|8.9|708|IV Neuroblastoma and other peripheral nervous cell tumors|80042731|2001
+0-14|10.6|12.3|11.4|685|IV(a) Neuroblastoma and ganglioneuroblastoma|59815030|2001
+0-19|8.0|9.3|8.7|693|IV(a) Neuroblastoma and ganglioneuroblastoma|80042731|2001
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|59815030|2001
+0-19|~|~|~|~|IV(b) Other peripheral nervous cell tumors|80042731|2001
+0-14|9.7|11.3|10.5|629|IX Soft tissue and other extraosseous sarcomas|59815030|2001
+0-19|11.2|12.7|11.9|956|IX Soft tissue and other extraosseous sarcomas|80042731|2001
+0-14|4.6|5.8|5.2|308|IX(a) Rhabdomyosarcomas|59815030|2001
+0-19|4.6|5.6|5.0|401|IX(a) Rhabdomyosarcomas|80042731|2001
+0-14|1.0|1.6|1.3|76|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|59815030|2001
+0-19|1.2|1.7|1.4|116|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|80042731|2001
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|59815030|2001
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|80042731|2001
+0-14|2.6|3.5|3.1|185|IX(d) Other specified soft tissue sarcomas|59815030|2001
+0-19|3.7|4.6|4.1|333|IX(d) Other specified soft tissue sarcomas|80042731|2001
+0-14|0.8|1.3|1.0|60|IX(e) Unspecified soft tissue sarcomas|59815030|2001
+0-19|1.0|1.5|1.3|103|IX(e) Unspecified soft tissue sarcomas|80042731|2001
+0-14|~|~|~|~|Not classified by ICCC|59815030|2001
+0-19|0.2|0.4|0.2|20|Not classified by ICCC|80042731|2001
+0-14|3.9|5.0|4.4|266|V Retinoblastoma|59815030|2001
+0-19|2.9|3.7|3.3|266|V Retinoblastoma|80042731|2001
+0-14|7.9|9.4|8.6|511|VI Renal tumors|59815030|2001
+0-19|6.2|7.4|6.8|540|VI Renal tumors|80042731|2001
+0-14|7.5|9.0|8.2|489|VI(a) Nephroblastoma and other nonepithelial renal tumors|59815030|2001
+0-19|5.7|6.8|6.2|494|VI(a) Nephroblastoma and other nonepithelial renal tumors|80042731|2001
+0-14|0.2|0.5|0.3|20|VI(b) Renal carcinomas|59815030|2001
+0-19|0.4|0.7|0.5|43|VI(b) Renal carcinomas|80042731|2001
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|59815030|2001
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|80042731|2001
+0-14|1.8|2.5|2.1|126|VII Hepatic tumors|59815030|2001
+0-19|1.5|2.1|1.8|145|VII Hepatic tumors|80042731|2001
+0-14|1.4|2.0|1.7|100|VII(a) Hepatoblastoma|59815030|2001
+0-19|1.0|1.5|1.3|101|VII(a) Hepatoblastoma|80042731|2001
+0-14|0.3|0.6|0.4|25|VII(b) Hepatic carcinomas|59815030|2001
+0-19|0.4|0.7|0.5|43|VII(b) Hepatic carcinomas|80042731|2001
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|59815030|2001
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|80042731|2001
+0-14|6.3|7.7|7.0|421|VIII Malignant bone tumors|59815030|2001
+0-19|8.8|10.2|9.5|766|VIII Malignant bone tumors|80042731|2001
+0-14|3.3|4.3|3.8|230|VIII(a) Osteosarcomas|59815030|2001
+0-19|4.7|5.7|5.2|417|VIII(a) Osteosarcomas|80042731|2001
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|59815030|2001
+0-19|0.2|0.5|0.4|29|VIII(b) Chondrosarcomas|80042731|2001
+0-14|2.3|3.1|2.7|160|VIII(c) Ewing tumor and related sarcomas of bone|59815030|2001
+0-19|3.0|3.8|3.4|273|VIII(c) Ewing tumor and related sarcomas of bone|80042731|2001
+0-14|~|~|~|~|VIII(d) Other specified malignant bone tumors|59815030|2001
+0-19|0.3|0.6|0.4|36|VIII(d) Other specified malignant bone tumors|80042731|2001
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|59815030|2001
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|80042731|2001
+0-14|4.5|5.6|5.0|304|X Germ cell, trophoblastic tumors & neoplasms of gonads|59815030|2001
+0-19|9.7|11.1|10.3|834|X Germ cell, trophoblastic tumors & neoplasms of gonads|80042731|2001
+0-14|1.0|1.6|1.3|79|X(a) Intracranial & intraspinal germ cell tumors|59815030|2001
+0-19|1.3|1.9|1.6|128|X(a) Intracranial & intraspinal germ cell tumors|80042731|2001
+0-14|1.1|1.7|1.4|85|X(b) Malignant extracranial & extragonadal germ cell tumors|59815030|2001
+0-19|1.3|1.9|1.6|129|X(b) Malignant extracranial & extragonadal germ cell tumors|80042731|2001
+0-14|1.7|2.4|2.0|121|X(c) Malignant gonadal germ cell tumors|59815030|2001
+0-19|6.0|7.1|6.6|528|X(c) Malignant gonadal germ cell tumors|80042731|2001
+0-14|~|~|~|~|X(d) Gonadal carcinomas|59815030|2001
+0-19|0.2|0.5|0.3|26|X(d) Gonadal carcinomas|80042731|2001
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|59815030|2001
+0-19|0.2|0.4|0.3|23|X(e) Other and unspecified malignant gonadal tumors|80042731|2001
+0-14|6.0|7.3|6.6|400|XI Other malignant epithelial neoplasms and malignant melanomas|59815030|2001
+0-19|15.6|17.3|16.4|1324|XI Other malignant epithelial neoplasms and malignant melanomas|80042731|2001
+0-14|0.2|0.5|0.3|17|XI(a) Adrenocortical carcinomas|59815030|2001
+0-19|0.1|0.4|0.2|18|XI(a) Adrenocortical carcinomas|80042731|2001
+0-14|1.9|2.7|2.3|140|XI(b) Thyroid carcinomas|59815030|2001
+0-19|5.3|6.3|5.8|467|XI(b) Thyroid carcinomas|80042731|2001
+0-14|0.2|0.5|0.3|19|XI(c) Nasopharyngeal carcinomas|59815030|2001
+0-19|0.4|0.7|0.5|44|XI(c) Nasopharyngeal carcinomas|80042731|2001
+0-14|1.7|2.4|2.0|121|XI(d) Malignant melanomas|59815030|2001
+0-19|5.3|6.3|5.8|465|XI(d) Malignant melanomas|80042731|2001
+0-14|~|~|~|~|XI(e) Skin carcinomas|59815030|2001
+0-19|~|~|~|~|XI(e) Skin carcinomas|80042731|2001
+0-14|1.3|2.0|1.7|100|XI(f) Other and unspecified carcinomas|59815030|2001
+0-19|3.6|4.5|4.0|325|XI(f) Other and unspecified carcinomas|80042731|2001
+0-14|0.5|1.0|0.7|43|XII Other and unspecified malignant neoplasms|59815030|2001
+0-19|0.7|1.1|0.9|70|XII Other and unspecified malignant neoplasms|80042731|2001
+0-14|0.2|0.6|0.4|22|XII(a) Other specified malignant tumors|59815030|2001
+0-19|0.3|0.5|0.4|30|XII(a) Other specified malignant tumors|80042731|2001
+0-14|0.2|0.5|0.4|21|XII(b) Other unspecified malignant tumors|59815030|2001
+0-19|0.4|0.7|0.5|40|XII(b) Other unspecified malignant tumors|80042731|2001
+0-14|151.9|158.2|155.1|9292|All ICCC Groups Combined|59931314|2002
+0-19|167.7|173.4|170.5|13705|All ICCC Groups Combined|80317363|2002
+0-14|47.6|51.2|49.4|2948|I Leukemias, myeloproliferative & myelodysplastic diseases|59931314|2002
+0-19|43.3|46.2|44.7|3575|I Leukemias, myeloproliferative & myelodysplastic diseases|80317363|2002
+0-14|35.5|38.6|37.0|2205|I(a) Lymphoid leukemias|59931314|2002
+0-19|30.6|33.1|31.8|2539|I(a) Lymphoid leukemias|80317363|2002
+0-14|7.2|8.6|7.9|475|I(b) Acute myeloid leukemias|59931314|2002
+0-19|7.5|8.8|8.1|655|I(b) Acute myeloid leukemias|80317363|2002
+0-14|1.3|1.9|1.6|95|I(c) Chronic myeloproliferative diseases|59931314|2002
+0-19|1.8|2.4|2.1|166|I(c) Chronic myeloproliferative diseases|80317363|2002
+0-14|1.3|1.9|1.6|95|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|59931314|2002
+0-19|1.2|1.8|1.5|119|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|80317363|2002
+0-14|1.0|1.6|1.3|78|I(e) Unspecified and other specified leukemias|59931314|2002
+0-19|1.0|1.5|1.2|96|I(e) Unspecified and other specified leukemias|80317363|2002
+0-14|14.7|16.7|15.7|947|II Lymphomas and reticuloendothelial neoplasms|59931314|2002
+0-19|23.5|25.6|24.5|1983|II Lymphomas and reticuloendothelial neoplasms|80317363|2002
+0-14|4.9|6.1|5.5|336|II(a) Hodgkin lymphomas|59931314|2002
+0-19|11.6|13.1|12.3|1001|II(a) Hodgkin lymphomas|80317363|2002
+0-14|5.5|6.7|6.1|366|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|59931314|2002
+0-19|7.6|8.9|8.2|663|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|80317363|2002
+0-14|2.3|3.2|2.7|164|II(c) Burkitt lymphoma|59931314|2002
+0-19|2.4|3.1|2.7|220|II(c) Burkitt lymphoma|80317363|2002
+0-14|0.9|1.5|1.1|69|II(d) Miscellaneous lymphoreticular neoplasms|59931314|2002
+0-19|0.7|1.1|0.9|71|II(d) Miscellaneous lymphoreticular neoplasms|80317363|2002
+0-14|~|~|~|~|II(e) Unspecified lymphomas|59931314|2002
+0-19|0.2|0.5|0.3|28|II(e) Unspecified lymphomas|80317363|2002
+0-14|33.0|36.0|34.5|2061|III CNS and misc intracranial and intraspinal neoplasms|59931314|2002
+0-19|30.1|32.6|31.4|2509|III CNS and misc intracranial and intraspinal neoplasms|80317363|2002
+0-14|3.1|4.1|3.6|214|III(a) Ependymomas and choroid plexus tumor|59931314|2002
+0-19|2.6|3.3|2.9|236|III(a) Ependymomas and choroid plexus tumor|80317363|2002
+0-14|15.4|17.5|16.4|980|III(b) Astrocytomas|59931314|2002
+0-19|14.5|16.2|15.3|1228|III(b) Astrocytomas|80317363|2002
+0-14|6.8|8.2|7.4|443|III(c) Intracranial and intraspinal embryonal tumors|59931314|2002
+0-19|5.8|6.9|6.4|508|III(c) Intracranial and intraspinal embryonal tumors|80317363|2002
+0-14|5.4|6.6|6.0|356|III(d) Other gliomas|59931314|2002
+0-19|5.1|6.1|5.6|445|III(d) Other gliomas|80317363|2002
+0-14|0.5|1.0|0.7|43|III(e) Other specified intracranial & intraspinal neoplasms|59931314|2002
+0-19|0.6|0.9|0.7|59|III(e) Other specified intracranial & intraspinal neoplasms|80317363|2002
+0-14|0.3|0.6|0.4|25|III(f) Unspecified intracranial and intraspinal neoplasms|59931314|2002
+0-19|0.3|0.6|0.4|33|III(f) Unspecified intracranial and intraspinal neoplasms|80317363|2002
+0-14|10.2|11.9|11.0|661|IV Neuroblastoma and other peripheral nervous cell tumors|59931314|2002
+0-19|7.8|9.1|8.5|677|IV Neuroblastoma and other peripheral nervous cell tumors|80317363|2002
+0-14|10.1|11.8|10.9|653|IV(a) Neuroblastoma and ganglioneuroblastoma|59931314|2002
+0-19|7.6|8.9|8.2|658|IV(a) Neuroblastoma and ganglioneuroblastoma|80317363|2002
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|59931314|2002
+0-19|0.1|0.4|0.2|19|IV(b) Other peripheral nervous cell tumors|80317363|2002
+0-14|10.0|11.7|10.8|651|IX Soft tissue and other extraosseous sarcomas|59931314|2002
+0-19|11.1|12.6|11.8|949|IX Soft tissue and other extraosseous sarcomas|80317363|2002
+0-14|4.8|6.0|5.4|320|IX(a) Rhabdomyosarcomas|59931314|2002
+0-19|4.4|5.4|4.9|390|IX(a) Rhabdomyosarcomas|80317363|2002
+0-14|0.9|1.4|1.1|69|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|59931314|2002
+0-19|0.9|1.4|1.2|94|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|80317363|2002
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|59931314|2002
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|80317363|2002
+0-14|3.0|3.9|3.4|207|IX(d) Other specified soft tissue sarcomas|59931314|2002
+0-19|4.3|5.3|4.8|386|IX(d) Other specified soft tissue sarcomas|80317363|2002
+0-14|0.7|1.2|0.9|55|IX(e) Unspecified soft tissue sarcomas|59931314|2002
+0-19|0.8|1.2|1.0|79|IX(e) Unspecified soft tissue sarcomas|80317363|2002
+0-14|0.2|0.5|0.3|20|Not classified by ICCC|59931314|2002
+0-19|0.2|0.5|0.3|25|Not classified by ICCC|80317363|2002
+0-14|3.3|4.3|3.8|225|V Retinoblastoma|59931314|2002
+0-19|2.5|3.2|2.8|225|V Retinoblastoma|80317363|2002
+0-14|7.6|9.1|8.3|494|VI Renal tumors|59931314|2002
+0-19|6.0|7.1|6.5|521|VI Renal tumors|80317363|2002
+0-14|7.4|8.8|8.1|481|VI(a) Nephroblastoma and other nonepithelial renal tumors|59931314|2002
+0-19|5.6|6.7|6.1|484|VI(a) Nephroblastoma and other nonepithelial renal tumors|80317363|2002
+0-14|~|~|~|~|VI(b) Renal carcinomas|59931314|2002
+0-19|0.3|0.6|0.4|36|VI(b) Renal carcinomas|80317363|2002
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|59931314|2002
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|80317363|2002
+0-14|1.6|2.3|1.9|114|VII Hepatic tumors|59931314|2002
+0-19|1.4|2.0|1.7|136|VII Hepatic tumors|80317363|2002
+0-14|1.2|1.9|1.5|92|VII(a) Hepatoblastoma|59931314|2002
+0-19|0.9|1.4|1.2|93|VII(a) Hepatoblastoma|80317363|2002
+0-14|0.2|0.5|0.3|21|VII(b) Hepatic carcinomas|59931314|2002
+0-19|0.4|0.7|0.5|42|VII(b) Hepatic carcinomas|80317363|2002
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|59931314|2002
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|80317363|2002
+0-14|6.2|7.6|6.9|417|VIII Malignant bone tumors|59931314|2002
+0-19|8.5|9.8|9.1|740|VIII Malignant bone tumors|80317363|2002
+0-14|3.2|4.2|3.7|223|VIII(a) Osteosarcomas|59931314|2002
+0-19|4.4|5.4|4.9|398|VIII(a) Osteosarcomas|80317363|2002
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|59931314|2002
+0-19|0.3|0.6|0.5|38|VIII(b) Chondrosarcomas|80317363|2002
+0-14|2.2|3.0|2.6|157|VIII(c) Ewing tumor and related sarcomas of bone|59931314|2002
+0-19|2.7|3.5|3.1|250|VIII(c) Ewing tumor and related sarcomas of bone|80317363|2002
+0-14|0.2|0.5|0.3|21|VIII(d) Other specified malignant bone tumors|59931314|2002
+0-19|0.4|0.7|0.5|41|VIII(d) Other specified malignant bone tumors|80317363|2002
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|59931314|2002
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|80317363|2002
+0-14|4.7|5.9|5.2|318|X Germ cell, trophoblastic tumors & neoplasms of gonads|59931314|2002
+0-19|10.3|11.8|11.0|892|X Germ cell, trophoblastic tumors & neoplasms of gonads|80317363|2002
+0-14|1.1|1.7|1.4|85|X(a) Intracranial & intraspinal germ cell tumors|59931314|2002
+0-19|1.4|1.9|1.6|132|X(a) Intracranial & intraspinal germ cell tumors|80317363|2002
+0-14|1.2|1.8|1.5|88|X(b) Malignant extracranial & extragonadal germ cell tumors|59931314|2002
+0-19|1.3|1.8|1.5|125|X(b) Malignant extracranial & extragonadal germ cell tumors|80317363|2002
+0-14|1.9|2.6|2.2|134|X(c) Malignant gonadal germ cell tumors|59931314|2002
+0-19|6.6|7.8|7.2|581|X(c) Malignant gonadal germ cell tumors|80317363|2002
+0-14|~|~|~|~|X(d) Gonadal carcinomas|59931314|2002
+0-19|0.2|0.5|0.4|29|X(d) Gonadal carcinomas|80317363|2002
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|59931314|2002
+0-19|0.2|0.5|0.3|25|X(e) Other and unspecified malignant gonadal tumors|80317363|2002
+0-14|5.9|7.2|6.6|399|XI Other malignant epithelial neoplasms and malignant melanomas|59931314|2002
+0-19|16.4|18.2|17.2|1399|XI Other malignant epithelial neoplasms and malignant melanomas|80317363|2002
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|59931314|2002
+0-19|0.1|0.4|0.2|19|XI(a) Adrenocortical carcinomas|80317363|2002
+0-14|1.7|2.4|2.0|122|XI(b) Thyroid carcinomas|59931314|2002
+0-19|5.3|6.3|5.8|470|XI(b) Thyroid carcinomas|80317363|2002
+0-14|~|~|~|~|XI(c) Nasopharyngeal carcinomas|59931314|2002
+0-19|0.4|0.8|0.6|49|XI(c) Nasopharyngeal carcinomas|80317363|2002
+0-14|1.9|2.7|2.3|140|XI(d) Malignant melanomas|59931314|2002
+0-19|5.9|7.1|6.5|526|XI(d) Malignant melanomas|80317363|2002
+0-14|~|~|~|~|XI(e) Skin carcinomas|59931314|2002
+0-19|~|~|~|~|XI(e) Skin carcinomas|80317363|2002
+0-14|1.4|2.0|1.7|103|XI(f) Other and unspecified carcinomas|59931314|2002
+0-19|3.6|4.5|4.0|327|XI(f) Other and unspecified carcinomas|80317363|2002
+0-14|0.4|0.8|0.6|37|XII Other and unspecified malignant neoplasms|59931314|2002
+0-19|0.7|1.2|0.9|74|XII Other and unspecified malignant neoplasms|80317363|2002
+0-14|0.2|0.5|0.3|21|XII(a) Other specified malignant tumors|59931314|2002
+0-19|0.3|0.6|0.5|37|XII(a) Other specified malignant tumors|80317363|2002
+0-14|0.2|0.4|0.3|16|XII(b) Other unspecified malignant tumors|59931314|2002
+0-19|0.3|0.6|0.5|37|XII(b) Other unspecified malignant tumors|80317363|2002
+0-14|149.1|155.3|152.1|9245|All ICCC Groups Combined|60628650|2003
+0-19|164.7|170.4|167.5|13680|All ICCC Groups Combined|81425816|2003
+0-14|45.9|49.4|47.6|2880|I Leukemias, myeloproliferative & myelodysplastic diseases|60628650|2003
+0-19|42.0|44.8|43.4|3518|I Leukemias, myeloproliferative & myelodysplastic diseases|81425816|2003
+0-14|34.5|37.5|36.0|2167|I(a) Lymphoid leukemias|60628650|2003
+0-19|29.5|31.9|30.7|2477|I(a) Lymphoid leukemias|81425816|2003
+0-14|6.8|8.2|7.5|457|I(b) Acute myeloid leukemias|60628650|2003
+0-19|7.2|8.4|7.8|639|I(b) Acute myeloid leukemias|81425816|2003
+0-14|1.2|1.8|1.5|89|I(c) Chronic myeloproliferative diseases|60628650|2003
+0-19|1.9|2.6|2.3|185|I(c) Chronic myeloproliferative diseases|81425816|2003
+0-14|1.5|2.2|1.8|110|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60628650|2003
+0-19|1.4|2.0|1.6|135|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|81425816|2003
+0-14|0.7|1.2|0.9|57|I(e) Unspecified and other specified leukemias|60628650|2003
+0-19|0.8|1.2|1.0|82|I(e) Unspecified and other specified leukemias|81425816|2003
+0-14|15.2|17.2|16.2|987|II Lymphomas and reticuloendothelial neoplasms|60628650|2003
+0-19|23.2|25.3|24.2|1988|II Lymphomas and reticuloendothelial neoplasms|81425816|2003
+0-14|5.3|6.6|5.9|364|II(a) Hodgkin lymphomas|60628650|2003
+0-19|11.7|13.2|12.4|1027|II(a) Hodgkin lymphomas|81425816|2003
+0-14|5.7|7.0|6.3|384|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60628650|2003
+0-19|7.5|8.7|8.1|660|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|81425816|2003
+0-14|2.3|3.2|2.7|163|II(c) Burkitt lymphoma|60628650|2003
+0-19|2.3|3.0|2.6|212|II(c) Burkitt lymphoma|81425816|2003
+0-14|0.9|1.4|1.1|69|II(d) Miscellaneous lymphoreticular neoplasms|60628650|2003
+0-19|0.7|1.1|0.9|72|II(d) Miscellaneous lymphoreticular neoplasms|81425816|2003
+0-14|~|~|~|~|II(e) Unspecified lymphomas|60628650|2003
+0-19|0.1|0.3|0.2|17|II(e) Unspecified lymphomas|81425816|2003
+0-14|31.4|34.3|32.8|1986|III CNS and misc intracranial and intraspinal neoplasms|60628650|2003
+0-19|28.9|31.3|30.1|2443|III CNS and misc intracranial and intraspinal neoplasms|81425816|2003
+0-14|2.1|2.9|2.5|152|III(a) Ependymomas and choroid plexus tumor|60628650|2003
+0-19|2.0|2.7|2.3|189|III(a) Ependymomas and choroid plexus tumor|81425816|2003
+0-14|15.3|17.4|16.3|988|III(b) Astrocytomas|60628650|2003
+0-19|14.4|16.1|15.3|1240|III(b) Astrocytomas|81425816|2003
+0-14|6.6|7.9|7.2|435|III(c) Intracranial and intraspinal embryonal tumors|60628650|2003
+0-19|5.6|6.7|6.1|494|III(c) Intracranial and intraspinal embryonal tumors|81425816|2003
+0-14|5.0|6.2|5.6|339|III(d) Other gliomas|60628650|2003
+0-19|4.7|5.7|5.2|423|III(d) Other gliomas|81425816|2003
+0-14|0.6|1.1|0.9|52|III(e) Other specified intracranial & intraspinal neoplasms|60628650|2003
+0-19|0.7|1.1|0.8|68|III(e) Other specified intracranial & intraspinal neoplasms|81425816|2003
+0-14|0.2|0.5|0.3|20|III(f) Unspecified intracranial and intraspinal neoplasms|60628650|2003
+0-19|0.2|0.5|0.4|29|III(f) Unspecified intracranial and intraspinal neoplasms|81425816|2003
+0-14|9.9|11.6|10.7|653|IV Neuroblastoma and other peripheral nervous cell tumors|60628650|2003
+0-19|7.6|8.9|8.2|669|IV Neuroblastoma and other peripheral nervous cell tumors|81425816|2003
+0-14|9.8|11.4|10.6|643|IV(a) Neuroblastoma and ganglioneuroblastoma|60628650|2003
+0-19|7.4|8.7|8.0|654|IV(a) Neuroblastoma and ganglioneuroblastoma|81425816|2003
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|60628650|2003
+0-19|~|~|~|~|IV(b) Other peripheral nervous cell tumors|81425816|2003
+0-14|9.8|11.5|10.6|649|IX Soft tissue and other extraosseous sarcomas|60628650|2003
+0-19|11.4|13.0|12.2|997|IX Soft tissue and other extraosseous sarcomas|81425816|2003
+0-14|4.5|5.7|5.1|307|IX(a) Rhabdomyosarcomas|60628650|2003
+0-19|4.3|5.3|4.8|390|IX(a) Rhabdomyosarcomas|81425816|2003
+0-14|0.8|1.3|1.0|63|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60628650|2003
+0-19|1.2|1.7|1.4|118|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|81425816|2003
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|60628650|2003
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|81425816|2003
+0-14|3.1|4.1|3.6|219|IX(d) Other specified soft tissue sarcomas|60628650|2003
+0-19|4.2|5.2|4.7|384|IX(d) Other specified soft tissue sarcomas|81425816|2003
+0-14|0.7|1.2|0.9|58|IX(e) Unspecified soft tissue sarcomas|60628650|2003
+0-19|1.0|1.5|1.2|102|IX(e) Unspecified soft tissue sarcomas|81425816|2003
+0-14|~|~|~|~|Not classified by ICCC|60628650|2003
+0-19|0.1|0.4|0.2|19|Not classified by ICCC|81425816|2003
+0-14|3.6|4.6|4.1|250|V Retinoblastoma|60628650|2003
+0-19|2.7|3.5|3.1|251|V Retinoblastoma|81425816|2003
+0-14|7.8|9.3|8.5|516|VI Renal tumors|60628650|2003
+0-19|6.2|7.3|6.7|543|VI Renal tumors|81425816|2003
+0-14|7.4|8.9|8.1|491|VI(a) Nephroblastoma and other nonepithelial renal tumors|60628650|2003
+0-19|5.6|6.7|6.1|494|VI(a) Nephroblastoma and other nonepithelial renal tumors|81425816|2003
+0-14|0.2|0.5|0.3|21|VI(b) Renal carcinomas|60628650|2003
+0-19|0.4|0.7|0.5|45|VI(b) Renal carcinomas|81425816|2003
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|60628650|2003
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|81425816|2003
+0-14|2.1|2.9|2.5|152|VII Hepatic tumors|60628650|2003
+0-19|1.8|2.5|2.1|174|VII Hepatic tumors|81425816|2003
+0-14|1.7|2.4|2.0|124|VII(a) Hepatoblastoma|60628650|2003
+0-19|1.3|1.8|1.5|124|VII(a) Hepatoblastoma|81425816|2003
+0-14|0.3|0.7|0.5|28|VII(b) Hepatic carcinomas|60628650|2003
+0-19|0.5|0.8|0.6|50|VII(b) Hepatic carcinomas|81425816|2003
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60628650|2003
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|81425816|2003
+0-14|6.0|7.3|6.6|408|VIII Malignant bone tumors|60628650|2003
+0-19|8.0|9.3|8.7|714|VIII Malignant bone tumors|81425816|2003
+0-14|3.2|4.2|3.7|227|VIII(a) Osteosarcomas|60628650|2003
+0-19|4.8|5.8|5.3|436|VIII(a) Osteosarcomas|81425816|2003
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|60628650|2003
+0-19|0.2|0.4|0.3|21|VIII(b) Chondrosarcomas|81425816|2003
+0-14|1.9|2.6|2.2|137|VIII(c) Ewing tumor and related sarcomas of bone|60628650|2003
+0-19|2.2|2.9|2.6|212|VIII(c) Ewing tumor and related sarcomas of bone|81425816|2003
+0-14|0.2|0.4|0.3|17|VIII(d) Other specified malignant bone tumors|60628650|2003
+0-19|0.2|0.5|0.3|28|VIII(d) Other specified malignant bone tumors|81425816|2003
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|60628650|2003
+0-19|0.1|0.3|0.2|17|VIII(e) Unspecified malignant bone tumors|81425816|2003
+0-14|4.5|5.7|5.1|313|X Germ cell, trophoblastic tumors & neoplasms of gonads|60628650|2003
+0-19|9.6|11.0|10.3|848|X Germ cell, trophoblastic tumors & neoplasms of gonads|81425816|2003
+0-14|0.9|1.5|1.2|73|X(a) Intracranial & intraspinal germ cell tumors|60628650|2003
+0-19|1.1|1.6|1.4|113|X(a) Intracranial & intraspinal germ cell tumors|81425816|2003
+0-14|1.2|1.8|1.4|88|X(b) Malignant extracranial & extragonadal germ cell tumors|60628650|2003
+0-19|1.2|1.7|1.5|120|X(b) Malignant extracranial & extragonadal germ cell tumors|81425816|2003
+0-14|1.8|2.6|2.2|136|X(c) Malignant gonadal germ cell tumors|60628650|2003
+0-19|6.1|7.3|6.7|553|X(c) Malignant gonadal germ cell tumors|81425816|2003
+0-14|~|~|~|~|X(d) Gonadal carcinomas|60628650|2003
+0-19|0.2|0.5|0.4|30|X(d) Gonadal carcinomas|81425816|2003
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60628650|2003
+0-19|0.3|0.5|0.4|32|X(e) Other and unspecified malignant gonadal tumors|81425816|2003
+0-14|5.7|6.9|6.3|390|XI Other malignant epithelial neoplasms and malignant melanomas|60628650|2003
+0-19|16.4|18.2|17.3|1428|XI Other malignant epithelial neoplasms and malignant melanomas|81425816|2003
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|60628650|2003
+0-19|0.1|0.4|0.2|20|XI(a) Adrenocortical carcinomas|81425816|2003
+0-14|1.8|2.6|2.2|134|XI(b) Thyroid carcinomas|60628650|2003
+0-19|5.6|6.7|6.1|508|XI(b) Thyroid carcinomas|81425816|2003
+0-14|~|~|~|~|XI(c) Nasopharyngeal carcinomas|60628650|2003
+0-19|0.5|0.9|0.7|54|XI(c) Nasopharyngeal carcinomas|81425816|2003
+0-14|1.6|2.3|1.9|119|XI(d) Malignant melanomas|60628650|2003
+0-19|5.4|6.5|5.9|491|XI(d) Malignant melanomas|81425816|2003
+0-14|~|~|~|~|XI(e) Skin carcinomas|60628650|2003
+0-19|~|~|~|~|XI(e) Skin carcinomas|81425816|2003
+0-14|1.5|2.1|1.8|110|XI(f) Other and unspecified carcinomas|60628650|2003
+0-19|3.8|4.7|4.2|346|XI(f) Other and unspecified carcinomas|81425816|2003
+0-14|0.6|1.0|0.8|48|XII Other and unspecified malignant neoplasms|60628650|2003
+0-19|0.9|1.3|1.1|88|XII Other and unspecified malignant neoplasms|81425816|2003
+0-14|0.2|0.5|0.3|20|XII(a) Other specified malignant tumors|60628650|2003
+0-19|0.3|0.6|0.5|39|XII(a) Other specified malignant tumors|81425816|2003
+0-14|0.3|0.7|0.5|28|XII(b) Other unspecified malignant tumors|60628650|2003
+0-19|0.4|0.8|0.6|49|XII(b) Other unspecified malignant tumors|81425816|2003
+0-14|156.7|163.1|159.9|9740|All ICCC Groups Combined|60651802|2004
+0-19|171.3|177.1|174.2|14311|All ICCC Groups Combined|81754354|2004
+0-14|49.4|53.0|51.2|3105|I Leukemias, myeloproliferative & myelodysplastic diseases|60651802|2004
+0-19|44.7|47.7|46.2|3765|I Leukemias, myeloproliferative & myelodysplastic diseases|81754354|2004
+0-14|37.3|40.4|38.8|2348|I(a) Lymphoid leukemias|60651802|2004
+0-19|32.0|34.5|33.2|2698|I(a) Lymphoid leukemias|81754354|2004
+0-14|7.2|8.7|7.9|485|I(b) Acute myeloid leukemias|60651802|2004
+0-19|7.6|8.9|8.2|676|I(b) Acute myeloid leukemias|81754354|2004
+0-14|1.3|1.9|1.6|96|I(c) Chronic myeloproliferative diseases|60651802|2004
+0-19|1.9|2.5|2.2|179|I(c) Chronic myeloproliferative diseases|81754354|2004
+0-14|1.2|1.9|1.5|93|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60651802|2004
+0-19|1.1|1.6|1.4|112|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|81754354|2004
+0-14|1.1|1.7|1.4|83|I(e) Unspecified and other specified leukemias|60651802|2004
+0-19|1.0|1.5|1.2|100|I(e) Unspecified and other specified leukemias|81754354|2004
+0-14|15.1|17.1|16.1|982|II Lymphomas and reticuloendothelial neoplasms|60651802|2004
+0-19|23.0|25.2|24.1|1994|II Lymphomas and reticuloendothelial neoplasms|81754354|2004
+0-14|4.7|5.9|5.3|324|II(a) Hodgkin lymphomas|60651802|2004
+0-19|11.1|12.6|11.8|986|II(a) Hodgkin lymphomas|81754354|2004
+0-14|6.2|7.6|6.9|419|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60651802|2004
+0-19|7.9|9.2|8.5|703|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|81754354|2004
+0-14|2.1|2.9|2.4|147|II(c) Burkitt lymphoma|60651802|2004
+0-19|2.0|2.7|2.3|191|II(c) Burkitt lymphoma|81754354|2004
+0-14|1.0|1.6|1.3|80|II(d) Miscellaneous lymphoreticular neoplasms|60651802|2004
+0-19|0.9|1.3|1.1|87|II(d) Miscellaneous lymphoreticular neoplasms|81754354|2004
+0-14|~|~|~|~|II(e) Unspecified lymphomas|60651802|2004
+0-19|0.2|0.5|0.3|27|II(e) Unspecified lymphomas|81754354|2004
+0-14|33.6|36.6|35.1|2121|III CNS and misc intracranial and intraspinal neoplasms|60651802|2004
+0-19|30.9|33.4|32.1|2613|III CNS and misc intracranial and intraspinal neoplasms|81754354|2004
+0-14|2.6|3.4|3.0|181|III(a) Ependymomas and choroid plexus tumor|60651802|2004
+0-19|2.4|3.1|2.7|224|III(a) Ependymomas and choroid plexus tumor|81754354|2004
+0-14|16.5|18.6|17.5|1061|III(b) Astrocytomas|60651802|2004
+0-19|15.6|17.4|16.5|1342|III(b) Astrocytomas|81754354|2004
+0-14|7.1|8.5|7.8|470|III(c) Intracranial and intraspinal embryonal tumors|60651802|2004
+0-19|6.0|7.1|6.6|532|III(c) Intracranial and intraspinal embryonal tumors|81754354|2004
+0-14|4.8|6.0|5.4|325|III(d) Other gliomas|60651802|2004
+0-19|4.6|5.6|5.1|413|III(d) Other gliomas|81754354|2004
+0-14|0.6|1.1|0.8|49|III(e) Other specified intracranial & intraspinal neoplasms|60651802|2004
+0-19|0.5|0.9|0.7|59|III(e) Other specified intracranial & intraspinal neoplasms|81754354|2004
+0-14|0.4|0.8|0.6|35|III(f) Unspecified intracranial and intraspinal neoplasms|60651802|2004
+0-19|0.4|0.7|0.5|43|III(f) Unspecified intracranial and intraspinal neoplasms|81754354|2004
+0-14|10.2|11.9|11.0|676|IV Neuroblastoma and other peripheral nervous cell tumors|60651802|2004
+0-19|7.8|9.1|8.5|693|IV Neuroblastoma and other peripheral nervous cell tumors|81754354|2004
+0-14|10.0|11.6|10.8|661|IV(a) Neuroblastoma and ganglioneuroblastoma|60651802|2004
+0-19|7.6|8.8|8.2|670|IV(a) Neuroblastoma and ganglioneuroblastoma|81754354|2004
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|60651802|2004
+0-19|0.2|0.4|0.3|23|IV(b) Other peripheral nervous cell tumors|81754354|2004
+0-14|9.8|11.4|10.6|647|IX Soft tissue and other extraosseous sarcomas|60651802|2004
+0-19|11.3|12.8|12.1|994|IX Soft tissue and other extraosseous sarcomas|81754354|2004
+0-14|4.1|5.2|4.7|283|IX(a) Rhabdomyosarcomas|60651802|2004
+0-19|3.9|4.8|4.3|354|IX(a) Rhabdomyosarcomas|81754354|2004
+0-14|1.0|1.5|1.2|76|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60651802|2004
+0-19|1.1|1.6|1.4|113|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|81754354|2004
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|60651802|2004
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|81754354|2004
+0-14|3.2|4.2|3.6|224|IX(d) Other specified soft tissue sarcomas|60651802|2004
+0-19|4.6|5.6|5.1|423|IX(d) Other specified soft tissue sarcomas|81754354|2004
+0-14|0.8|1.3|1.0|62|IX(e) Unspecified soft tissue sarcomas|60651802|2004
+0-19|1.0|1.5|1.2|100|IX(e) Unspecified soft tissue sarcomas|81754354|2004
+0-14|~|~|~|~|Not classified by ICCC|60651802|2004
+0-19|0.2|0.4|0.3|25|Not classified by ICCC|81754354|2004
+0-14|3.8|4.9|4.3|266|V Retinoblastoma|60651802|2004
+0-19|2.9|3.6|3.2|266|V Retinoblastoma|81754354|2004
+0-14|7.4|8.9|8.1|494|VI Renal tumors|60651802|2004
+0-19|6.0|7.1|6.5|529|VI Renal tumors|81754354|2004
+0-14|7.1|8.5|7.8|471|VI(a) Nephroblastoma and other nonepithelial renal tumors|60651802|2004
+0-19|5.4|6.5|5.9|479|VI(a) Nephroblastoma and other nonepithelial renal tumors|81754354|2004
+0-14|0.2|0.6|0.4|23|VI(b) Renal carcinomas|60651802|2004
+0-19|0.4|0.8|0.6|47|VI(b) Renal carcinomas|81754354|2004
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|60651802|2004
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|81754354|2004
+0-14|2.3|3.1|2.7|164|VII Hepatic tumors|60651802|2004
+0-19|2.1|2.8|2.4|197|VII Hepatic tumors|81754354|2004
+0-14|2.0|2.8|2.3|144|VII(a) Hepatoblastoma|60651802|2004
+0-19|1.5|2.1|1.8|144|VII(a) Hepatoblastoma|81754354|2004
+0-14|~|~|~|~|VII(b) Hepatic carcinomas|60651802|2004
+0-19|0.4|0.8|0.6|48|VII(b) Hepatic carcinomas|81754354|2004
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60651802|2004
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|81754354|2004
+0-14|6.5|7.8|7.1|438|VIII Malignant bone tumors|60651802|2004
+0-19|8.4|9.7|9.1|751|VIII Malignant bone tumors|81754354|2004
+0-14|3.6|4.7|4.1|254|VIII(a) Osteosarcomas|60651802|2004
+0-19|4.7|5.7|5.2|427|VIII(a) Osteosarcomas|81754354|2004
+0-14|0.2|0.4|0.3|17|VIII(b) Chondrosarcomas|60651802|2004
+0-19|0.4|0.7|0.5|41|VIII(b) Chondrosarcomas|81754354|2004
+0-14|2.0|2.8|2.3|144|VIII(c) Ewing tumor and related sarcomas of bone|60651802|2004
+0-19|2.4|3.1|2.8|228|VIII(c) Ewing tumor and related sarcomas of bone|81754354|2004
+0-14|0.2|0.5|0.3|18|VIII(d) Other specified malignant bone tumors|60651802|2004
+0-19|0.4|0.7|0.5|42|VIII(d) Other specified malignant bone tumors|81754354|2004
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|60651802|2004
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|81754354|2004
+0-14|5.0|6.2|5.6|347|X Germ cell, trophoblastic tumors & neoplasms of gonads|60651802|2004
+0-19|10.4|11.9|11.1|927|X Germ cell, trophoblastic tumors & neoplasms of gonads|81754354|2004
+0-14|1.3|1.9|1.6|96|X(a) Intracranial & intraspinal germ cell tumors|60651802|2004
+0-19|1.5|2.1|1.8|148|X(a) Intracranial & intraspinal germ cell tumors|81754354|2004
+0-14|1.1|1.7|1.3|83|X(b) Malignant extracranial & extragonadal germ cell tumors|60651802|2004
+0-19|1.1|1.6|1.3|110|X(b) Malignant extracranial & extragonadal germ cell tumors|81754354|2004
+0-14|2.0|2.8|2.4|148|X(c) Malignant gonadal germ cell tumors|60651802|2004
+0-19|6.7|7.9|7.3|609|X(c) Malignant gonadal germ cell tumors|81754354|2004
+0-14|~|~|~|~|X(d) Gonadal carcinomas|60651802|2004
+0-19|0.3|0.6|0.4|33|X(d) Gonadal carcinomas|81754354|2004
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60651802|2004
+0-19|0.2|0.5|0.3|27|X(e) Other and unspecified malignant gonadal tumors|81754354|2004
+0-14|6.5|7.9|7.2|443|XI Other malignant epithelial neoplasms and malignant melanomas|60651802|2004
+0-19|16.9|18.7|17.8|1485|XI Other malignant epithelial neoplasms and malignant melanomas|81754354|2004
+0-14|0.2|0.4|0.3|16|XI(a) Adrenocortical carcinomas|60651802|2004
+0-19|0.1|0.4|0.2|19|XI(a) Adrenocortical carcinomas|81754354|2004
+0-14|2.2|3.1|2.6|161|XI(b) Thyroid carcinomas|60651802|2004
+0-19|6.3|7.4|6.8|567|XI(b) Thyroid carcinomas|81754354|2004
+0-14|0.2|0.6|0.4|24|XI(c) Nasopharyngeal carcinomas|60651802|2004
+0-19|0.4|0.7|0.5|46|XI(c) Nasopharyngeal carcinomas|81754354|2004
+0-14|2.1|2.9|2.5|152|XI(d) Malignant melanomas|60651802|2004
+0-19|5.9|7.0|6.4|537|XI(d) Malignant melanomas|81754354|2004
+0-14|~|~|~|~|XI(e) Skin carcinomas|60651802|2004
+0-19|~|~|~|~|XI(e) Skin carcinomas|81754354|2004
+0-14|1.1|1.7|1.4|84|XI(f) Other and unspecified carcinomas|60651802|2004
+0-19|3.3|4.1|3.7|308|XI(f) Other and unspecified carcinomas|81754354|2004
+0-14|0.5|0.9|0.7|43|XII Other and unspecified malignant neoplasms|60651802|2004
+0-19|0.7|1.1|0.9|72|XII Other and unspecified malignant neoplasms|81754354|2004
+0-14|0.2|0.5|0.3|18|XII(a) Other specified malignant tumors|60651802|2004
+0-19|0.2|0.5|0.3|28|XII(a) Other specified malignant tumors|81754354|2004
+0-14|0.3|0.6|0.4|25|XII(b) Other unspecified malignant tumors|60651802|2004
+0-19|0.4|0.7|0.5|44|XII(b) Other unspecified malignant tumors|81754354|2004
+0-14|152.6|158.9|155.7|9476|All ICCC Groups Combined|60519046|2005
+0-19|169.6|175.3|172.4|14247|All ICCC Groups Combined|82005260|2005
+0-14|47.5|51.0|49.2|2989|I Leukemias, myeloproliferative & myelodysplastic diseases|60519046|2005
+0-19|43.1|46.0|44.5|3646|I Leukemias, myeloproliferative & myelodysplastic diseases|82005260|2005
+0-14|35.9|39.0|37.4|2269|I(a) Lymphoid leukemias|60519046|2005
+0-19|30.8|33.3|32.0|2611|I(a) Lymphoid leukemias|82005260|2005
+0-14|6.6|8.0|7.3|445|I(b) Acute myeloid leukemias|60519046|2005
+0-19|7.0|8.2|7.5|624|I(b) Acute myeloid leukemias|82005260|2005
+0-14|1.2|1.8|1.4|88|I(c) Chronic myeloproliferative diseases|60519046|2005
+0-19|1.8|2.4|2.1|172|I(c) Chronic myeloproliferative diseases|82005260|2005
+0-14|1.4|2.0|1.7|101|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60519046|2005
+0-19|1.3|1.9|1.6|132|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82005260|2005
+0-14|1.1|1.7|1.4|86|I(e) Unspecified and other specified leukemias|60519046|2005
+0-19|1.1|1.6|1.3|107|I(e) Unspecified and other specified leukemias|82005260|2005
+0-14|15.6|17.7|16.6|1011|II Lymphomas and reticuloendothelial neoplasms|60519046|2005
+0-19|24.7|26.9|25.8|2150|II Lymphomas and reticuloendothelial neoplasms|82005260|2005
+0-14|5.3|6.5|5.9|359|II(a) Hodgkin lymphomas|60519046|2005
+0-19|11.9|13.5|12.7|1067|II(a) Hodgkin lymphomas|82005260|2005
+0-14|5.8|7.1|6.4|390|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60519046|2005
+0-19|8.3|9.6|9.0|745|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82005260|2005
+0-14|2.2|3.0|2.6|155|II(c) Burkitt lymphoma|60519046|2005
+0-19|2.2|2.9|2.5|205|II(c) Burkitt lymphoma|82005260|2005
+0-14|1.2|1.9|1.5|93|II(d) Miscellaneous lymphoreticular neoplasms|60519046|2005
+0-19|1.0|1.5|1.3|104|II(d) Miscellaneous lymphoreticular neoplasms|82005260|2005
+0-14|~|~|~|~|II(e) Unspecified lymphomas|60519046|2005
+0-19|0.2|0.5|0.3|29|II(e) Unspecified lymphomas|82005260|2005
+0-14|31.5|34.5|33.0|1992|III CNS and misc intracranial and intraspinal neoplasms|60519046|2005
+0-19|29.0|31.4|30.2|2461|III CNS and misc intracranial and intraspinal neoplasms|82005260|2005
+0-14|2.9|3.8|3.3|200|III(a) Ependymomas and choroid plexus tumor|60519046|2005
+0-19|2.6|3.3|2.9|241|III(a) Ependymomas and choroid plexus tumor|82005260|2005
+0-14|15.5|17.6|16.6|1002|III(b) Astrocytomas|60519046|2005
+0-19|14.5|16.2|15.4|1257|III(b) Astrocytomas|82005260|2005
+0-14|6.3|7.7|7.0|420|III(c) Intracranial and intraspinal embryonal tumors|60519046|2005
+0-19|5.4|6.4|5.9|478|III(c) Intracranial and intraspinal embryonal tumors|82005260|2005
+0-14|4.5|5.7|5.1|306|III(d) Other gliomas|60519046|2005
+0-19|4.4|5.4|4.9|396|III(d) Other gliomas|82005260|2005
+0-14|0.4|0.8|0.6|35|III(e) Other specified intracranial & intraspinal neoplasms|60519046|2005
+0-19|0.5|0.8|0.6|51|III(e) Other specified intracranial & intraspinal neoplasms|82005260|2005
+0-14|0.3|0.7|0.5|29|III(f) Unspecified intracranial and intraspinal neoplasms|60519046|2005
+0-19|0.3|0.6|0.5|38|III(f) Unspecified intracranial and intraspinal neoplasms|82005260|2005
+0-14|10.9|12.7|11.8|725|IV Neuroblastoma and other peripheral nervous cell tumors|60519046|2005
+0-19|8.4|9.7|9.0|743|IV Neuroblastoma and other peripheral nervous cell tumors|82005260|2005
+0-14|10.8|12.5|11.6|716|IV(a) Neuroblastoma and ganglioneuroblastoma|60519046|2005
+0-19|8.2|9.5|8.8|725|IV(a) Neuroblastoma and ganglioneuroblastoma|82005260|2005
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|60519046|2005
+0-19|0.1|0.3|0.2|18|IV(b) Other peripheral nervous cell tumors|82005260|2005
+0-14|9.8|11.5|10.6|645|IX Soft tissue and other extraosseous sarcomas|60519046|2005
+0-19|11.6|13.1|12.3|1020|IX Soft tissue and other extraosseous sarcomas|82005260|2005
+0-14|4.7|5.9|5.3|321|IX(a) Rhabdomyosarcomas|60519046|2005
+0-19|4.4|5.4|4.9|400|IX(a) Rhabdomyosarcomas|82005260|2005
+0-14|0.9|1.4|1.1|69|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60519046|2005
+0-19|1.2|1.7|1.4|117|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82005260|2005
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|60519046|2005
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82005260|2005
+0-14|2.9|3.8|3.3|203|IX(d) Other specified soft tissue sarcomas|60519046|2005
+0-19|4.4|5.4|4.9|408|IX(d) Other specified soft tissue sarcomas|82005260|2005
+0-14|0.6|1.1|0.8|50|IX(e) Unspecified soft tissue sarcomas|60519046|2005
+0-19|0.9|1.4|1.1|91|IX(e) Unspecified soft tissue sarcomas|82005260|2005
+0-14|0.2|0.4|0.3|17|Not classified by ICCC|60519046|2005
+0-19|0.2|0.4|0.3|22|Not classified by ICCC|82005260|2005
+0-14|3.4|4.4|3.9|240|V Retinoblastoma|60519046|2005
+0-19|2.6|3.3|2.9|242|V Retinoblastoma|82005260|2005
+0-14|7.5|9.0|8.2|501|VI Renal tumors|60519046|2005
+0-19|6.2|7.3|6.7|548|VI Renal tumors|82005260|2005
+0-14|7.2|8.6|7.8|478|VI(a) Nephroblastoma and other nonepithelial renal tumors|60519046|2005
+0-19|5.5|6.6|6.1|494|VI(a) Nephroblastoma and other nonepithelial renal tumors|82005260|2005
+0-14|0.2|0.5|0.3|19|VI(b) Renal carcinomas|60519046|2005
+0-19|0.4|0.8|0.6|50|VI(b) Renal carcinomas|82005260|2005
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|60519046|2005
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82005260|2005
+0-14|2.0|2.8|2.4|145|VII Hepatic tumors|60519046|2005
+0-19|1.7|2.4|2.0|168|VII Hepatic tumors|82005260|2005
+0-14|1.6|2.3|1.9|116|VII(a) Hepatoblastoma|60519046|2005
+0-19|1.2|1.7|1.4|117|VII(a) Hepatoblastoma|82005260|2005
+0-14|0.3|0.6|0.4|27|VII(b) Hepatic carcinomas|60519046|2005
+0-19|0.4|0.8|0.6|49|VII(b) Hepatic carcinomas|82005260|2005
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60519046|2005
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82005260|2005
+0-14|6.2|7.5|6.8|415|VIII Malignant bone tumors|60519046|2005
+0-19|8.2|9.5|8.9|737|VIII Malignant bone tumors|82005260|2005
+0-14|3.3|4.2|3.7|227|VIII(a) Osteosarcomas|60519046|2005
+0-19|4.6|5.5|5.0|419|VIII(a) Osteosarcomas|82005260|2005
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|60519046|2005
+0-19|0.2|0.4|0.3|23|VIII(b) Chondrosarcomas|82005260|2005
+0-14|2.0|2.8|2.4|147|VIII(c) Ewing tumor and related sarcomas of bone|60519046|2005
+0-19|2.6|3.3|2.9|242|VIII(c) Ewing tumor and related sarcomas of bone|82005260|2005
+0-14|0.2|0.5|0.3|20|VIII(d) Other specified malignant bone tumors|60519046|2005
+0-19|0.3|0.6|0.4|36|VIII(d) Other specified malignant bone tumors|82005260|2005
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|60519046|2005
+0-19|0.1|0.3|0.2|17|VIII(e) Unspecified malignant bone tumors|82005260|2005
+0-14|4.9|6.1|5.5|338|X Germ cell, trophoblastic tumors & neoplasms of gonads|60519046|2005
+0-19|10.7|12.2|11.4|963|X Germ cell, trophoblastic tumors & neoplasms of gonads|82005260|2005
+0-14|1.1|1.7|1.4|83|X(a) Intracranial & intraspinal germ cell tumors|60519046|2005
+0-19|1.3|1.9|1.6|133|X(a) Intracranial & intraspinal germ cell tumors|82005260|2005
+0-14|1.3|2.0|1.6|100|X(b) Malignant extracranial & extragonadal germ cell tumors|60519046|2005
+0-19|1.3|1.9|1.6|134|X(b) Malignant extracranial & extragonadal germ cell tumors|82005260|2005
+0-14|1.9|2.6|2.2|138|X(c) Malignant gonadal germ cell tumors|60519046|2005
+0-19|6.9|8.1|7.5|636|X(c) Malignant gonadal germ cell tumors|82005260|2005
+0-14|~|~|~|~|X(d) Gonadal carcinomas|60519046|2005
+0-19|0.3|0.5|0.4|32|X(d) Gonadal carcinomas|82005260|2005
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60519046|2005
+0-19|0.2|0.5|0.3|28|X(e) Other and unspecified malignant gonadal tumors|82005260|2005
+0-14|6.2|7.6|6.9|422|XI Other malignant epithelial neoplasms and malignant melanomas|60519046|2005
+0-19|16.6|18.4|17.4|1471|XI Other malignant epithelial neoplasms and malignant melanomas|82005260|2005
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|60519046|2005
+0-19|~|~|~|~|XI(a) Adrenocortical carcinomas|82005260|2005
+0-14|1.8|2.6|2.2|135|XI(b) Thyroid carcinomas|60519046|2005
+0-19|5.6|6.6|6.1|514|XI(b) Thyroid carcinomas|82005260|2005
+0-14|~|~|~|~|XI(c) Nasopharyngeal carcinomas|60519046|2005
+0-19|0.3|0.5|0.4|33|XI(c) Nasopharyngeal carcinomas|82005260|2005
+0-14|2.1|2.9|2.4|148|XI(d) Malignant melanomas|60519046|2005
+0-19|6.0|7.1|6.5|550|XI(d) Malignant melanomas|82005260|2005
+0-14|~|~|~|~|XI(e) Skin carcinomas|60519046|2005
+0-19|~|~|~|~|XI(e) Skin carcinomas|82005260|2005
+0-14|1.6|2.3|1.9|116|XI(f) Other and unspecified carcinomas|60519046|2005
+0-19|3.8|4.7|4.2|355|XI(f) Other and unspecified carcinomas|82005260|2005
+0-14|0.4|0.8|0.6|36|XII Other and unspecified malignant neoplasms|60519046|2005
+0-19|0.7|1.1|0.9|76|XII Other and unspecified malignant neoplasms|82005260|2005
+0-14|0.2|0.5|0.3|19|XII(a) Other specified malignant tumors|60519046|2005
+0-19|0.3|0.5|0.4|32|XII(a) Other specified malignant tumors|82005260|2005
+0-14|0.2|0.5|0.3|17|XII(b) Other unspecified malignant tumors|60519046|2005
+0-19|0.4|0.7|0.5|44|XII(b) Other unspecified malignant tumors|82005260|2005
+0-14|155.2|161.6|158.4|9638|All ICCC Groups Combined|60516709|2006
+0-19|169.7|175.4|172.6|14323|All ICCC Groups Combined|82324418|2006
+0-14|49.7|53.3|51.5|3130|I Leukemias, myeloproliferative & myelodysplastic diseases|60516709|2006
+0-19|45.3|48.3|46.8|3848|I Leukemias, myeloproliferative & myelodysplastic diseases|82324418|2006
+0-14|37.3|40.4|38.8|2356|I(a) Lymphoid leukemias|60516709|2006
+0-19|32.0|34.5|33.3|2720|I(a) Lymphoid leukemias|82324418|2006
+0-14|7.2|8.6|7.8|480|I(b) Acute myeloid leukemias|60516709|2006
+0-19|7.6|8.8|8.2|679|I(b) Acute myeloid leukemias|82324418|2006
+0-14|1.4|2.1|1.7|105|I(c) Chronic myeloproliferative diseases|60516709|2006
+0-19|2.0|2.7|2.3|197|I(c) Chronic myeloproliferative diseases|82324418|2006
+0-14|1.4|2.1|1.8|107|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60516709|2006
+0-19|1.4|1.9|1.6|136|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82324418|2006
+0-14|1.1|1.7|1.3|82|I(e) Unspecified and other specified leukemias|60516709|2006
+0-19|1.2|1.7|1.4|116|I(e) Unspecified and other specified leukemias|82324418|2006
+0-14|15.7|17.8|16.7|1014|II Lymphomas and reticuloendothelial neoplasms|60516709|2006
+0-19|24.0|26.1|25.0|2099|II Lymphomas and reticuloendothelial neoplasms|82324418|2006
+0-14|5.5|6.8|6.1|373|II(a) Hodgkin lymphomas|60516709|2006
+0-19|11.7|13.2|12.4|1054|II(a) Hodgkin lymphomas|82324418|2006
+0-14|5.8|7.1|6.4|389|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60516709|2006
+0-19|8.1|9.3|8.7|725|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82324418|2006
+0-14|2.1|2.9|2.5|151|II(c) Burkitt lymphoma|60516709|2006
+0-19|2.1|2.8|2.4|200|II(c) Burkitt lymphoma|82324418|2006
+0-14|1.2|1.8|1.5|89|II(d) Miscellaneous lymphoreticular neoplasms|60516709|2006
+0-19|1.0|1.4|1.2|97|II(d) Miscellaneous lymphoreticular neoplasms|82324418|2006
+0-14|~|~|~|~|II(e) Unspecified lymphomas|60516709|2006
+0-19|0.2|0.4|0.3|23|II(e) Unspecified lymphomas|82324418|2006
+0-14|32.5|35.4|33.9|2053|III CNS and misc intracranial and intraspinal neoplasms|60516709|2006
+0-19|30.0|32.4|31.2|2556|III CNS and misc intracranial and intraspinal neoplasms|82324418|2006
+0-14|2.6|3.5|3.0|185|III(a) Ependymomas and choroid plexus tumor|60516709|2006
+0-19|2.5|3.2|2.8|233|III(a) Ependymomas and choroid plexus tumor|82324418|2006
+0-14|15.3|17.4|16.3|989|III(b) Astrocytomas|60516709|2006
+0-19|14.6|16.3|15.4|1264|III(b) Astrocytomas|82324418|2006
+0-14|7.0|8.4|7.7|465|III(c) Intracranial and intraspinal embryonal tumors|60516709|2006
+0-19|5.8|6.9|6.3|516|III(c) Intracranial and intraspinal embryonal tumors|82324418|2006
+0-14|5.1|6.3|5.7|342|III(d) Other gliomas|60516709|2006
+0-19|5.0|6.0|5.4|445|III(d) Other gliomas|82324418|2006
+0-14|0.3|0.7|0.5|31|III(e) Other specified intracranial & intraspinal neoplasms|60516709|2006
+0-19|0.4|0.8|0.6|48|III(e) Other specified intracranial & intraspinal neoplasms|82324418|2006
+0-14|0.5|0.9|0.7|41|III(f) Unspecified intracranial and intraspinal neoplasms|60516709|2006
+0-19|0.5|0.8|0.6|50|III(f) Unspecified intracranial and intraspinal neoplasms|82324418|2006
+0-14|9.5|11.1|10.3|632|IV Neuroblastoma and other peripheral nervous cell tumors|60516709|2006
+0-19|7.3|8.5|7.9|648|IV Neuroblastoma and other peripheral nervous cell tumors|82324418|2006
+0-14|9.4|11.0|10.2|627|IV(a) Neuroblastoma and ganglioneuroblastoma|60516709|2006
+0-19|7.1|8.3|7.7|635|IV(a) Neuroblastoma and ganglioneuroblastoma|82324418|2006
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|60516709|2006
+0-19|~|~|~|~|IV(b) Other peripheral nervous cell tumors|82324418|2006
+0-14|9.8|11.4|10.6|644|IX Soft tissue and other extraosseous sarcomas|60516709|2006
+0-19|11.0|12.5|11.7|972|IX Soft tissue and other extraosseous sarcomas|82324418|2006
+0-14|4.3|5.5|4.9|296|IX(a) Rhabdomyosarcomas|60516709|2006
+0-19|4.1|5.1|4.6|375|IX(a) Rhabdomyosarcomas|82324418|2006
+0-14|0.8|1.4|1.1|67|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60516709|2006
+0-19|1.1|1.6|1.3|110|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82324418|2006
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|60516709|2006
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82324418|2006
+0-14|3.0|4.0|3.5|213|IX(d) Other specified soft tissue sarcomas|60516709|2006
+0-19|4.1|5.0|4.5|379|IX(d) Other specified soft tissue sarcomas|82324418|2006
+0-14|0.8|1.4|1.1|66|IX(e) Unspecified soft tissue sarcomas|60516709|2006
+0-19|1.0|1.5|1.2|103|IX(e) Unspecified soft tissue sarcomas|82324418|2006
+0-14|~|~|~|~|Not classified by ICCC|60516709|2006
+0-19|0.2|0.4|0.3|22|Not classified by ICCC|82324418|2006
+0-14|3.6|4.6|4.1|253|V Retinoblastoma|60516709|2006
+0-19|2.7|3.5|3.1|254|V Retinoblastoma|82324418|2006
+0-14|7.5|9.0|8.2|503|VI Renal tumors|60516709|2006
+0-19|6.2|7.3|6.7|549|VI Renal tumors|82324418|2006
+0-14|7.2|8.6|7.9|480|VI(a) Nephroblastoma and other nonepithelial renal tumors|60516709|2006
+0-19|5.5|6.5|6.0|487|VI(a) Nephroblastoma and other nonepithelial renal tumors|82324418|2006
+0-14|0.2|0.5|0.3|19|VI(b) Renal carcinomas|60516709|2006
+0-19|0.5|0.9|0.7|57|VI(b) Renal carcinomas|82324418|2006
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|60516709|2006
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82324418|2006
+0-14|2.2|3.0|2.6|160|VII Hepatic tumors|60516709|2006
+0-19|2.0|2.6|2.3|191|VII Hepatic tumors|82324418|2006
+0-14|1.8|2.5|2.1|133|VII(a) Hepatoblastoma|60516709|2006
+0-19|1.4|1.9|1.6|135|VII(a) Hepatoblastoma|82324418|2006
+0-14|0.2|0.6|0.4|23|VII(b) Hepatic carcinomas|60516709|2006
+0-19|0.5|0.8|0.6|52|VII(b) Hepatic carcinomas|82324418|2006
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60516709|2006
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82324418|2006
+0-14|6.4|7.7|7.0|424|VIII Malignant bone tumors|60516709|2006
+0-19|8.6|9.9|9.3|773|VIII Malignant bone tumors|82324418|2006
+0-14|3.5|4.5|4.0|242|VIII(a) Osteosarcomas|60516709|2006
+0-19|4.9|5.9|5.4|449|VIII(a) Osteosarcomas|82324418|2006
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|60516709|2006
+0-19|0.1|0.3|0.2|17|VIII(b) Chondrosarcomas|82324418|2006
+0-14|2.0|2.9|2.4|146|VIII(c) Ewing tumor and related sarcomas of bone|60516709|2006
+0-19|2.7|3.4|3.0|250|VIII(c) Ewing tumor and related sarcomas of bone|82324418|2006
+0-14|0.2|0.5|0.3|18|VIII(d) Other specified malignant bone tumors|60516709|2006
+0-19|0.4|0.7|0.5|43|VIII(d) Other specified malignant bone tumors|82324418|2006
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|60516709|2006
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|82324418|2006
+0-14|4.6|5.7|5.1|314|X Germ cell, trophoblastic tumors & neoplasms of gonads|60516709|2006
+0-19|9.6|11.0|10.3|871|X Germ cell, trophoblastic tumors & neoplasms of gonads|82324418|2006
+0-14|1.0|1.6|1.3|77|X(a) Intracranial & intraspinal germ cell tumors|60516709|2006
+0-19|1.3|1.8|1.5|126|X(a) Intracranial & intraspinal germ cell tumors|82324418|2006
+0-14|1.2|1.9|1.5|94|X(b) Malignant extracranial & extragonadal germ cell tumors|60516709|2006
+0-19|1.3|1.8|1.5|128|X(b) Malignant extracranial & extragonadal germ cell tumors|82324418|2006
+0-14|1.7|2.5|2.1|127|X(c) Malignant gonadal germ cell tumors|60516709|2006
+0-19|5.9|6.9|6.4|546|X(c) Malignant gonadal germ cell tumors|82324418|2006
+0-14|~|~|~|~|X(d) Gonadal carcinomas|60516709|2006
+0-19|0.4|0.7|0.5|42|X(d) Gonadal carcinomas|82324418|2006
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60516709|2006
+0-19|0.2|0.5|0.3|29|X(e) Other and unspecified malignant gonadal tumors|82324418|2006
+0-14|6.8|8.2|7.5|456|XI Other malignant epithelial neoplasms and malignant melanomas|60516709|2006
+0-19|16.4|18.2|17.3|1467|XI Other malignant epithelial neoplasms and malignant melanomas|82324418|2006
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|60516709|2006
+0-19|0.1|0.3|0.2|16|XI(a) Adrenocortical carcinomas|82324418|2006
+0-14|2.3|3.1|2.7|162|XI(b) Thyroid carcinomas|60516709|2006
+0-19|6.2|7.3|6.7|572|XI(b) Thyroid carcinomas|82324418|2006
+0-14|0.2|0.5|0.3|18|XI(c) Nasopharyngeal carcinomas|60516709|2006
+0-19|0.5|0.8|0.6|54|XI(c) Nasopharyngeal carcinomas|82324418|2006
+0-14|2.0|2.8|2.4|147|XI(d) Malignant melanomas|60516709|2006
+0-19|4.9|5.9|5.4|461|XI(d) Malignant melanomas|82324418|2006
+0-14|~|~|~|~|XI(e) Skin carcinomas|60516709|2006
+0-19|~|~|~|~|XI(e) Skin carcinomas|82324418|2006
+0-14|1.5|2.2|1.8|111|XI(f) Other and unspecified carcinomas|60516709|2006
+0-19|3.8|4.7|4.2|358|XI(f) Other and unspecified carcinomas|82324418|2006
+0-14|0.5|1.0|0.7|45|XII Other and unspecified malignant neoplasms|60516709|2006
+0-19|0.7|1.1|0.9|73|XII Other and unspecified malignant neoplasms|82324418|2006
+0-14|0.3|0.6|0.4|27|XII(a) Other specified malignant tumors|60516709|2006
+0-19|0.4|0.7|0.5|41|XII(a) Other specified malignant tumors|82324418|2006
+0-14|0.2|0.5|0.3|18|XII(b) Other unspecified malignant tumors|60516709|2006
+0-19|0.3|0.5|0.4|32|XII(b) Other unspecified malignant tumors|82324418|2006
+0-14|158.9|165.3|162.0|9903|All ICCC Groups Combined|60681615|2007
+0-19|174.0|179.7|176.8|14777|All ICCC Groups Combined|82749431|2007
+0-14|50.3|53.9|52.1|3178|I Leukemias, myeloproliferative & myelodysplastic diseases|60681615|2007
+0-19|45.8|48.8|47.3|3910|I Leukemias, myeloproliferative & myelodysplastic diseases|82749431|2007
+0-14|38.4|41.6|40.0|2436|I(a) Lymphoid leukemias|60681615|2007
+0-19|33.0|35.6|34.3|2817|I(a) Lymphoid leukemias|82749431|2007
+0-14|7.0|8.4|7.7|473|I(b) Acute myeloid leukemias|60681615|2007
+0-19|7.4|8.6|8.0|667|I(b) Acute myeloid leukemias|82749431|2007
+0-14|1.3|2.0|1.6|101|I(c) Chronic myeloproliferative diseases|60681615|2007
+0-19|2.1|2.8|2.5|210|I(c) Chronic myeloproliferative diseases|82749431|2007
+0-14|1.2|1.9|1.5|95|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60681615|2007
+0-19|1.2|1.7|1.4|121|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82749431|2007
+0-14|0.9|1.5|1.2|73|I(e) Unspecified and other specified leukemias|60681615|2007
+0-19|0.9|1.4|1.1|95|I(e) Unspecified and other specified leukemias|82749431|2007
+0-14|15.7|17.7|16.7|1011|II Lymphomas and reticuloendothelial neoplasms|60681615|2007
+0-19|23.9|26.1|25.0|2109|II Lymphomas and reticuloendothelial neoplasms|82749431|2007
+0-14|4.9|6.1|5.5|331|II(a) Hodgkin lymphomas|60681615|2007
+0-19|11.4|12.9|12.1|1035|II(a) Hodgkin lymphomas|82749431|2007
+0-14|6.4|7.7|7.0|425|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60681615|2007
+0-19|8.1|9.4|8.8|732|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82749431|2007
+0-14|2.3|3.1|2.7|160|II(c) Burkitt lymphoma|60681615|2007
+0-19|2.3|3.0|2.6|215|II(c) Burkitt lymphoma|82749431|2007
+0-14|1.0|1.6|1.3|82|II(d) Miscellaneous lymphoreticular neoplasms|60681615|2007
+0-19|0.9|1.4|1.1|92|II(d) Miscellaneous lymphoreticular neoplasms|82749431|2007
+0-14|~|~|~|~|II(e) Unspecified lymphomas|60681615|2007
+0-19|0.3|0.6|0.4|35|II(e) Unspecified lymphomas|82749431|2007
+0-14|33.7|36.7|35.2|2140|III CNS and misc intracranial and intraspinal neoplasms|60681615|2007
+0-19|30.6|33.1|31.8|2621|III CNS and misc intracranial and intraspinal neoplasms|82749431|2007
+0-14|2.5|3.4|2.9|177|III(a) Ependymomas and choroid plexus tumor|60681615|2007
+0-19|2.2|2.9|2.5|208|III(a) Ependymomas and choroid plexus tumor|82749431|2007
+0-14|15.8|17.8|16.8|1019|III(b) Astrocytomas|60681615|2007
+0-19|15.1|16.8|16.0|1317|III(b) Astrocytomas|82749431|2007
+0-14|7.1|8.5|7.7|471|III(c) Intracranial and intraspinal embryonal tumors|60681615|2007
+0-19|5.9|7.1|6.5|532|III(c) Intracranial and intraspinal embryonal tumors|82749431|2007
+0-14|5.9|7.2|6.6|396|III(d) Other gliomas|60681615|2007
+0-19|5.2|6.3|5.7|469|III(d) Other gliomas|82749431|2007
+0-14|0.5|1.0|0.7|45|III(e) Other specified intracranial & intraspinal neoplasms|60681615|2007
+0-19|0.5|0.9|0.7|57|III(e) Other specified intracranial & intraspinal neoplasms|82749431|2007
+0-14|0.4|0.7|0.5|32|III(f) Unspecified intracranial and intraspinal neoplasms|60681615|2007
+0-19|0.3|0.6|0.5|38|III(f) Unspecified intracranial and intraspinal neoplasms|82749431|2007
+0-14|11.0|12.7|11.8|736|IV Neuroblastoma and other peripheral nervous cell tumors|60681615|2007
+0-19|8.4|9.7|9.0|754|IV Neuroblastoma and other peripheral nervous cell tumors|82749431|2007
+0-14|10.8|12.5|11.6|724|IV(a) Neuroblastoma and ganglioneuroblastoma|60681615|2007
+0-19|8.2|9.5|8.8|735|IV(a) Neuroblastoma and ganglioneuroblastoma|82749431|2007
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|60681615|2007
+0-19|0.1|0.4|0.2|19|IV(b) Other peripheral nervous cell tumors|82749431|2007
+0-14|10.2|11.9|11.0|674|IX Soft tissue and other extraosseous sarcomas|60681615|2007
+0-19|11.8|13.4|12.6|1052|IX Soft tissue and other extraosseous sarcomas|82749431|2007
+0-14|5.1|6.3|5.7|347|IX(a) Rhabdomyosarcomas|60681615|2007
+0-19|4.7|5.7|5.2|427|IX(a) Rhabdomyosarcomas|82749431|2007
+0-14|0.9|1.5|1.2|73|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60681615|2007
+0-19|1.2|1.7|1.4|118|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82749431|2007
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|60681615|2007
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82749431|2007
+0-14|2.9|3.8|3.3|202|IX(d) Other specified soft tissue sarcomas|60681615|2007
+0-19|4.3|5.3|4.8|404|IX(d) Other specified soft tissue sarcomas|82749431|2007
+0-14|0.6|1.1|0.8|51|IX(e) Unspecified soft tissue sarcomas|60681615|2007
+0-19|1.0|1.4|1.2|99|IX(e) Unspecified soft tissue sarcomas|82749431|2007
+0-14|~|~|~|~|Not classified by ICCC|60681615|2007
+0-19|0.1|0.3|0.2|18|Not classified by ICCC|82749431|2007
+0-14|3.8|4.8|4.3|270|V Retinoblastoma|60681615|2007
+0-19|2.8|3.6|3.2|270|V Retinoblastoma|82749431|2007
+0-14|7.9|9.4|8.6|530|VI Renal tumors|60681615|2007
+0-19|6.4|7.5|6.9|570|VI Renal tumors|82749431|2007
+0-14|7.5|8.9|8.2|503|VI(a) Nephroblastoma and other nonepithelial renal tumors|60681615|2007
+0-19|5.7|6.8|6.2|514|VI(a) Nephroblastoma and other nonepithelial renal tumors|82749431|2007
+0-14|0.3|0.6|0.4|26|VI(b) Renal carcinomas|60681615|2007
+0-19|0.5|0.8|0.6|54|VI(b) Renal carcinomas|82749431|2007
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|60681615|2007
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82749431|2007
+0-14|2.2|3.0|2.6|159|VII Hepatic tumors|60681615|2007
+0-19|2.0|2.7|2.3|194|VII Hepatic tumors|82749431|2007
+0-14|1.9|2.7|2.3|141|VII(a) Hepatoblastoma|60681615|2007
+0-19|1.4|2.0|1.7|142|VII(a) Hepatoblastoma|82749431|2007
+0-14|0.2|0.5|0.3|18|VII(b) Hepatic carcinomas|60681615|2007
+0-19|0.5|0.8|0.6|52|VII(b) Hepatic carcinomas|82749431|2007
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60681615|2007
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82749431|2007
+0-14|6.2|7.5|6.8|414|VIII Malignant bone tumors|60681615|2007
+0-19|8.2|9.4|8.8|736|VIII Malignant bone tumors|82749431|2007
+0-14|3.2|4.2|3.7|222|VIII(a) Osteosarcomas|60681615|2007
+0-19|4.2|5.2|4.7|393|VIII(a) Osteosarcomas|82749431|2007
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|60681615|2007
+0-19|0.3|0.5|0.4|32|VIII(b) Chondrosarcomas|82749431|2007
+0-14|2.1|2.9|2.5|152|VIII(c) Ewing tumor and related sarcomas of bone|60681615|2007
+0-19|2.7|3.5|3.1|258|VIII(c) Ewing tumor and related sarcomas of bone|82749431|2007
+0-14|0.2|0.5|0.3|17|VIII(d) Other specified malignant bone tumors|60681615|2007
+0-19|0.3|0.5|0.4|32|VIII(d) Other specified malignant bone tumors|82749431|2007
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|60681615|2007
+0-19|0.2|0.4|0.3|21|VIII(e) Unspecified malignant bone tumors|82749431|2007
+0-14|4.9|6.1|5.5|337|X Germ cell, trophoblastic tumors & neoplasms of gonads|60681615|2007
+0-19|10.4|11.9|11.1|955|X Germ cell, trophoblastic tumors & neoplasms of gonads|82749431|2007
+0-14|1.1|1.7|1.4|85|X(a) Intracranial & intraspinal germ cell tumors|60681615|2007
+0-19|1.3|1.9|1.6|134|X(a) Intracranial & intraspinal germ cell tumors|82749431|2007
+0-14|1.0|1.6|1.3|82|X(b) Malignant extracranial & extragonadal germ cell tumors|60681615|2007
+0-19|1.1|1.7|1.4|118|X(b) Malignant extracranial & extragonadal germ cell tumors|82749431|2007
+0-14|2.2|3.0|2.6|157|X(c) Malignant gonadal germ cell tumors|60681615|2007
+0-19|6.9|8.1|7.5|645|X(c) Malignant gonadal germ cell tumors|82749431|2007
+0-14|~|~|~|~|X(d) Gonadal carcinomas|60681615|2007
+0-19|0.3|0.5|0.4|32|X(d) Gonadal carcinomas|82749431|2007
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60681615|2007
+0-19|0.2|0.4|0.3|26|X(e) Other and unspecified malignant gonadal tumors|82749431|2007
+0-14|6.0|7.3|6.6|402|XI Other malignant epithelial neoplasms and malignant melanomas|60681615|2007
+0-19|16.8|18.6|17.7|1519|XI Other malignant epithelial neoplasms and malignant melanomas|82749431|2007
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|60681615|2007
+0-19|~|~|~|~|XI(a) Adrenocortical carcinomas|82749431|2007
+0-14|1.9|2.6|2.2|136|XI(b) Thyroid carcinomas|60681615|2007
+0-19|6.7|7.9|7.3|630|XI(b) Thyroid carcinomas|82749431|2007
+0-14|0.2|0.4|0.3|17|XI(c) Nasopharyngeal carcinomas|60681615|2007
+0-19|0.5|0.8|0.6|52|XI(c) Nasopharyngeal carcinomas|82749431|2007
+0-14|1.8|2.6|2.2|132|XI(d) Malignant melanomas|60681615|2007
+0-19|4.9|5.9|5.4|461|XI(d) Malignant melanomas|82749431|2007
+0-14|~|~|~|~|XI(e) Skin carcinomas|60681615|2007
+0-19|~|~|~|~|XI(e) Skin carcinomas|82749431|2007
+0-14|1.4|2.0|1.7|101|XI(f) Other and unspecified carcinomas|60681615|2007
+0-19|3.7|4.6|4.1|353|XI(f) Other and unspecified carcinomas|82749431|2007
+0-14|0.5|0.9|0.7|42|XII Other and unspecified malignant neoplasms|60681615|2007
+0-19|0.6|1.0|0.8|69|XII Other and unspecified malignant neoplasms|82749431|2007
+0-14|0.2|0.6|0.4|23|XII(a) Other specified malignant tumors|60681615|2007
+0-19|0.2|0.5|0.3|29|XII(a) Other specified malignant tumors|82749431|2007
+0-14|0.2|0.5|0.3|19|XII(b) Other unspecified malignant tumors|60681615|2007
+0-19|0.3|0.6|0.5|40|XII(b) Other unspecified malignant tumors|82749431|2007
+0-14|161.4|167.8|164.6|10098|All ICCC Groups Combined|60907384|2008
+0-19|175.9|181.6|178.7|15001|All ICCC Groups Combined|83118264|2008
+0-14|52.1|55.8|53.9|3311|I Leukemias, myeloproliferative & myelodysplastic diseases|60907384|2008
+0-19|47.3|50.3|48.8|4052|I Leukemias, myeloproliferative & myelodysplastic diseases|83118264|2008
+0-14|39.5|42.7|41.1|2518|I(a) Lymphoid leukemias|60907384|2008
+0-19|33.8|36.4|35.1|2903|I(a) Lymphoid leukemias|83118264|2008
+0-14|7.3|8.7|8.0|491|I(b) Acute myeloid leukemias|60907384|2008
+0-19|7.7|8.9|8.3|697|I(b) Acute myeloid leukemias|83118264|2008
+0-14|1.8|2.5|2.1|131|I(c) Chronic myeloproliferative diseases|60907384|2008
+0-19|2.3|3.1|2.7|228|I(c) Chronic myeloproliferative diseases|83118264|2008
+0-14|1.4|2.0|1.7|104|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60907384|2008
+0-19|1.3|1.9|1.6|132|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|83118264|2008
+0-14|0.8|1.4|1.1|67|I(e) Unspecified and other specified leukemias|60907384|2008
+0-19|0.9|1.3|1.1|92|I(e) Unspecified and other specified leukemias|83118264|2008
+0-14|16.2|18.3|17.2|1043|II Lymphomas and reticuloendothelial neoplasms|60907384|2008
+0-19|24.4|26.6|25.5|2159|II Lymphomas and reticuloendothelial neoplasms|83118264|2008
+0-14|5.7|7.0|6.3|383|II(a) Hodgkin lymphomas|60907384|2008
+0-19|12.2|13.7|12.9|1105|II(a) Hodgkin lymphomas|83118264|2008
+0-14|6.1|7.4|6.7|409|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60907384|2008
+0-19|8.2|9.4|8.8|739|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|83118264|2008
+0-14|2.3|3.1|2.7|163|II(c) Burkitt lymphoma|60907384|2008
+0-19|2.2|2.9|2.6|211|II(c) Burkitt lymphoma|83118264|2008
+0-14|0.9|1.5|1.2|74|II(d) Miscellaneous lymphoreticular neoplasms|60907384|2008
+0-19|0.7|1.2|0.9|78|II(d) Miscellaneous lymphoreticular neoplasms|83118264|2008
+0-14|~|~|~|~|II(e) Unspecified lymphomas|60907384|2008
+0-19|0.2|0.5|0.3|26|II(e) Unspecified lymphomas|83118264|2008
+0-14|33.9|36.9|35.3|2158|III CNS and misc intracranial and intraspinal neoplasms|60907384|2008
+0-19|31.0|33.4|32.2|2664|III CNS and misc intracranial and intraspinal neoplasms|83118264|2008
+0-14|2.3|3.1|2.7|163|III(a) Ependymomas and choroid plexus tumor|60907384|2008
+0-19|2.0|2.7|2.4|196|III(a) Ependymomas and choroid plexus tumor|83118264|2008
+0-14|16.5|18.6|17.5|1066|III(b) Astrocytomas|60907384|2008
+0-19|15.4|17.1|16.2|1345|III(b) Astrocytomas|83118264|2008
+0-14|7.4|8.9|8.1|500|III(c) Intracranial and intraspinal embryonal tumors|60907384|2008
+0-19|6.2|7.3|6.7|556|III(c) Intracranial and intraspinal embryonal tumors|83118264|2008
+0-14|5.4|6.6|6.0|363|III(d) Other gliomas|60907384|2008
+0-19|5.2|6.3|5.8|476|III(d) Other gliomas|83118264|2008
+0-14|0.5|1.0|0.7|44|III(e) Other specified intracranial & intraspinal neoplasms|60907384|2008
+0-19|0.5|0.9|0.7|58|III(e) Other specified intracranial & intraspinal neoplasms|83118264|2008
+0-14|0.2|0.5|0.4|22|III(f) Unspecified intracranial and intraspinal neoplasms|60907384|2008
+0-19|0.3|0.6|0.4|33|III(f) Unspecified intracranial and intraspinal neoplasms|83118264|2008
+0-14|10.2|11.8|11.0|687|IV Neuroblastoma and other peripheral nervous cell tumors|60907384|2008
+0-19|7.8|9.1|8.4|706|IV Neuroblastoma and other peripheral nervous cell tumors|83118264|2008
+0-14|9.9|11.5|10.7|670|IV(a) Neuroblastoma and ganglioneuroblastoma|60907384|2008
+0-19|7.5|8.7|8.1|678|IV(a) Neuroblastoma and ganglioneuroblastoma|83118264|2008
+0-14|0.2|0.4|0.3|17|IV(b) Other peripheral nervous cell tumors|60907384|2008
+0-19|0.2|0.5|0.3|28|IV(b) Other peripheral nervous cell tumors|83118264|2008
+0-14|10.2|11.9|11.0|674|IX Soft tissue and other extraosseous sarcomas|60907384|2008
+0-19|11.5|13.1|12.3|1031|IX Soft tissue and other extraosseous sarcomas|83118264|2008
+0-14|4.8|5.9|5.3|326|IX(a) Rhabdomyosarcomas|60907384|2008
+0-19|4.6|5.6|5.1|425|IX(a) Rhabdomyosarcomas|83118264|2008
+0-14|0.7|1.2|0.9|58|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60907384|2008
+0-19|0.9|1.3|1.1|92|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|83118264|2008
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|60907384|2008
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|83118264|2008
+0-14|3.0|3.9|3.4|210|IX(d) Other specified soft tissue sarcomas|60907384|2008
+0-19|4.1|5.0|4.6|385|IX(d) Other specified soft tissue sarcomas|83118264|2008
+0-14|1.0|1.6|1.3|79|IX(e) Unspecified soft tissue sarcomas|60907384|2008
+0-19|1.3|1.8|1.5|127|IX(e) Unspecified soft tissue sarcomas|83118264|2008
+0-14|0.2|0.4|0.3|17|Not classified by ICCC|60907384|2008
+0-19|0.2|0.4|0.3|24|Not classified by ICCC|83118264|2008
+0-14|3.7|4.8|4.2|268|V Retinoblastoma|60907384|2008
+0-19|2.8|3.6|3.2|268|V Retinoblastoma|83118264|2008
+0-14|8.2|9.8|9.0|556|VI Renal tumors|60907384|2008
+0-19|6.6|7.8|7.2|600|VI Renal tumors|83118264|2008
+0-14|7.8|9.3|8.6|531|VI(a) Nephroblastoma and other nonepithelial renal tumors|60907384|2008
+0-19|5.9|7.0|6.5|536|VI(a) Nephroblastoma and other nonepithelial renal tumors|83118264|2008
+0-14|0.2|0.6|0.4|23|VI(b) Renal carcinomas|60907384|2008
+0-19|0.5|0.9|0.7|61|VI(b) Renal carcinomas|83118264|2008
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|60907384|2008
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|83118264|2008
+0-14|2.2|3.1|2.6|164|VII Hepatic tumors|60907384|2008
+0-19|1.9|2.6|2.3|190|VII Hepatic tumors|83118264|2008
+0-14|1.9|2.6|2.2|140|VII(a) Hepatoblastoma|60907384|2008
+0-19|1.4|2.0|1.7|142|VII(a) Hepatoblastoma|83118264|2008
+0-14|0.3|0.6|0.4|24|VII(b) Hepatic carcinomas|60907384|2008
+0-19|0.4|0.7|0.6|47|VII(b) Hepatic carcinomas|83118264|2008
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60907384|2008
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|83118264|2008
+0-14|6.2|7.5|6.8|413|VIII Malignant bone tumors|60907384|2008
+0-19|8.1|9.4|8.8|735|VIII Malignant bone tumors|83118264|2008
+0-14|3.4|4.4|3.8|232|VIII(a) Osteosarcomas|60907384|2008
+0-19|4.5|5.4|4.9|414|VIII(a) Osteosarcomas|83118264|2008
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|60907384|2008
+0-19|0.3|0.6|0.4|34|VIII(b) Chondrosarcomas|83118264|2008
+0-14|2.1|2.9|2.4|148|VIII(c) Ewing tumor and related sarcomas of bone|60907384|2008
+0-19|2.4|3.2|2.8|232|VIII(c) Ewing tumor and related sarcomas of bone|83118264|2008
+0-14|~|~|~|~|VIII(d) Other specified malignant bone tumors|60907384|2008
+0-19|0.3|0.5|0.4|33|VIII(d) Other specified malignant bone tumors|83118264|2008
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|60907384|2008
+0-19|0.2|0.4|0.3|22|VIII(e) Unspecified malignant bone tumors|83118264|2008
+0-14|4.7|5.9|5.3|324|X Germ cell, trophoblastic tumors & neoplasms of gonads|60907384|2008
+0-19|10.3|11.7|11.0|944|X Germ cell, trophoblastic tumors & neoplasms of gonads|83118264|2008
+0-14|1.1|1.7|1.4|82|X(a) Intracranial & intraspinal germ cell tumors|60907384|2008
+0-19|1.5|2.0|1.7|146|X(a) Intracranial & intraspinal germ cell tumors|83118264|2008
+0-14|1.1|1.7|1.4|89|X(b) Malignant extracranial & extragonadal germ cell tumors|60907384|2008
+0-19|1.2|1.7|1.4|123|X(b) Malignant extracranial & extragonadal germ cell tumors|83118264|2008
+0-14|1.9|2.7|2.3|141|X(c) Malignant gonadal germ cell tumors|60907384|2008
+0-19|6.7|7.9|7.3|631|X(c) Malignant gonadal germ cell tumors|83118264|2008
+0-14|~|~|~|~|X(d) Gonadal carcinomas|60907384|2008
+0-19|0.2|0.5|0.3|29|X(d) Gonadal carcinomas|83118264|2008
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60907384|2008
+0-19|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|83118264|2008
+0-14|6.6|8.0|7.3|444|XI Other malignant epithelial neoplasms and malignant melanomas|60907384|2008
+0-19|17.3|19.1|18.2|1565|XI Other malignant epithelial neoplasms and malignant melanomas|83118264|2008
+0-14|0.1|0.4|0.3|16|XI(a) Adrenocortical carcinomas|60907384|2008
+0-19|0.1|0.4|0.2|20|XI(a) Adrenocortical carcinomas|83118264|2008
+0-14|2.2|3.0|2.6|157|XI(b) Thyroid carcinomas|60907384|2008
+0-19|7.5|8.7|8.1|698|XI(b) Thyroid carcinomas|83118264|2008
+0-14|0.2|0.4|0.3|17|XI(c) Nasopharyngeal carcinomas|60907384|2008
+0-19|0.4|0.7|0.5|46|XI(c) Nasopharyngeal carcinomas|83118264|2008
+0-14|1.9|2.7|2.3|141|XI(d) Malignant melanomas|60907384|2008
+0-19|4.5|5.4|4.9|422|XI(d) Malignant melanomas|83118264|2008
+0-14|~|~|~|~|XI(e) Skin carcinomas|60907384|2008
+0-19|~|~|~|~|XI(e) Skin carcinomas|83118264|2008
+0-14|1.5|2.2|1.8|110|XI(f) Other and unspecified carcinomas|60907384|2008
+0-19|3.9|4.8|4.3|374|XI(f) Other and unspecified carcinomas|83118264|2008
+0-14|0.4|0.9|0.6|39|XII Other and unspecified malignant neoplasms|60907384|2008
+0-19|0.6|1.0|0.7|63|XII Other and unspecified malignant neoplasms|83118264|2008
+0-14|0.2|0.6|0.4|24|XII(a) Other specified malignant tumors|60907384|2008
+0-19|0.3|0.5|0.4|32|XII(a) Other specified malignant tumors|83118264|2008
+0-14|~|~|~|~|XII(b) Other unspecified malignant tumors|60907384|2008
+0-19|0.2|0.5|0.4|31|XII(b) Other unspecified malignant tumors|83118264|2008
+0-14|159.8|166.2|163.0|10015|All ICCC Groups Combined|61087581|2009
+0-19|175.0|180.7|177.8|14938|All ICCC Groups Combined|83280391|2009
+0-14|50.7|54.3|52.5|3232|I Leukemias, myeloproliferative & myelodysplastic diseases|61087581|2009
+0-19|45.8|48.8|47.3|3942|I Leukemias, myeloproliferative & myelodysplastic diseases|83280391|2009
+0-14|39.4|42.7|41.0|2528|I(a) Lymphoid leukemias|61087581|2009
+0-19|33.5|36.0|34.7|2883|I(a) Lymphoid leukemias|83280391|2009
+0-14|6.6|8.0|7.3|447|I(b) Acute myeloid leukemias|61087581|2009
+0-19|7.0|8.2|7.6|641|I(b) Acute myeloid leukemias|83280391|2009
+0-14|1.2|1.9|1.5|94|I(c) Chronic myeloproliferative diseases|61087581|2009
+0-19|2.0|2.6|2.3|195|I(c) Chronic myeloproliferative diseases|83280391|2009
+0-14|1.2|1.8|1.5|93|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|61087581|2009
+0-19|1.2|1.8|1.5|126|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|83280391|2009
+0-14|0.9|1.4|1.1|70|I(e) Unspecified and other specified leukemias|61087581|2009
+0-19|0.9|1.4|1.2|97|I(e) Unspecified and other specified leukemias|83280391|2009
+0-14|15.8|17.9|16.9|1026|II Lymphomas and reticuloendothelial neoplasms|61087581|2009
+0-19|24.2|26.4|25.3|2142|II Lymphomas and reticuloendothelial neoplasms|83280391|2009
+0-14|5.1|6.4|5.7|347|II(a) Hodgkin lymphomas|61087581|2009
+0-19|11.8|13.4|12.6|1079|II(a) Hodgkin lymphomas|83280391|2009
+0-14|6.3|7.7|7.0|425|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|61087581|2009
+0-19|8.2|9.5|8.9|745|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|83280391|2009
+0-14|2.0|2.8|2.4|143|II(c) Burkitt lymphoma|61087581|2009
+0-19|1.9|2.6|2.2|184|II(c) Burkitt lymphoma|83280391|2009
+0-14|1.3|2.0|1.6|100|II(d) Miscellaneous lymphoreticular neoplasms|61087581|2009
+0-19|1.1|1.6|1.3|109|II(d) Miscellaneous lymphoreticular neoplasms|83280391|2009
+0-14|~|~|~|~|II(e) Unspecified lymphomas|61087581|2009
+0-19|0.2|0.4|0.3|25|II(e) Unspecified lymphomas|83280391|2009
+0-14|33.9|36.9|35.4|2169|III CNS and misc intracranial and intraspinal neoplasms|61087581|2009
+0-19|30.8|33.2|32.0|2652|III CNS and misc intracranial and intraspinal neoplasms|83280391|2009
+0-14|2.1|3.0|2.5|156|III(a) Ependymomas and choroid plexus tumor|61087581|2009
+0-19|2.1|2.8|2.4|203|III(a) Ependymomas and choroid plexus tumor|83280391|2009
+0-14|16.5|18.6|17.6|1075|III(b) Astrocytomas|61087581|2009
+0-19|15.3|17.0|16.2|1341|III(b) Astrocytomas|83280391|2009
+0-14|7.0|8.4|7.6|468|III(c) Intracranial and intraspinal embryonal tumors|61087581|2009
+0-19|5.8|6.9|6.4|525|III(c) Intracranial and intraspinal embryonal tumors|83280391|2009
+0-14|6.0|7.3|6.6|405|III(d) Other gliomas|61087581|2009
+0-19|5.5|6.6|6.0|496|III(d) Other gliomas|83280391|2009
+0-14|0.4|0.8|0.6|34|III(e) Other specified intracranial & intraspinal neoplasms|61087581|2009
+0-19|0.4|0.8|0.6|49|III(e) Other specified intracranial & intraspinal neoplasms|83280391|2009
+0-14|0.3|0.7|0.5|31|III(f) Unspecified intracranial and intraspinal neoplasms|61087581|2009
+0-19|0.3|0.6|0.5|38|III(f) Unspecified intracranial and intraspinal neoplasms|83280391|2009
+0-14|10.0|11.6|10.8|670|IV Neuroblastoma and other peripheral nervous cell tumors|61087581|2009
+0-19|7.6|8.9|8.2|686|IV Neuroblastoma and other peripheral nervous cell tumors|83280391|2009
+0-14|9.8|11.4|10.6|660|IV(a) Neuroblastoma and ganglioneuroblastoma|61087581|2009
+0-19|7.4|8.6|8.0|665|IV(a) Neuroblastoma and ganglioneuroblastoma|83280391|2009
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|61087581|2009
+0-19|0.2|0.4|0.2|21|IV(b) Other peripheral nervous cell tumors|83280391|2009
+0-14|9.9|11.6|10.7|657|IX Soft tissue and other extraosseous sarcomas|61087581|2009
+0-19|11.4|12.9|12.2|1022|IX Soft tissue and other extraosseous sarcomas|83280391|2009
+0-14|4.0|5.0|4.5|275|IX(a) Rhabdomyosarcomas|61087581|2009
+0-19|3.8|4.7|4.2|353|IX(a) Rhabdomyosarcomas|83280391|2009
+0-14|1.0|1.6|1.3|78|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|61087581|2009
+0-19|1.3|1.8|1.5|130|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|83280391|2009
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|61087581|2009
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|83280391|2009
+0-14|3.3|4.3|3.8|231|IX(d) Other specified soft tissue sarcomas|61087581|2009
+0-19|4.5|5.5|5.0|418|IX(d) Other specified soft tissue sarcomas|83280391|2009
+0-14|0.9|1.5|1.2|73|IX(e) Unspecified soft tissue sarcomas|61087581|2009
+0-19|1.1|1.6|1.4|114|IX(e) Unspecified soft tissue sarcomas|83280391|2009
+0-14|0.2|0.5|0.3|20|Not classified by ICCC|61087581|2009
+0-19|0.2|0.5|0.3|28|Not classified by ICCC|83280391|2009
+0-14|4.0|5.1|4.5|283|V Retinoblastoma|61087581|2009
+0-19|3.0|3.8|3.4|283|V Retinoblastoma|83280391|2009
+0-14|8.5|10.0|9.2|574|VI Renal tumors|61087581|2009
+0-19|6.8|8.0|7.4|616|VI Renal tumors|83280391|2009
+0-14|7.9|9.4|8.6|536|VI(a) Nephroblastoma and other nonepithelial renal tumors|61087581|2009
+0-19|6.0|7.1|6.6|546|VI(a) Nephroblastoma and other nonepithelial renal tumors|83280391|2009
+0-14|0.4|0.8|0.6|36|VI(b) Renal carcinomas|61087581|2009
+0-19|0.6|1.0|0.8|68|VI(b) Renal carcinomas|83280391|2009
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|61087581|2009
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|83280391|2009
+0-14|1.8|2.6|2.2|137|VII Hepatic tumors|61087581|2009
+0-19|1.7|2.3|2.0|167|VII Hepatic tumors|83280391|2009
+0-14|1.5|2.2|1.9|116|VII(a) Hepatoblastoma|61087581|2009
+0-19|1.1|1.7|1.4|116|VII(a) Hepatoblastoma|83280391|2009
+0-14|0.2|0.5|0.3|19|VII(b) Hepatic carcinomas|61087581|2009
+0-19|0.4|0.8|0.6|49|VII(b) Hepatic carcinomas|83280391|2009
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|61087581|2009
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|83280391|2009
+0-14|6.4|7.7|7.0|427|VIII Malignant bone tumors|61087581|2009
+0-19|8.4|9.7|9.0|760|VIII Malignant bone tumors|83280391|2009
+0-14|3.5|4.5|4.0|241|VIII(a) Osteosarcomas|61087581|2009
+0-19|4.6|5.6|5.1|425|VIII(a) Osteosarcomas|83280391|2009
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|61087581|2009
+0-19|0.2|0.5|0.3|27|VIII(b) Chondrosarcomas|83280391|2009
+0-14|2.0|2.8|2.4|144|VIII(c) Ewing tumor and related sarcomas of bone|61087581|2009
+0-19|2.6|3.3|2.9|247|VIII(c) Ewing tumor and related sarcomas of bone|83280391|2009
+0-14|0.3|0.6|0.4|24|VIII(d) Other specified malignant bone tumors|61087581|2009
+0-19|0.4|0.7|0.5|42|VIII(d) Other specified malignant bone tumors|83280391|2009
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|61087581|2009
+0-19|0.1|0.4|0.2|19|VIII(e) Unspecified malignant bone tumors|83280391|2009
+0-14|4.9|6.1|5.5|334|X Germ cell, trophoblastic tumors & neoplasms of gonads|61087581|2009
+0-19|10.8|12.3|11.5|992|X Germ cell, trophoblastic tumors & neoplasms of gonads|83280391|2009
+0-14|1.1|1.7|1.4|85|X(a) Intracranial & intraspinal germ cell tumors|61087581|2009
+0-19|1.4|2.0|1.7|141|X(a) Intracranial & intraspinal germ cell tumors|83280391|2009
+0-14|0.9|1.5|1.2|74|X(b) Malignant extracranial & extragonadal germ cell tumors|61087581|2009
+0-19|1.1|1.6|1.4|116|X(b) Malignant extracranial & extragonadal germ cell tumors|83280391|2009
+0-14|2.2|3.0|2.6|160|X(c) Malignant gonadal germ cell tumors|61087581|2009
+0-19|7.0|8.2|7.6|654|X(c) Malignant gonadal germ cell tumors|83280391|2009
+0-14|~|~|~|~|X(d) Gonadal carcinomas|61087581|2009
+0-19|0.5|0.8|0.6|53|X(d) Gonadal carcinomas|83280391|2009
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|61087581|2009
+0-19|0.2|0.5|0.3|28|X(e) Other and unspecified malignant gonadal tumors|83280391|2009
+0-14|6.5|7.9|7.2|437|XI Other malignant epithelial neoplasms and malignant melanomas|61087581|2009
+0-19|17.4|19.2|18.3|1572|XI Other malignant epithelial neoplasms and malignant melanomas|83280391|2009
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|61087581|2009
+0-19|0.2|0.4|0.2|21|XI(a) Adrenocortical carcinomas|83280391|2009
+0-14|2.5|3.4|2.9|178|XI(b) Thyroid carcinomas|61087581|2009
+0-19|7.7|8.9|8.3|717|XI(b) Thyroid carcinomas|83280391|2009
+0-14|0.3|0.6|0.4|25|XI(c) Nasopharyngeal carcinomas|61087581|2009
+0-19|0.5|0.9|0.7|59|XI(c) Nasopharyngeal carcinomas|83280391|2009
+0-14|1.3|2.0|1.6|100|XI(d) Malignant melanomas|61087581|2009
+0-19|4.0|4.9|4.4|382|XI(d) Malignant melanomas|83280391|2009
+0-14|~|~|~|~|XI(e) Skin carcinomas|61087581|2009
+0-19|~|~|~|~|XI(e) Skin carcinomas|83280391|2009
+0-14|1.6|2.3|1.9|114|XI(f) Other and unspecified carcinomas|61087581|2009
+0-19|4.0|4.9|4.5|384|XI(f) Other and unspecified carcinomas|83280391|2009
+0-14|0.6|1.0|0.8|49|XII Other and unspecified malignant neoplasms|61087581|2009
+0-19|0.7|1.1|0.9|76|XII Other and unspecified malignant neoplasms|83280391|2009
+0-14|0.2|0.5|0.3|20|XII(a) Other specified malignant tumors|61087581|2009
+0-19|0.2|0.5|0.4|30|XII(a) Other specified malignant tumors|83280391|2009
+0-14|0.3|0.7|0.5|29|XII(b) Other unspecified malignant tumors|61087581|2009
+0-19|0.4|0.7|0.5|46|XII(b) Other unspecified malignant tumors|83280391|2009
+0-14|167.1|173.6|170.3|10471|All ICCC Groups Combined|61202611|2010
+0-19|178.9|184.7|181.8|15218|All ICCC Groups Combined|83185817|2010
+0-14|52.4|56.1|54.3|3345|I Leukemias, myeloproliferative & myelodysplastic diseases|61202611|2010
+0-19|47.5|50.5|49.0|4076|I Leukemias, myeloproliferative & myelodysplastic diseases|83185817|2010
+0-14|39.3|42.6|40.9|2525|I(a) Lymphoid leukemias|61202611|2010
+0-19|33.3|35.9|34.6|2870|I(a) Lymphoid leukemias|83185817|2010
+0-14|7.0|8.4|7.7|475|I(b) Acute myeloid leukemias|61202611|2010
+0-19|7.7|9.0|8.3|699|I(b) Acute myeloid leukemias|83185817|2010
+0-14|1.6|2.3|1.9|119|I(c) Chronic myeloproliferative diseases|61202611|2010
+0-19|2.3|3.0|2.6|222|I(c) Chronic myeloproliferative diseases|83185817|2010
+0-14|1.6|2.3|1.9|119|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|61202611|2010
+0-19|1.5|2.1|1.8|151|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|83185817|2010
+0-14|1.4|2.1|1.7|107|I(e) Unspecified and other specified leukemias|61202611|2010
+0-19|1.3|1.9|1.6|134|I(e) Unspecified and other specified leukemias|83185817|2010
+0-14|18.9|21.1|20.0|1220|II Lymphomas and reticuloendothelial neoplasms|61202611|2010
+0-19|26.4|28.6|27.5|2316|II Lymphomas and reticuloendothelial neoplasms|83185817|2010
+0-14|4.8|5.9|5.3|323|II(a) Hodgkin lymphomas|61202611|2010
+0-19|11.4|12.9|12.1|1032|II(a) Hodgkin lymphomas|83185817|2010
+0-14|6.5|7.9|7.2|437|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|61202611|2010
+0-19|8.1|9.3|8.7|726|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|83185817|2010
+0-14|2.1|2.9|2.5|151|II(c) Burkitt lymphoma|61202611|2010
+0-19|2.1|2.8|2.4|203|II(c) Burkitt lymphoma|83185817|2010
+0-14|4.3|5.4|4.8|299|II(d) Miscellaneous lymphoreticular neoplasms|61202611|2010
+0-19|3.5|4.4|3.9|326|II(d) Miscellaneous lymphoreticular neoplasms|83185817|2010
+0-14|~|~|~|~|II(e) Unspecified lymphomas|61202611|2010
+0-19|0.2|0.5|0.3|29|II(e) Unspecified lymphomas|83185817|2010
+0-14|34.9|37.9|36.4|2234|III CNS and misc intracranial and intraspinal neoplasms|61202611|2010
+0-19|31.2|33.7|32.4|2687|III CNS and misc intracranial and intraspinal neoplasms|83185817|2010
+0-14|2.8|3.7|3.3|202|III(a) Ependymomas and choroid plexus tumor|61202611|2010
+0-19|2.5|3.2|2.8|236|III(a) Ependymomas and choroid plexus tumor|83185817|2010
+0-14|17.6|19.7|18.6|1142|III(b) Astrocytomas|61202611|2010
+0-19|16.1|17.9|17.0|1406|III(b) Astrocytomas|83185817|2010
+0-14|6.7|8.1|7.3|452|III(c) Intracranial and intraspinal embryonal tumors|61202611|2010
+0-19|5.5|6.6|6.0|499|III(c) Intracranial and intraspinal embryonal tumors|83185817|2010
+0-14|5.6|6.8|6.2|376|III(d) Other gliomas|61202611|2010
+0-19|5.2|6.2|5.7|468|III(d) Other gliomas|83185817|2010
+0-14|0.5|0.9|0.6|39|III(e) Other specified intracranial & intraspinal neoplasms|61202611|2010
+0-19|0.5|0.8|0.6|51|III(e) Other specified intracranial & intraspinal neoplasms|83185817|2010
+0-14|0.2|0.6|0.4|23|III(f) Unspecified intracranial and intraspinal neoplasms|61202611|2010
+0-19|0.2|0.5|0.3|27|III(f) Unspecified intracranial and intraspinal neoplasms|83185817|2010
+0-14|10.4|12.1|11.2|695|IV Neuroblastoma and other peripheral nervous cell tumors|61202611|2010
+0-19|8.0|9.2|8.6|713|IV Neuroblastoma and other peripheral nervous cell tumors|83185817|2010
+0-14|10.2|11.9|11.0|685|IV(a) Neuroblastoma and ganglioneuroblastoma|61202611|2010
+0-19|7.8|9.0|8.4|696|IV(a) Neuroblastoma and ganglioneuroblastoma|83185817|2010
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|61202611|2010
+0-19|0.1|0.3|0.2|17|IV(b) Other peripheral nervous cell tumors|83185817|2010
+0-14|10.7|12.4|11.6|708|IX Soft tissue and other extraosseous sarcomas|61202611|2010
+0-19|12.0|13.6|12.8|1071|IX Soft tissue and other extraosseous sarcomas|83185817|2010
+0-14|5.0|6.2|5.6|343|IX(a) Rhabdomyosarcomas|61202611|2010
+0-19|4.8|5.8|5.3|439|IX(a) Rhabdomyosarcomas|83185817|2010
+0-14|0.6|1.1|0.8|49|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|61202611|2010
+0-19|0.8|1.3|1.0|87|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|83185817|2010
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|61202611|2010
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|83185817|2010
+0-14|3.4|4.4|3.9|237|IX(d) Other specified soft tissue sarcomas|61202611|2010
+0-19|4.3|5.2|4.7|397|IX(d) Other specified soft tissue sarcomas|83185817|2010
+0-14|1.0|1.6|1.3|79|IX(e) Unspecified soft tissue sarcomas|61202611|2010
+0-19|1.4|2.0|1.7|144|IX(e) Unspecified soft tissue sarcomas|83185817|2010
+0-14|0.1|0.4|0.3|16|Not classified by ICCC|61202611|2010
+0-19|0.2|0.4|0.3|21|Not classified by ICCC|83185817|2010
+0-14|4.1|5.1|4.6|284|V Retinoblastoma|61202611|2010
+0-19|3.0|3.8|3.4|284|V Retinoblastoma|83185817|2010
+0-14|7.8|9.2|8.5|527|VI Renal tumors|61202611|2010
+0-19|6.1|7.3|6.7|556|VI Renal tumors|83185817|2010
+0-14|7.4|8.9|8.1|506|VI(a) Nephroblastoma and other nonepithelial renal tumors|61202611|2010
+0-19|5.6|6.7|6.2|513|VI(a) Nephroblastoma and other nonepithelial renal tumors|83185817|2010
+0-14|0.2|0.5|0.3|19|VI(b) Renal carcinomas|61202611|2010
+0-19|0.3|0.7|0.5|41|VI(b) Renal carcinomas|83185817|2010
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|61202611|2010
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|83185817|2010
+0-14|2.6|3.5|3.0|187|VII Hepatic tumors|61202611|2010
+0-19|2.3|3.0|2.6|221|VII Hepatic tumors|83185817|2010
+0-14|2.1|2.9|2.5|157|VII(a) Hepatoblastoma|61202611|2010
+0-19|1.6|2.2|1.9|160|VII(a) Hepatoblastoma|83185817|2010
+0-14|0.3|0.7|0.5|29|VII(b) Hepatic carcinomas|61202611|2010
+0-19|0.5|0.9|0.7|59|VII(b) Hepatic carcinomas|83185817|2010
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|61202611|2010
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|83185817|2010
+0-14|6.1|7.4|6.7|410|VIII Malignant bone tumors|61202611|2010
+0-19|7.8|9.0|8.4|700|VIII Malignant bone tumors|83185817|2010
+0-14|3.3|4.3|3.7|227|VIII(a) Osteosarcomas|61202611|2010
+0-19|4.3|5.3|4.8|399|VIII(a) Osteosarcomas|83185817|2010
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|61202611|2010
+0-19|0.2|0.5|0.4|31|VIII(b) Chondrosarcomas|83185817|2010
+0-14|2.0|2.8|2.4|143|VIII(c) Ewing tumor and related sarcomas of bone|61202611|2010
+0-19|2.3|3.0|2.6|219|VIII(c) Ewing tumor and related sarcomas of bone|83185817|2010
+0-14|0.2|0.5|0.3|20|VIII(d) Other specified malignant bone tumors|61202611|2010
+0-19|0.3|0.6|0.4|36|VIII(d) Other specified malignant bone tumors|83185817|2010
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|61202611|2010
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|83185817|2010
+0-14|5.6|6.9|6.2|380|X Germ cell, trophoblastic tumors & neoplasms of gonads|61202611|2010
+0-19|10.8|12.3|11.6|983|X Germ cell, trophoblastic tumors & neoplasms of gonads|83185817|2010
+0-14|1.5|2.2|1.8|112|X(a) Intracranial & intraspinal germ cell tumors|61202611|2010
+0-19|1.7|2.3|2.0|167|X(a) Intracranial & intraspinal germ cell tumors|83185817|2010
+0-14|1.1|1.7|1.4|84|X(b) Malignant extracranial & extragonadal germ cell tumors|61202611|2010
+0-19|1.1|1.6|1.3|112|X(b) Malignant extracranial & extragonadal germ cell tumors|83185817|2010
+0-14|2.2|3.1|2.6|160|X(c) Malignant gonadal germ cell tumors|61202611|2010
+0-19|6.7|7.9|7.3|626|X(c) Malignant gonadal germ cell tumors|83185817|2010
+0-14|~|~|~|~|X(d) Gonadal carcinomas|61202611|2010
+0-19|0.4|0.7|0.5|44|X(d) Gonadal carcinomas|83185817|2010
+0-14|0.2|0.4|0.3|16|X(e) Other and unspecified malignant gonadal tumors|61202611|2010
+0-19|0.3|0.6|0.4|34|X(e) Other and unspecified malignant gonadal tumors|83185817|2010
+0-14|6.4|7.7|7.0|427|XI Other malignant epithelial neoplasms and malignant melanomas|61202611|2010
+0-19|17.0|18.8|17.9|1534|XI Other malignant epithelial neoplasms and malignant melanomas|83185817|2010
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|61202611|2010
+0-19|0.2|0.4|0.3|21|XI(a) Adrenocortical carcinomas|83185817|2010
+0-14|2.4|3.3|2.8|171|XI(b) Thyroid carcinomas|61202611|2010
+0-19|7.9|9.2|8.6|734|XI(b) Thyroid carcinomas|83185817|2010
+0-14|0.2|0.4|0.3|17|XI(c) Nasopharyngeal carcinomas|61202611|2010
+0-19|0.4|0.8|0.6|49|XI(c) Nasopharyngeal carcinomas|83185817|2010
+0-14|1.5|2.2|1.8|110|XI(d) Malignant melanomas|61202611|2010
+0-19|3.6|4.5|4.0|344|XI(d) Malignant melanomas|83185817|2010
+0-14|~|~|~|~|XI(e) Skin carcinomas|61202611|2010
+0-19|~|~|~|~|XI(e) Skin carcinomas|83185817|2010
+0-14|1.5|2.2|1.8|110|XI(f) Other and unspecified carcinomas|61202611|2010
+0-19|4.0|4.9|4.4|377|XI(f) Other and unspecified carcinomas|83185817|2010
+0-14|0.4|0.8|0.6|38|XII Other and unspecified malignant neoplasms|61202611|2010
+0-19|0.5|0.9|0.7|56|XII Other and unspecified malignant neoplasms|83185817|2010
+0-14|0.2|0.6|0.4|24|XII(a) Other specified malignant tumors|61202611|2010
+0-19|0.3|0.5|0.4|32|XII(a) Other specified malignant tumors|83185817|2010
+0-14|~|~|~|~|XII(b) Other unspecified malignant tumors|61202611|2010
+0-19|0.2|0.4|0.3|24|XII(b) Other unspecified malignant tumors|83185817|2010
+0-14|166.3|172.9|169.6|10417|All ICCC Groups Combined|61175486|2011
+0-19|180.3|186.1|183.2|15261|All ICCC Groups Combined|82838877|2011
+0-14|52.3|56.0|54.1|3330|I Leukemias, myeloproliferative & myelodysplastic diseases|61175486|2011
+0-19|47.6|50.6|49.1|4070|I Leukemias, myeloproliferative & myelodysplastic diseases|82838877|2011
+0-14|40.1|43.4|41.7|2571|I(a) Lymphoid leukemias|61175486|2011
+0-19|34.4|37.0|35.7|2954|I(a) Lymphoid leukemias|82838877|2011
+0-14|7.0|8.4|7.7|472|I(b) Acute myeloid leukemias|61175486|2011
+0-19|7.7|9.0|8.3|693|I(b) Acute myeloid leukemias|82838877|2011
+0-14|1.5|2.2|1.8|110|I(c) Chronic myeloproliferative diseases|61175486|2011
+0-19|2.0|2.7|2.3|195|I(c) Chronic myeloproliferative diseases|82838877|2011
+0-14|1.1|1.7|1.3|83|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|61175486|2011
+0-19|1.1|1.6|1.3|107|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82838877|2011
+0-14|1.2|1.9|1.5|94|I(e) Unspecified and other specified leukemias|61175486|2011
+0-19|1.2|1.7|1.5|121|I(e) Unspecified and other specified leukemias|82838877|2011
+0-14|19.0|21.3|20.1|1229|II Lymphomas and reticuloendothelial neoplasms|61175486|2011
+0-19|26.7|28.9|27.8|2324|II Lymphomas and reticuloendothelial neoplasms|82838877|2011
+0-14|4.6|5.8|5.2|315|II(a) Hodgkin lymphomas|61175486|2011
+0-19|11.1|12.6|11.8|997|II(a) Hodgkin lymphomas|82838877|2011
+0-14|5.8|7.0|6.4|389|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|61175486|2011
+0-19|7.8|9.1|8.4|703|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82838877|2011
+0-14|2.3|3.1|2.6|161|II(c) Burkitt lymphoma|61175486|2011
+0-19|2.2|2.9|2.5|207|II(c) Burkitt lymphoma|82838877|2011
+0-14|5.1|6.4|5.7|352|II(d) Miscellaneous lymphoreticular neoplasms|61175486|2011
+0-19|4.3|5.2|4.7|389|II(d) Miscellaneous lymphoreticular neoplasms|82838877|2011
+0-14|~|~|~|~|II(e) Unspecified lymphomas|61175486|2011
+0-19|0.2|0.5|0.3|28|II(e) Unspecified lymphomas|82838877|2011
+0-14|34.2|37.2|35.7|2188|III CNS and misc intracranial and intraspinal neoplasms|61175486|2011
+0-19|31.8|34.3|33.0|2732|III CNS and misc intracranial and intraspinal neoplasms|82838877|2011
+0-14|3.0|3.9|3.4|212|III(a) Ependymomas and choroid plexus tumor|61175486|2011
+0-19|2.5|3.3|2.9|238|III(a) Ependymomas and choroid plexus tumor|82838877|2011
+0-14|16.9|19.0|17.9|1098|III(b) Astrocytomas|61175486|2011
+0-19|16.2|18.0|17.1|1416|III(b) Astrocytomas|82838877|2011
+0-14|6.4|7.7|7.0|432|III(c) Intracranial and intraspinal embryonal tumors|61175486|2011
+0-19|5.6|6.7|6.1|506|III(c) Intracranial and intraspinal embryonal tumors|82838877|2011
+0-14|5.7|6.9|6.3|383|III(d) Other gliomas|61175486|2011
+0-19|5.4|6.5|5.9|489|III(d) Other gliomas|82838877|2011
+0-14|0.4|0.7|0.5|32|III(e) Other specified intracranial & intraspinal neoplasms|61175486|2011
+0-19|0.4|0.7|0.6|46|III(e) Other specified intracranial & intraspinal neoplasms|82838877|2011
+0-14|0.3|0.7|0.5|31|III(f) Unspecified intracranial and intraspinal neoplasms|61175486|2011
+0-19|0.3|0.6|0.4|37|III(f) Unspecified intracranial and intraspinal neoplasms|82838877|2011
+0-14|10.4|12.0|11.2|692|IV Neuroblastoma and other peripheral nervous cell tumors|61175486|2011
+0-19|7.9|9.2|8.5|708|IV Neuroblastoma and other peripheral nervous cell tumors|82838877|2011
+0-14|10.2|11.8|11.0|679|IV(a) Neuroblastoma and ganglioneuroblastoma|61175486|2011
+0-19|7.7|8.9|8.3|687|IV(a) Neuroblastoma and ganglioneuroblastoma|82838877|2011
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|61175486|2011
+0-19|0.2|0.4|0.3|21|IV(b) Other peripheral nervous cell tumors|82838877|2011
+0-14|10.3|12.0|11.1|681|IX Soft tissue and other extraosseous sarcomas|61175486|2011
+0-19|11.5|13.0|12.2|1015|IX Soft tissue and other extraosseous sarcomas|82838877|2011
+0-14|4.6|5.8|5.2|320|IX(a) Rhabdomyosarcomas|61175486|2011
+0-19|4.3|5.2|4.7|392|IX(a) Rhabdomyosarcomas|82838877|2011
+0-14|0.8|1.4|1.1|65|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|61175486|2011
+0-19|1.1|1.6|1.3|109|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82838877|2011
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|61175486|2011
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82838877|2011
+0-14|3.3|4.3|3.7|228|IX(d) Other specified soft tissue sarcomas|61175486|2011
+0-19|4.3|5.3|4.8|401|IX(d) Other specified soft tissue sarcomas|82838877|2011
+0-14|0.8|1.4|1.1|66|IX(e) Unspecified soft tissue sarcomas|61175486|2011
+0-19|1.0|1.5|1.3|106|IX(e) Unspecified soft tissue sarcomas|82838877|2011
+0-14|~|~|~|~|Not classified by ICCC|61175486|2011
+0-19|0.2|0.4|0.3|24|Not classified by ICCC|82838877|2011
+0-14|3.7|4.7|4.2|259|V Retinoblastoma|61175486|2011
+0-19|2.8|3.5|3.1|259|V Retinoblastoma|82838877|2011
+0-14|8.3|9.8|9.0|557|VI Renal tumors|61175486|2011
+0-19|6.6|7.8|7.2|597|VI Renal tumors|82838877|2011
+0-14|7.9|9.4|8.6|534|VI(a) Nephroblastoma and other nonepithelial renal tumors|61175486|2011
+0-19|6.0|7.1|6.5|540|VI(a) Nephroblastoma and other nonepithelial renal tumors|82838877|2011
+0-14|0.2|0.5|0.4|22|VI(b) Renal carcinomas|61175486|2011
+0-19|0.5|0.9|0.7|56|VI(b) Renal carcinomas|82838877|2011
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|61175486|2011
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82838877|2011
+0-14|2.7|3.6|3.1|195|VII Hepatic tumors|61175486|2011
+0-19|2.3|3.0|2.6|215|VII Hepatic tumors|82838877|2011
+0-14|2.3|3.1|2.7|166|VII(a) Hepatoblastoma|61175486|2011
+0-19|1.7|2.3|2.0|167|VII(a) Hepatoblastoma|82838877|2011
+0-14|0.3|0.6|0.4|25|VII(b) Hepatic carcinomas|61175486|2011
+0-19|0.4|0.7|0.5|44|VII(b) Hepatic carcinomas|82838877|2011
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|61175486|2011
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82838877|2011
+0-14|6.8|8.1|7.4|452|VIII Malignant bone tumors|61175486|2011
+0-19|8.3|9.6|8.9|744|VIII Malignant bone tumors|82838877|2011
+0-14|3.6|4.7|4.1|250|VIII(a) Osteosarcomas|61175486|2011
+0-19|4.6|5.6|5.1|422|VIII(a) Osteosarcomas|82838877|2011
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|61175486|2011
+0-19|0.2|0.4|0.2|21|VIII(b) Chondrosarcomas|82838877|2011
+0-14|2.4|3.3|2.8|173|VIII(c) Ewing tumor and related sarcomas of bone|61175486|2011
+0-19|2.8|3.6|3.2|263|VIII(c) Ewing tumor and related sarcomas of bone|82838877|2011
+0-14|~|~|~|~|VIII(d) Other specified malignant bone tumors|61175486|2011
+0-19|0.2|0.5|0.3|26|VIII(d) Other specified malignant bone tumors|82838877|2011
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|61175486|2011
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|82838877|2011
+0-14|4.6|5.7|5.1|313|X Germ cell, trophoblastic tumors & neoplasms of gonads|61175486|2011
+0-19|10.1|11.5|10.7|909|X Germ cell, trophoblastic tumors & neoplasms of gonads|82838877|2011
+0-14|1.2|1.9|1.5|94|X(a) Intracranial & intraspinal germ cell tumors|61175486|2011
+0-19|1.4|2.0|1.7|139|X(a) Intracranial & intraspinal germ cell tumors|82838877|2011
+0-14|0.9|1.5|1.2|74|X(b) Malignant extracranial & extragonadal germ cell tumors|61175486|2011
+0-19|1.1|1.6|1.4|115|X(b) Malignant extracranial & extragonadal germ cell tumors|82838877|2011
+0-14|1.8|2.6|2.2|132|X(c) Malignant gonadal germ cell tumors|61175486|2011
+0-19|6.6|7.7|7.1|608|X(c) Malignant gonadal germ cell tumors|82838877|2011
+0-14|~|~|~|~|X(d) Gonadal carcinomas|61175486|2011
+0-19|0.2|0.5|0.3|26|X(d) Gonadal carcinomas|82838877|2011
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|61175486|2011
+0-19|0.2|0.4|0.2|21|X(e) Other and unspecified malignant gonadal tumors|82838877|2011
+0-14|7.0|8.4|7.7|469|XI Other malignant epithelial neoplasms and malignant melanomas|61175486|2011
+0-19|18.1|19.9|19.0|1606|XI Other malignant epithelial neoplasms and malignant melanomas|82838877|2011
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|61175486|2011
+0-19|0.1|0.4|0.2|19|XI(a) Adrenocortical carcinomas|82838877|2011
+0-14|2.9|3.8|3.3|201|XI(b) Thyroid carcinomas|61175486|2011
+0-19|8.6|9.9|9.3|786|XI(b) Thyroid carcinomas|82838877|2011
+0-14|0.2|0.5|0.3|19|XI(c) Nasopharyngeal carcinomas|61175486|2011
+0-19|0.5|0.8|0.6|52|XI(c) Nasopharyngeal carcinomas|82838877|2011
+0-14|1.7|2.5|2.1|126|XI(d) Malignant melanomas|61175486|2011
+0-19|3.9|4.8|4.3|363|XI(d) Malignant melanomas|82838877|2011
+0-14|~|~|~|~|XI(e) Skin carcinomas|61175486|2011
+0-19|~|~|~|~|XI(e) Skin carcinomas|82838877|2011
+0-14|1.4|2.1|1.7|106|XI(f) Other and unspecified carcinomas|61175486|2011
+0-19|4.0|4.9|4.5|379|XI(f) Other and unspecified carcinomas|82838877|2011
+0-14|0.5|0.9|0.6|40|XII Other and unspecified malignant neoplasms|61175486|2011
+0-19|0.5|0.9|0.7|58|XII Other and unspecified malignant neoplasms|82838877|2011
+0-14|0.2|0.4|0.3|17|XII(a) Other specified malignant tumors|61175486|2011
+0-19|0.2|0.5|0.3|27|XII(a) Other specified malignant tumors|82838877|2011
+0-14|0.2|0.6|0.4|23|XII(b) Other unspecified malignant tumors|61175486|2011
+0-19|0.3|0.5|0.4|31|XII(b) Other unspecified malignant tumors|82838877|2011
+0-14|170.2|173.1|171.7|52569|All ICCC Groups Combined|305441154|2011-2015
+0-19|184.8|187.5|186.1|76943|All ICCC Groups Combined|411799435|2011-2015
+0-14|51.7|53.4|52.5|16118|I Leukemias, myeloproliferative & myelodysplastic diseases|305441154|2011-2015
+0-19|47.3|48.7|48.0|19779|I Leukemias, myeloproliferative & myelodysplastic diseases|411799435|2011-2015
+0-14|39.1|40.5|39.8|12210|I(a) Lymphoid leukemias|305441154|2011-2015
+0-19|33.5|34.6|34.1|14030|I(a) Lymphoid leukemias|411799435|2011-2015
+0-14|7.4|8.0|7.7|2358|I(b) Acute myeloid leukemias|305441154|2011-2015
+0-19|8.0|8.5|8.3|3413|I(b) Acute myeloid leukemias|411799435|2011-2015
+0-14|1.6|1.9|1.7|520|I(c) Chronic myeloproliferative diseases|305441154|2011-2015
+0-19|2.2|2.5|2.4|989|I(c) Chronic myeloproliferative diseases|411799435|2011-2015
+0-14|1.4|1.6|1.5|455|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|305441154|2011-2015
+0-19|1.3|1.6|1.4|598|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|411799435|2011-2015
+0-14|1.7|2.0|1.9|575|I(e) Unspecified and other specified leukemias|305441154|2011-2015
+0-19|1.7|2.0|1.8|749|I(e) Unspecified and other specified leukemias|411799435|2011-2015
+0-14|21.3|22.4|21.8|6664|II Lymphomas and reticuloendothelial neoplasms|305441154|2011-2015
+0-19|28.9|29.9|29.4|12169|II Lymphomas and reticuloendothelial neoplasms|411799435|2011-2015
+0-14|5.3|5.8|5.6|1688|II(a) Hodgkin lymphomas|305441154|2011-2015
+0-19|11.7|12.3|12.0|4998|II(a) Hodgkin lymphomas|411799435|2011-2015
+0-14|7.1|7.7|7.4|2246|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|305441154|2011-2015
+0-19|9.2|9.8|9.5|3940|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|411799435|2011-2015
+0-14|2.3|2.7|2.5|767|II(c) Burkitt lymphoma|305441154|2011-2015
+0-19|2.3|2.6|2.4|1003|II(c) Burkitt lymphoma|411799435|2011-2015
+0-14|5.9|6.4|6.1|1879|II(d) Miscellaneous lymphoreticular neoplasms|305441154|2011-2015
+0-19|4.8|5.2|5.0|2064|II(d) Miscellaneous lymphoreticular neoplasms|411799435|2011-2015
+0-14|0.2|0.3|0.3|84|II(e) Unspecified lymphomas|305441154|2011-2015
+0-19|0.3|0.5|0.4|164|II(e) Unspecified lymphomas|411799435|2011-2015
+0-14|34.7|36.0|35.3|10807|III CNS and misc intracranial and intraspinal neoplasms|305441154|2011-2015
+0-19|31.8|32.9|32.3|13293|III CNS and misc intracranial and intraspinal neoplasms|411799435|2011-2015
+0-14|2.9|3.3|3.1|964|III(a) Ependymomas and choroid plexus tumor|305441154|2011-2015
+0-19|2.6|2.9|2.7|1125|III(a) Ependymomas and choroid plexus tumor|411799435|2011-2015
+0-14|17.7|18.6|18.1|5549|III(b) Astrocytomas|305441154|2011-2015
+0-19|16.6|17.3|16.9|6972|III(b) Astrocytomas|411799435|2011-2015
+0-14|6.8|7.4|7.1|2178|III(c) Intracranial and intraspinal embryonal tumors|305441154|2011-2015
+0-19|5.7|6.2|5.9|2436|III(c) Intracranial and intraspinal embryonal tumors|411799435|2011-2015
+0-14|5.5|6.0|5.7|1749|III(d) Other gliomas|305441154|2011-2015
+0-19|5.3|5.7|5.5|2265|III(d) Other gliomas|411799435|2011-2015
+0-14|0.6|0.8|0.7|201|III(e) Other specified intracranial & intraspinal neoplasms|305441154|2011-2015
+0-19|0.6|0.8|0.7|281|III(e) Other specified intracranial & intraspinal neoplasms|411799435|2011-2015
+0-14|0.5|0.6|0.5|166|III(f) Unspecified intracranial and intraspinal neoplasms|305441154|2011-2015
+0-19|0.5|0.6|0.5|214|III(f) Unspecified intracranial and intraspinal neoplasms|411799435|2011-2015
+0-14|11.4|12.1|11.7|3618|IV Neuroblastoma and other peripheral nervous cell tumors|305441154|2011-2015
+0-19|8.7|9.3|9.0|3719|IV Neuroblastoma and other peripheral nervous cell tumors|411799435|2011-2015
+0-14|11.1|11.9|11.5|3549|IV(a) Neuroblastoma and ganglioneuroblastoma|305441154|2011-2015
+0-19|8.5|9.0|8.7|3603|IV(a) Neuroblastoma and ganglioneuroblastoma|411799435|2011-2015
+0-14|0.2|0.3|0.2|69|IV(b) Other peripheral nervous cell tumors|305441154|2011-2015
+0-19|0.2|0.3|0.3|116|IV(b) Other peripheral nervous cell tumors|411799435|2011-2015
+0-14|10.7|11.5|11.1|3392|IX Soft tissue and other extraosseous sarcomas|305441154|2011-2015
+0-19|11.7|12.4|12.1|4982|IX Soft tissue and other extraosseous sarcomas|411799435|2011-2015
+0-14|4.9|5.4|5.1|1568|IX(a) Rhabdomyosarcomas|305441154|2011-2015
+0-19|4.4|4.9|4.6|1911|IX(a) Rhabdomyosarcomas|411799435|2011-2015
+0-14|1.0|1.3|1.1|347|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|305441154|2011-2015
+0-19|1.2|1.4|1.3|551|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|411799435|2011-2015
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|305441154|2011-2015
+0-19|0.0|0.1|0.1|23|IX(c) Kaposi sarcoma|411799435|2011-2015
+0-14|3.5|3.9|3.7|1129|IX(d) Other specified soft tissue sarcomas|305441154|2011-2015
+0-19|4.5|4.9|4.7|1941|IX(d) Other specified soft tissue sarcomas|411799435|2011-2015
+0-14|1.0|1.2|1.1|340|IX(e) Unspecified soft tissue sarcomas|305441154|2011-2015
+0-19|1.2|1.5|1.3|556|IX(e) Unspecified soft tissue sarcomas|411799435|2011-2015
+0-14|0.2|0.3|0.2|70|Not classified by ICCC|305441154|2011-2015
+0-19|0.2|0.3|0.3|106|Not classified by ICCC|411799435|2011-2015
+0-14|4.2|4.6|4.4|1358|V Retinoblastoma|305441154|2011-2015
+0-19|3.1|3.5|3.3|1360|V Retinoblastoma|411799435|2011-2015
+0-14|8.8|9.4|9.1|2801|VI Renal tumors|305441154|2011-2015
+0-19|7.1|7.6|7.4|3033|VI Renal tumors|411799435|2011-2015
+0-14|8.3|9.0|8.7|2670|VI(a) Nephroblastoma and other nonepithelial renal tumors|305441154|2011-2015
+0-19|6.3|6.8|6.6|2709|VI(a) Nephroblastoma and other nonepithelial renal tumors|411799435|2011-2015
+0-14|0.3|0.5|0.4|117|VI(b) Renal carcinomas|305441154|2011-2015
+0-19|0.7|0.8|0.7|310|VI(b) Renal carcinomas|411799435|2011-2015
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|305441154|2011-2015
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|411799435|2011-2015
+0-14|2.9|3.3|3.1|959|VII Hepatic tumors|305441154|2011-2015
+0-19|2.5|2.8|2.6|1085|VII Hepatic tumors|411799435|2011-2015
+0-14|2.5|2.8|2.7|821|VII(a) Hepatoblastoma|305441154|2011-2015
+0-19|1.9|2.1|2.0|824|VII(a) Hepatoblastoma|411799435|2011-2015
+0-14|0.4|0.5|0.4|129|VII(b) Hepatic carcinomas|305441154|2011-2015
+0-19|0.5|0.7|0.6|250|VII(b) Hepatic carcinomas|411799435|2011-2015
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|305441154|2011-2015
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|411799435|2011-2015
+0-14|7.2|7.8|7.5|2277|VIII Malignant bone tumors|305441154|2011-2015
+0-19|8.8|9.4|9.1|3753|VIII Malignant bone tumors|411799435|2011-2015
+0-14|3.9|4.4|4.1|1253|VIII(a) Osteosarcomas|305441154|2011-2015
+0-19|4.9|5.3|5.1|2091|VIII(a) Osteosarcomas|411799435|2011-2015
+0-14|0.1|0.2|0.2|58|VIII(b) Chondrosarcomas|305441154|2011-2015
+0-19|0.3|0.4|0.3|137|VIII(b) Chondrosarcomas|411799435|2011-2015
+0-14|2.5|2.8|2.7|809|VIII(c) Ewing tumor and related sarcomas of bone|305441154|2011-2015
+0-19|2.9|3.2|3.0|1251|VIII(c) Ewing tumor and related sarcomas of bone|411799435|2011-2015
+0-14|0.3|0.5|0.4|118|VIII(d) Other specified malignant bone tumors|305441154|2011-2015
+0-19|0.4|0.5|0.5|190|VIII(d) Other specified malignant bone tumors|411799435|2011-2015
+0-14|0.1|0.2|0.1|39|VIII(e) Unspecified malignant bone tumors|305441154|2011-2015
+0-19|0.2|0.3|0.2|84|VIII(e) Unspecified malignant bone tumors|411799435|2011-2015
+0-14|5.2|5.7|5.4|1662|X Germ cell, trophoblastic tumors & neoplasms of gonads|305441154|2011-2015
+0-19|11.0|11.7|11.4|4738|X Germ cell, trophoblastic tumors & neoplasms of gonads|411799435|2011-2015
+0-14|1.4|1.7|1.5|470|X(a) Intracranial & intraspinal germ cell tumors|305441154|2011-2015
+0-19|1.6|1.9|1.7|716|X(a) Intracranial & intraspinal germ cell tumors|411799435|2011-2015
+0-14|1.3|1.5|1.4|430|X(b) Malignant extracranial & extragonadal germ cell tumors|305441154|2011-2015
+0-19|1.4|1.6|1.5|618|X(b) Malignant extracranial & extragonadal germ cell tumors|411799435|2011-2015
+0-14|2.1|2.4|2.2|675|X(c) Malignant gonadal germ cell tumors|305441154|2011-2015
+0-19|7.1|7.6|7.3|3072|X(c) Malignant gonadal germ cell tumors|411799435|2011-2015
+0-14|0.1|0.1|0.1|32|X(d) Gonadal carcinomas|305441154|2011-2015
+0-19|0.4|0.5|0.4|186|X(d) Gonadal carcinomas|411799435|2011-2015
+0-14|0.1|0.2|0.2|55|X(e) Other and unspecified malignant gonadal tumors|305441154|2011-2015
+0-19|0.3|0.4|0.4|146|X(e) Other and unspecified malignant gonadal tumors|411799435|2011-2015
+0-14|8.3|9.0|8.7|2633|XI Other malignant epithelial neoplasms and malignant melanomas|305441154|2011-2015
+0-19|20.2|21.0|20.6|8601|XI Other malignant epithelial neoplasms and malignant melanomas|411799435|2011-2015
+0-14|0.1|0.2|0.2|59|XI(a) Adrenocortical carcinomas|305441154|2011-2015
+0-19|0.2|0.3|0.2|85|XI(a) Adrenocortical carcinomas|411799435|2011-2015
+0-14|3.3|3.7|3.5|1063|XI(b) Thyroid carcinomas|305441154|2011-2015
+0-19|9.6|10.2|9.9|4140|XI(b) Thyroid carcinomas|411799435|2011-2015
+0-14|0.2|0.3|0.3|76|XI(c) Nasopharyngeal carcinomas|305441154|2011-2015
+0-19|0.5|0.6|0.5|224|XI(c) Nasopharyngeal carcinomas|411799435|2011-2015
+0-14|1.9|2.3|2.1|643|XI(d) Malignant melanomas|305441154|2011-2015
+0-19|4.0|4.3|4.1|1728|XI(d) Malignant melanomas|411799435|2011-2015
+0-14|~|~|~|~|XI(e) Skin carcinomas|305441154|2011-2015
+0-19|0.0|0.1|0.1|30|XI(e) Skin carcinomas|411799435|2011-2015
+0-14|2.4|2.8|2.6|779|XI(f) Other and unspecified carcinomas|305441154|2011-2015
+0-19|5.5|6.0|5.7|2394|XI(f) Other and unspecified carcinomas|411799435|2011-2015
+0-14|0.6|0.8|0.7|210|XII Other and unspecified malignant neoplasms|305441154|2011-2015
+0-19|0.7|0.9|0.8|325|XII Other and unspecified malignant neoplasms|411799435|2011-2015
+0-14|0.3|0.5|0.4|119|XII(a) Other specified malignant tumors|305441154|2011-2015
+0-19|0.4|0.5|0.4|171|XII(a) Other specified malignant tumors|411799435|2011-2015
+0-14|0.2|0.4|0.3|91|XII(b) Other unspecified malignant tumors|305441154|2011-2015
+0-19|0.3|0.4|0.4|154|XII(b) Other unspecified malignant tumors|411799435|2011-2015
+0-14|165.6|172.1|168.8|10348|All ICCC Groups Combined|61122358|2012
+0-19|181.5|187.4|184.4|15283|All ICCC Groups Combined|82496124|2012
+0-14|50.5|54.2|52.3|3215|I Leukemias, myeloproliferative & myelodysplastic diseases|61122358|2012
+0-19|46.1|49.1|47.6|3931|I Leukemias, myeloproliferative & myelodysplastic diseases|82496124|2012
+0-14|38.5|41.7|40.1|2466|I(a) Lymphoid leukemias|61122358|2012
+0-19|32.8|35.3|34.0|2805|I(a) Lymphoid leukemias|82496124|2012
+0-14|6.5|7.9|7.2|440|I(b) Acute myeloid leukemias|61122358|2012
+0-19|7.3|8.5|7.9|652|I(b) Acute myeloid leukemias|82496124|2012
+0-14|1.3|2.0|1.7|101|I(c) Chronic myeloproliferative diseases|61122358|2012
+0-19|2.1|2.8|2.5|204|I(c) Chronic myeloproliferative diseases|82496124|2012
+0-14|1.4|2.0|1.7|102|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|61122358|2012
+0-19|1.3|1.8|1.5|124|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82496124|2012
+0-14|1.4|2.1|1.7|106|I(e) Unspecified and other specified leukemias|61122358|2012
+0-19|1.5|2.1|1.8|146|I(e) Unspecified and other specified leukemias|82496124|2012
+0-14|20.4|22.8|21.6|1318|II Lymphomas and reticuloendothelial neoplasms|61122358|2012
+0-19|28.7|31.0|29.8|2478|II Lymphomas and reticuloendothelial neoplasms|82496124|2012
+0-14|5.2|6.4|5.7|349|II(a) Hodgkin lymphomas|61122358|2012
+0-19|11.7|13.3|12.5|1044|II(a) Hodgkin lymphomas|82496124|2012
+0-14|6.7|8.1|7.4|451|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|61122358|2012
+0-19|9.1|10.5|9.8|810|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82496124|2012
+0-14|2.0|2.8|2.3|143|II(c) Burkitt lymphoma|61122358|2012
+0-19|2.0|2.7|2.3|191|II(c) Burkitt lymphoma|82496124|2012
+0-14|5.1|6.4|5.7|351|II(d) Miscellaneous lymphoreticular neoplasms|61122358|2012
+0-19|4.3|5.3|4.8|393|II(d) Miscellaneous lymphoreticular neoplasms|82496124|2012
+0-14|0.3|0.6|0.4|24|II(e) Unspecified lymphomas|61122358|2012
+0-19|0.3|0.7|0.5|40|II(e) Unspecified lymphomas|82496124|2012
+0-14|33.5|36.5|35.0|2144|III CNS and misc intracranial and intraspinal neoplasms|61122358|2012
+0-19|30.7|33.2|31.9|2632|III CNS and misc intracranial and intraspinal neoplasms|82496124|2012
+0-14|2.5|3.4|2.9|181|III(a) Ependymomas and choroid plexus tumor|61122358|2012
+0-19|2.3|3.1|2.7|221|III(a) Ependymomas and choroid plexus tumor|82496124|2012
+0-14|17.4|19.5|18.4|1127|III(b) Astrocytomas|61122358|2012
+0-19|16.2|18.0|17.1|1407|III(b) Astrocytomas|82496124|2012
+0-14|6.5|7.8|7.1|438|III(c) Intracranial and intraspinal embryonal tumors|61122358|2012
+0-19|5.3|6.4|5.8|480|III(c) Intracranial and intraspinal embryonal tumors|82496124|2012
+0-14|4.7|5.8|5.2|319|III(d) Other gliomas|61122358|2012
+0-19|4.7|5.7|5.2|427|III(d) Other gliomas|82496124|2012
+0-14|0.4|0.8|0.6|35|III(e) Other specified intracranial & intraspinal neoplasms|61122358|2012
+0-19|0.4|0.7|0.5|45|III(e) Other specified intracranial & intraspinal neoplasms|82496124|2012
+0-14|0.5|1.0|0.7|44|III(f) Unspecified intracranial and intraspinal neoplasms|61122358|2012
+0-19|0.5|0.8|0.6|52|III(f) Unspecified intracranial and intraspinal neoplasms|82496124|2012
+0-14|10.6|12.3|11.5|706|IV Neuroblastoma and other peripheral nervous cell tumors|61122358|2012
+0-19|8.2|9.4|8.8|724|IV Neuroblastoma and other peripheral nervous cell tumors|82496124|2012
+0-14|10.4|12.1|11.2|691|IV(a) Neuroblastoma and ganglioneuroblastoma|61122358|2012
+0-19|7.9|9.2|8.5|703|IV(a) Neuroblastoma and ganglioneuroblastoma|82496124|2012
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|61122358|2012
+0-19|0.2|0.4|0.3|21|IV(b) Other peripheral nervous cell tumors|82496124|2012
+0-14|10.2|11.9|11.1|677|IX Soft tissue and other extraosseous sarcomas|61122358|2012
+0-19|11.0|12.5|11.8|973|IX Soft tissue and other extraosseous sarcomas|82496124|2012
+0-14|4.5|5.6|5.0|309|IX(a) Rhabdomyosarcomas|61122358|2012
+0-19|4.1|5.0|4.6|376|IX(a) Rhabdomyosarcomas|82496124|2012
+0-14|0.9|1.5|1.2|71|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|61122358|2012
+0-19|1.0|1.5|1.2|103|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82496124|2012
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|61122358|2012
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82496124|2012
+0-14|3.1|4.1|3.6|219|IX(d) Other specified soft tissue sarcomas|61122358|2012
+0-19|4.0|5.0|4.5|372|IX(d) Other specified soft tissue sarcomas|82496124|2012
+0-14|1.0|1.5|1.2|75|IX(e) Unspecified soft tissue sarcomas|61122358|2012
+0-19|1.2|1.7|1.4|116|IX(e) Unspecified soft tissue sarcomas|82496124|2012
+0-14|~|~|~|~|Not classified by ICCC|61122358|2012
+0-19|0.1|0.4|0.2|19|Not classified by ICCC|82496124|2012
+0-14|3.9|5.0|4.4|273|V Retinoblastoma|61122358|2012
+0-19|2.9|3.7|3.3|274|V Retinoblastoma|82496124|2012
+0-14|7.9|9.4|8.6|530|VI Renal tumors|61122358|2012
+0-19|6.5|7.6|7.0|582|VI Renal tumors|82496124|2012
+0-14|7.5|8.9|8.2|505|VI(a) Nephroblastoma and other nonepithelial renal tumors|61122358|2012
+0-19|5.7|6.8|6.3|516|VI(a) Nephroblastoma and other nonepithelial renal tumors|82496124|2012
+0-14|0.2|0.5|0.3|20|VI(b) Renal carcinomas|61122358|2012
+0-19|0.6|0.9|0.7|61|VI(b) Renal carcinomas|82496124|2012
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|61122358|2012
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82496124|2012
+0-14|2.9|3.8|3.3|205|VII Hepatic tumors|61122358|2012
+0-19|2.4|3.2|2.8|230|VII Hepatic tumors|82496124|2012
+0-14|2.4|3.3|2.8|175|VII(a) Hepatoblastoma|61122358|2012
+0-19|1.8|2.5|2.1|176|VII(a) Hepatoblastoma|82496124|2012
+0-14|0.3|0.7|0.5|28|VII(b) Hepatic carcinomas|61122358|2012
+0-19|0.5|0.8|0.6|52|VII(b) Hepatic carcinomas|82496124|2012
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|61122358|2012
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82496124|2012
+0-14|6.6|7.9|7.2|440|VIII Malignant bone tumors|61122358|2012
+0-19|8.4|9.7|9.0|744|VIII Malignant bone tumors|82496124|2012
+0-14|3.9|5.0|4.4|267|VIII(a) Osteosarcomas|61122358|2012
+0-19|4.7|5.7|5.2|431|VIII(a) Osteosarcomas|82496124|2012
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|61122358|2012
+0-19|0.2|0.5|0.3|28|VIII(b) Chondrosarcomas|82496124|2012
+0-14|1.8|2.6|2.2|134|VIII(c) Ewing tumor and related sarcomas of bone|61122358|2012
+0-19|2.4|3.2|2.8|231|VIII(c) Ewing tumor and related sarcomas of bone|82496124|2012
+0-14|0.2|0.5|0.3|19|VIII(d) Other specified malignant bone tumors|61122358|2012
+0-19|0.3|0.6|0.4|34|VIII(d) Other specified malignant bone tumors|82496124|2012
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|61122358|2012
+0-19|0.1|0.4|0.2|20|VIII(e) Unspecified malignant bone tumors|82496124|2012
+0-14|4.6|5.7|5.1|313|X Germ cell, trophoblastic tumors & neoplasms of gonads|61122358|2012
+0-19|10.9|12.3|11.6|972|X Germ cell, trophoblastic tumors & neoplasms of gonads|82496124|2012
+0-14|1.1|1.7|1.4|84|X(a) Intracranial & intraspinal germ cell tumors|61122358|2012
+0-19|1.3|1.9|1.6|130|X(a) Intracranial & intraspinal germ cell tumors|82496124|2012
+0-14|1.2|1.8|1.5|92|X(b) Malignant extracranial & extragonadal germ cell tumors|61122358|2012
+0-19|1.4|2.0|1.7|140|X(b) Malignant extracranial & extragonadal germ cell tumors|82496124|2012
+0-14|1.7|2.4|2.0|123|X(c) Malignant gonadal germ cell tumors|61122358|2012
+0-19|7.0|8.2|7.6|640|X(c) Malignant gonadal germ cell tumors|82496124|2012
+0-14|~|~|~|~|X(d) Gonadal carcinomas|61122358|2012
+0-19|0.3|0.6|0.4|35|X(d) Gonadal carcinomas|82496124|2012
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|61122358|2012
+0-19|0.2|0.5|0.3|27|X(e) Other and unspecified malignant gonadal tumors|82496124|2012
+0-14|7.0|8.4|7.6|465|XI Other malignant epithelial neoplasms and malignant melanomas|61122358|2012
+0-19|18.7|20.6|19.6|1644|XI Other malignant epithelial neoplasms and malignant melanomas|82496124|2012
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|61122358|2012
+0-19|0.2|0.4|0.3|22|XI(a) Adrenocortical carcinomas|82496124|2012
+0-14|2.8|3.7|3.3|198|XI(b) Thyroid carcinomas|61122358|2012
+0-19|9.0|10.4|9.7|812|XI(b) Thyroid carcinomas|82496124|2012
+0-14|~|~|~|~|XI(c) Nasopharyngeal carcinomas|61122358|2012
+0-19|0.3|0.6|0.5|38|XI(c) Nasopharyngeal carcinomas|82496124|2012
+0-14|1.6|2.3|2.0|119|XI(d) Malignant melanomas|61122358|2012
+0-19|3.8|4.7|4.2|354|XI(d) Malignant melanomas|82496124|2012
+0-14|~|~|~|~|XI(e) Skin carcinomas|61122358|2012
+0-19|~|~|~|~|XI(e) Skin carcinomas|82496124|2012
+0-14|1.6|2.3|1.9|117|XI(f) Other and unspecified carcinomas|61122358|2012
+0-19|4.4|5.4|4.9|410|XI(f) Other and unspecified carcinomas|82496124|2012
+0-14|0.6|1.1|0.8|50|XII Other and unspecified malignant neoplasms|61122358|2012
+0-19|0.8|1.2|1.0|80|XII Other and unspecified malignant neoplasms|82496124|2012
+0-14|0.2|0.6|0.4|24|XII(a) Other specified malignant tumors|61122358|2012
+0-19|0.3|0.6|0.4|35|XII(a) Other specified malignant tumors|82496124|2012
+0-14|0.3|0.6|0.4|26|XII(b) Other unspecified malignant tumors|61122358|2012
+0-19|0.4|0.7|0.5|45|XII(b) Other unspecified malignant tumors|82496124|2012
+0-14|167.8|174.4|171.1|10464|All ICCC Groups Combined|61077779|2013
+0-19|180.5|186.3|183.4|15124|All ICCC Groups Combined|82257815|2013
+0-14|49.2|52.8|50.9|3121|I Leukemias, myeloproliferative & myelodysplastic diseases|61077779|2013
+0-19|45.1|48.1|46.6|3832|I Leukemias, myeloproliferative & myelodysplastic diseases|82257815|2013
+0-14|36.4|39.5|37.9|2323|I(a) Lymphoid leukemias|61077779|2013
+0-19|31.2|33.7|32.4|2664|I(a) Lymphoid leukemias|82257815|2013
+0-14|7.1|8.6|7.8|479|I(b) Acute myeloid leukemias|61077779|2013
+0-19|7.7|8.9|8.3|681|I(b) Acute myeloid leukemias|82257815|2013
+0-14|1.3|2.0|1.7|101|I(c) Chronic myeloproliferative diseases|61077779|2013
+0-19|2.0|2.7|2.4|195|I(c) Chronic myeloproliferative diseases|82257815|2013
+0-14|1.1|1.8|1.4|87|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|61077779|2013
+0-19|1.3|1.8|1.6|128|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82257815|2013
+0-14|1.8|2.5|2.1|131|I(e) Unspecified and other specified leukemias|61077779|2013
+0-19|1.7|2.3|2.0|164|I(e) Unspecified and other specified leukemias|82257815|2013
+0-14|20.5|22.8|21.6|1319|II Lymphomas and reticuloendothelial neoplasms|61077779|2013
+0-19|27.0|29.3|28.2|2327|II Lymphomas and reticuloendothelial neoplasms|82257815|2013
+0-14|4.9|6.1|5.5|334|II(a) Hodgkin lymphomas|61077779|2013
+0-19|10.8|12.3|11.5|957|II(a) Hodgkin lymphomas|82257815|2013
+0-14|6.7|8.1|7.3|448|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|61077779|2013
+0-19|8.4|9.7|9.0|744|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82257815|2013
+0-14|1.9|2.7|2.3|140|II(c) Burkitt lymphoma|61077779|2013
+0-19|2.0|2.6|2.3|188|II(c) Burkitt lymphoma|82257815|2013
+0-14|5.6|6.9|6.3|383|II(d) Miscellaneous lymphoreticular neoplasms|61077779|2013
+0-19|4.5|5.5|5.0|408|II(d) Miscellaneous lymphoreticular neoplasms|82257815|2013
+0-14|~|~|~|~|II(e) Unspecified lymphomas|61077779|2013
+0-19|0.2|0.5|0.4|30|II(e) Unspecified lymphomas|82257815|2013
+0-14|34.7|37.7|36.2|2213|III CNS and misc intracranial and intraspinal neoplasms|61077779|2013
+0-19|31.5|34.0|32.7|2685|III CNS and misc intracranial and intraspinal neoplasms|82257815|2013
+0-14|2.6|3.5|3.1|188|III(a) Ependymomas and choroid plexus tumor|61077779|2013
+0-19|2.3|3.0|2.6|217|III(a) Ependymomas and choroid plexus tumor|82257815|2013
+0-14|17.9|20.1|19.0|1160|III(b) Astrocytomas|61077779|2013
+0-19|16.6|18.5|17.5|1440|III(b) Astrocytomas|82257815|2013
+0-14|6.3|7.6|6.9|423|III(c) Intracranial and intraspinal embryonal tumors|61077779|2013
+0-19|5.2|6.3|5.7|469|III(c) Intracranial and intraspinal embryonal tumors|82257815|2013
+0-14|5.4|6.7|6.0|369|III(d) Other gliomas|61077779|2013
+0-19|5.1|6.1|5.6|460|III(d) Other gliomas|82257815|2013
+0-14|0.5|1.0|0.7|44|III(e) Other specified intracranial & intraspinal neoplasms|61077779|2013
+0-19|0.5|0.9|0.7|59|III(e) Other specified intracranial & intraspinal neoplasms|82257815|2013
+0-14|0.3|0.7|0.5|29|III(f) Unspecified intracranial and intraspinal neoplasms|61077779|2013
+0-19|0.3|0.7|0.5|40|III(f) Unspecified intracranial and intraspinal neoplasms|82257815|2013
+0-14|11.3|13.1|12.1|746|IV Neuroblastoma and other peripheral nervous cell tumors|61077779|2013
+0-19|8.6|10.0|9.3|762|IV Neuroblastoma and other peripheral nervous cell tumors|82257815|2013
+0-14|11.0|12.7|11.8|727|IV(a) Neuroblastoma and ganglioneuroblastoma|61077779|2013
+0-19|8.3|9.6|9.0|736|IV(a) Neuroblastoma and ganglioneuroblastoma|82257815|2013
+0-14|0.2|0.5|0.3|19|IV(b) Other peripheral nervous cell tumors|61077779|2013
+0-19|0.2|0.5|0.3|26|IV(b) Other peripheral nervous cell tumors|82257815|2013
+0-14|10.3|12.0|11.1|679|IX Soft tissue and other extraosseous sarcomas|61077779|2013
+0-19|11.1|12.6|11.8|975|IX Soft tissue and other extraosseous sarcomas|82257815|2013
+0-14|4.7|5.9|5.3|324|IX(a) Rhabdomyosarcomas|61077779|2013
+0-19|4.4|5.3|4.8|398|IX(a) Rhabdomyosarcomas|82257815|2013
+0-14|0.9|1.5|1.2|73|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|61077779|2013
+0-19|1.0|1.5|1.3|104|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82257815|2013
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|61077779|2013
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82257815|2013
+0-14|3.2|4.1|3.6|221|IX(d) Other specified soft tissue sarcomas|61077779|2013
+0-19|4.0|5.0|4.5|370|IX(d) Other specified soft tissue sarcomas|82257815|2013
+0-14|0.7|1.3|1.0|60|IX(e) Unspecified soft tissue sarcomas|61077779|2013
+0-19|1.0|1.5|1.2|102|IX(e) Unspecified soft tissue sarcomas|82257815|2013
+0-14|0.2|0.4|0.3|17|Not classified by ICCC|61077779|2013
+0-19|0.2|0.4|0.3|24|Not classified by ICCC|82257815|2013
+0-14|3.8|4.9|4.3|265|V Retinoblastoma|61077779|2013
+0-19|2.9|3.6|3.2|265|V Retinoblastoma|82257815|2013
+0-14|8.3|9.8|9.0|553|VI Renal tumors|61077779|2013
+0-19|6.8|8.0|7.4|606|VI Renal tumors|82257815|2013
+0-14|7.8|9.3|8.6|526|VI(a) Nephroblastoma and other nonepithelial renal tumors|61077779|2013
+0-19|5.9|7.0|6.5|532|VI(a) Nephroblastoma and other nonepithelial renal tumors|82257815|2013
+0-14|0.3|0.6|0.4|24|VI(b) Renal carcinomas|61077779|2013
+0-19|0.7|1.1|0.9|71|VI(b) Renal carcinomas|82257815|2013
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|61077779|2013
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82257815|2013
+0-14|2.4|3.3|2.9|175|VII Hepatic tumors|61077779|2013
+0-19|2.1|2.8|2.5|202|VII Hepatic tumors|82257815|2013
+0-14|2.1|2.8|2.4|149|VII(a) Hepatoblastoma|61077779|2013
+0-19|1.5|2.1|1.8|149|VII(a) Hepatoblastoma|82257815|2013
+0-14|0.3|0.6|0.4|24|VII(b) Hepatic carcinomas|61077779|2013
+0-19|0.5|0.8|0.6|51|VII(b) Hepatic carcinomas|82257815|2013
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|61077779|2013
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82257815|2013
+0-14|6.7|8.0|7.3|446|VIII Malignant bone tumors|61077779|2013
+0-19|8.5|9.8|9.1|754|VIII Malignant bone tumors|82257815|2013
+0-14|3.3|4.3|3.8|229|VIII(a) Osteosarcomas|61077779|2013
+0-19|4.5|5.5|5.0|409|VIII(a) Osteosarcomas|82257815|2013
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|61077779|2013
+0-19|0.2|0.5|0.3|29|VIII(b) Chondrosarcomas|82257815|2013
+0-14|2.4|3.3|2.8|173|VIII(c) Ewing tumor and related sarcomas of bone|61077779|2013
+0-19|2.8|3.6|3.1|259|VIII(c) Ewing tumor and related sarcomas of bone|82257815|2013
+0-14|0.3|0.6|0.4|26|VIII(d) Other specified malignant bone tumors|61077779|2013
+0-19|0.4|0.7|0.5|43|VIII(d) Other specified malignant bone tumors|82257815|2013
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|61077779|2013
+0-19|~|~|~|~|VIII(e) Unspecified malignant bone tumors|82257815|2013
+0-14|5.2|6.4|5.8|353|X Germ cell, trophoblastic tumors & neoplasms of gonads|61077779|2013
+0-19|11.1|12.6|11.8|985|X Germ cell, trophoblastic tumors & neoplasms of gonads|82257815|2013
+0-14|1.4|2.1|1.7|103|X(a) Intracranial & intraspinal germ cell tumors|61077779|2013
+0-19|1.6|2.2|1.9|158|X(a) Intracranial & intraspinal germ cell tumors|82257815|2013
+0-14|1.1|1.6|1.3|81|X(b) Malignant extracranial & extragonadal germ cell tumors|61077779|2013
+0-19|1.1|1.7|1.4|114|X(b) Malignant extracranial & extragonadal germ cell tumors|82257815|2013
+0-14|2.1|2.9|2.4|148|X(c) Malignant gonadal germ cell tumors|61077779|2013
+0-19|7.0|8.2|7.6|633|X(c) Malignant gonadal germ cell tumors|82257815|2013
+0-14|~|~|~|~|X(d) Gonadal carcinomas|61077779|2013
+0-19|0.4|0.7|0.5|46|X(d) Gonadal carcinomas|82257815|2013
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|61077779|2013
+0-19|0.3|0.6|0.4|34|X(e) Other and unspecified malignant gonadal tumors|82257815|2013
+0-14|8.1|9.6|8.8|538|XI Other malignant epithelial neoplasms and malignant melanomas|61077779|2013
+0-19|18.7|20.7|19.7|1638|XI Other malignant epithelial neoplasms and malignant melanomas|82257815|2013
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|61077779|2013
+0-19|~|~|~|~|XI(a) Adrenocortical carcinomas|82257815|2013
+0-14|3.1|4.1|3.6|218|XI(b) Thyroid carcinomas|61077779|2013
+0-19|8.8|10.1|9.4|784|XI(b) Thyroid carcinomas|82257815|2013
+0-14|0.2|0.6|0.4|23|XI(c) Nasopharyngeal carcinomas|61077779|2013
+0-19|0.5|0.8|0.6|53|XI(c) Nasopharyngeal carcinomas|82257815|2013
+0-14|1.8|2.5|2.1|129|XI(d) Malignant melanomas|61077779|2013
+0-19|3.8|4.7|4.2|349|XI(d) Malignant melanomas|82257815|2013
+0-14|~|~|~|~|XI(e) Skin carcinomas|61077779|2013
+0-19|~|~|~|~|XI(e) Skin carcinomas|82257815|2013
+0-14|2.2|3.0|2.5|155|XI(f) Other and unspecified carcinomas|61077779|2013
+0-19|4.8|5.8|5.2|436|XI(f) Other and unspecified carcinomas|82257815|2013
+0-14|0.5|0.9|0.6|39|XII Other and unspecified malignant neoplasms|61077779|2013
+0-19|0.6|1.1|0.8|69|XII Other and unspecified malignant neoplasms|82257815|2013
+0-14|0.2|0.6|0.4|23|XII(a) Other specified malignant tumors|61077779|2013
+0-19|0.3|0.6|0.4|36|XII(a) Other specified malignant tumors|82257815|2013
+0-14|0.1|0.4|0.3|16|XII(b) Other unspecified malignant tumors|61077779|2013
+0-19|0.3|0.6|0.4|33|XII(b) Other unspecified malignant tumors|82257815|2013
+0-14|170.8|177.4|174.1|10649|All ICCC Groups Combined|61066323|2014
+0-19|185.6|191.5|188.5|15523|All ICCC Groups Combined|82122701|2014
+0-14|49.9|53.5|51.6|3163|I Leukemias, myeloproliferative & myelodysplastic diseases|61066323|2014
+0-19|46.0|49.0|47.5|3906|I Leukemias, myeloproliferative & myelodysplastic diseases|82122701|2014
+0-14|37.1|40.2|38.6|2365|I(a) Lymphoid leukemias|61066323|2014
+0-19|32.0|34.5|33.2|2725|I(a) Lymphoid leukemias|82122701|2014
+0-14|7.2|8.7|7.9|486|I(b) Acute myeloid leukemias|61066323|2014
+0-19|7.9|9.2|8.5|704|I(b) Acute myeloid leukemias|82122701|2014
+0-14|1.2|1.8|1.5|92|I(c) Chronic myeloproliferative diseases|61066323|2014
+0-19|2.0|2.6|2.3|190|I(c) Chronic myeloproliferative diseases|82122701|2014
+0-14|1.3|1.9|1.6|95|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|61066323|2014
+0-19|1.3|1.8|1.5|124|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82122701|2014
+0-14|1.7|2.4|2.0|125|I(e) Unspecified and other specified leukemias|61066323|2014
+0-19|1.7|2.3|2.0|163|I(e) Unspecified and other specified leukemias|82122701|2014
+0-14|22.1|24.5|23.3|1420|II Lymphomas and reticuloendothelial neoplasms|61066323|2014
+0-19|29.7|32.2|30.9|2551|II Lymphomas and reticuloendothelial neoplasms|82122701|2014
+0-14|4.9|6.1|5.5|334|II(a) Hodgkin lymphomas|61066323|2014
+0-19|11.2|12.7|11.9|985|II(a) Hodgkin lymphomas|82122701|2014
+0-14|7.7|9.2|8.4|515|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|61066323|2014
+0-19|10.1|11.5|10.8|888|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82122701|2014
+0-14|2.4|3.2|2.8|169|II(c) Burkitt lymphoma|61066323|2014
+0-19|2.3|3.0|2.6|216|II(c) Burkitt lymphoma|82122701|2014
+0-14|5.7|6.9|6.3|384|II(d) Miscellaneous lymphoreticular neoplasms|61066323|2014
+0-19|4.8|5.8|5.3|431|II(d) Miscellaneous lymphoreticular neoplasms|82122701|2014
+0-14|0.2|0.5|0.3|18|II(e) Unspecified lymphomas|61066323|2014
+0-19|0.3|0.5|0.4|31|II(e) Unspecified lymphomas|82122701|2014
+0-14|34.1|37.1|35.5|2172|III CNS and misc intracranial and intraspinal neoplasms|61066323|2014
+0-19|31.3|33.7|32.5|2665|III CNS and misc intracranial and intraspinal neoplasms|82122701|2014
+0-14|2.8|3.7|3.2|196|III(a) Ependymomas and choroid plexus tumor|61066323|2014
+0-19|2.4|3.1|2.8|226|III(a) Ependymomas and choroid plexus tumor|82122701|2014
+0-14|17.1|19.3|18.2|1110|III(b) Astrocytomas|61066323|2014
+0-19|16.3|18.1|17.2|1409|III(b) Astrocytomas|82122701|2014
+0-14|6.6|8.0|7.3|445|III(c) Intracranial and intraspinal embryonal tumors|61066323|2014
+0-19|5.5|6.5|6.0|489|III(c) Intracranial and intraspinal embryonal tumors|82122701|2014
+0-14|4.9|6.1|5.5|335|III(d) Other gliomas|61066323|2014
+0-19|4.7|5.7|5.2|427|III(d) Other gliomas|82122701|2014
+0-14|0.6|1.1|0.8|50|III(e) Other specified intracranial & intraspinal neoplasms|61066323|2014
+0-19|0.6|1.0|0.8|67|III(e) Other specified intracranial & intraspinal neoplasms|82122701|2014
+0-14|0.4|0.8|0.6|36|III(f) Unspecified intracranial and intraspinal neoplasms|61066323|2014
+0-19|0.4|0.8|0.6|47|III(f) Unspecified intracranial and intraspinal neoplasms|82122701|2014
+0-14|11.1|12.8|11.9|732|IV Neuroblastoma and other peripheral nervous cell tumors|61066323|2014
+0-19|8.6|9.9|9.2|757|IV Neuroblastoma and other peripheral nervous cell tumors|82122701|2014
+0-14|10.9|12.6|11.7|719|IV(a) Neuroblastoma and ganglioneuroblastoma|61066323|2014
+0-19|8.2|9.5|8.9|729|IV(a) Neuroblastoma and ganglioneuroblastoma|82122701|2014
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|61066323|2014
+0-19|0.2|0.5|0.3|28|IV(b) Other peripheral nervous cell tumors|82122701|2014
+0-14|10.3|12.0|11.2|682|IX Soft tissue and other extraosseous sarcomas|61066323|2014
+0-19|11.6|13.1|12.3|1012|IX Soft tissue and other extraosseous sarcomas|82122701|2014
+0-14|4.4|5.5|4.9|302|IX(a) Rhabdomyosarcomas|61066323|2014
+0-19|3.9|4.8|4.4|359|IX(a) Rhabdomyosarcomas|82122701|2014
+0-14|0.9|1.5|1.2|73|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|61066323|2014
+0-19|1.2|1.8|1.5|123|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82122701|2014
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|61066323|2014
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82122701|2014
+0-14|3.4|4.4|3.9|235|IX(d) Other specified soft tissue sarcomas|61066323|2014
+0-19|4.5|5.5|5.0|412|IX(d) Other specified soft tissue sarcomas|82122701|2014
+0-14|0.9|1.5|1.2|71|IX(e) Unspecified soft tissue sarcomas|61066323|2014
+0-19|1.1|1.7|1.4|113|IX(e) Unspecified soft tissue sarcomas|82122701|2014
+0-14|0.2|0.5|0.3|19|Not classified by ICCC|61066323|2014
+0-19|0.2|0.4|0.3|25|Not classified by ICCC|82122701|2014
+0-14|3.8|4.9|4.3|267|V Retinoblastoma|61066323|2014
+0-19|2.9|3.7|3.2|267|V Retinoblastoma|82122701|2014
+0-14|8.4|9.9|9.1|561|VI Renal tumors|61066323|2014
+0-19|6.7|7.9|7.3|599|VI Renal tumors|82122701|2014
+0-14|8.0|9.4|8.7|533|VI(a) Nephroblastoma and other nonepithelial renal tumors|61066323|2014
+0-19|6.1|7.2|6.6|544|VI(a) Nephroblastoma and other nonepithelial renal tumors|82122701|2014
+0-14|0.3|0.6|0.4|26|VI(b) Renal carcinomas|61066323|2014
+0-19|0.5|0.8|0.6|53|VI(b) Renal carcinomas|82122701|2014
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|61066323|2014
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82122701|2014
+0-14|2.6|3.5|3.0|186|VII Hepatic tumors|61066323|2014
+0-19|2.2|2.9|2.5|208|VII Hepatic tumors|82122701|2014
+0-14|2.2|3.0|2.6|160|VII(a) Hepatoblastoma|61066323|2014
+0-19|1.7|2.3|1.9|160|VII(a) Hepatoblastoma|82122701|2014
+0-14|0.3|0.6|0.4|26|VII(b) Hepatic carcinomas|61066323|2014
+0-19|0.4|0.8|0.6|47|VII(b) Hepatic carcinomas|82122701|2014
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|61066323|2014
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82122701|2014
+0-14|7.3|8.8|8.0|487|VIII Malignant bone tumors|61066323|2014
+0-19|8.7|10.1|9.4|771|VIII Malignant bone tumors|82122701|2014
+0-14|3.9|5.0|4.4|269|VIII(a) Osteosarcomas|61066323|2014
+0-19|4.7|5.7|5.2|427|VIII(a) Osteosarcomas|82122701|2014
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|61066323|2014
+0-19|0.2|0.5|0.4|29|VIII(b) Chondrosarcomas|82122701|2014
+0-14|2.4|3.2|2.8|168|VIII(c) Ewing tumor and related sarcomas of bone|61066323|2014
+0-19|2.7|3.4|3.0|249|VIII(c) Ewing tumor and related sarcomas of bone|82122701|2014
+0-14|0.3|0.7|0.5|29|VIII(d) Other specified malignant bone tumors|61066323|2014
+0-19|0.4|0.7|0.5|45|VIII(d) Other specified malignant bone tumors|82122701|2014
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|61066323|2014
+0-19|0.2|0.4|0.3|21|VIII(e) Unspecified malignant bone tumors|82122701|2014
+0-14|5.2|6.4|5.8|353|X Germ cell, trophoblastic tumors & neoplasms of gonads|61066323|2014
+0-19|10.5|12.0|11.2|930|X Germ cell, trophoblastic tumors & neoplasms of gonads|82122701|2014
+0-14|1.2|1.9|1.5|92|X(a) Intracranial & intraspinal germ cell tumors|61066323|2014
+0-19|1.4|2.0|1.7|139|X(a) Intracranial & intraspinal germ cell tumors|82122701|2014
+0-14|1.4|2.0|1.7|103|X(b) Malignant extracranial & extragonadal germ cell tumors|61066323|2014
+0-19|1.4|2.0|1.7|141|X(b) Malignant extracranial & extragonadal germ cell tumors|82122701|2014
+0-14|1.9|2.6|2.2|136|X(c) Malignant gonadal germ cell tumors|61066323|2014
+0-19|6.4|7.5|6.9|575|X(c) Malignant gonadal germ cell tumors|82122701|2014
+0-14|~|~|~|~|X(d) Gonadal carcinomas|61066323|2014
+0-19|0.3|0.7|0.5|40|X(d) Gonadal carcinomas|82122701|2014
+0-14|0.2|0.4|0.3|16|X(e) Other and unspecified malignant gonadal tumors|61066323|2014
+0-19|0.3|0.6|0.4|35|X(e) Other and unspecified malignant gonadal tumors|82122701|2014
+0-14|8.6|10.1|9.3|568|XI Other malignant epithelial neoplasms and malignant melanomas|61066323|2014
+0-19|20.5|22.5|21.5|1779|XI Other malignant epithelial neoplasms and malignant melanomas|82122701|2014
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|61066323|2014
+0-19|0.1|0.4|0.2|20|XI(a) Adrenocortical carcinomas|82122701|2014
+0-14|3.4|4.4|3.8|234|XI(b) Thyroid carcinomas|61066323|2014
+0-19|9.9|11.3|10.6|879|XI(b) Thyroid carcinomas|82122701|2014
+0-14|~|~|~|~|XI(c) Nasopharyngeal carcinomas|61066323|2014
+0-19|0.3|0.5|0.4|31|XI(c) Nasopharyngeal carcinomas|82122701|2014
+0-14|1.9|2.7|2.2|137|XI(d) Malignant melanomas|61066323|2014
+0-19|3.7|4.6|4.1|343|XI(d) Malignant melanomas|82122701|2014
+0-14|~|~|~|~|XI(e) Skin carcinomas|61066323|2014
+0-19|~|~|~|~|XI(e) Skin carcinomas|82122701|2014
+0-14|2.4|3.3|2.8|172|XI(f) Other and unspecified carcinomas|61066323|2014
+0-19|5.5|6.6|6.0|500|XI(f) Other and unspecified carcinomas|82122701|2014
+0-14|0.5|0.9|0.6|39|XII Other and unspecified malignant neoplasms|61066323|2014
+0-19|0.5|0.8|0.6|53|XII Other and unspecified malignant neoplasms|82122701|2014
+0-14|0.3|0.6|0.4|24|XII(a) Other specified malignant tumors|61066323|2014
+0-19|0.2|0.5|0.4|29|XII(a) Other specified malignant tumors|82122701|2014
+0-14|~|~|~|~|XII(b) Other unspecified malignant tumors|61066323|2014
+0-19|0.2|0.4|0.3|24|XII(b) Other unspecified malignant tumors|82122701|2014
+0-14|171.5|178.2|174.8|10691|All ICCC Groups Combined|60999208|2015
+0-19|188.3|194.2|191.2|15752|All ICCC Groups Combined|82083918|2015
+0-14|51.9|55.6|53.7|3289|I Leukemias, myeloproliferative & myelodysplastic diseases|60999208|2015
+0-19|47.6|50.7|49.2|4040|I Leukemias, myeloproliferative & myelodysplastic diseases|82083918|2015
+0-14|39.0|42.2|40.6|2485|I(a) Lymphoid leukemias|60999208|2015
+0-19|33.8|36.4|35.1|2882|I(a) Lymphoid leukemias|82083918|2015
+0-14|7.2|8.6|7.9|481|I(b) Acute myeloid leukemias|60999208|2015
+0-19|7.7|8.9|8.3|683|I(b) Acute myeloid leukemias|82083918|2015
+0-14|1.6|2.3|1.9|116|I(c) Chronic myeloproliferative diseases|60999208|2015
+0-19|2.2|2.8|2.5|205|I(c) Chronic myeloproliferative diseases|82083918|2015
+0-14|1.2|1.8|1.4|88|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|60999208|2015
+0-19|1.2|1.7|1.4|115|I(d) Myelodysplastic syndrome and other myeloproliferative diseases|82083918|2015
+0-14|1.6|2.3|1.9|119|I(e) Unspecified and other specified leukemias|60999208|2015
+0-19|1.6|2.2|1.9|155|I(e) Unspecified and other specified leukemias|82083918|2015
+0-14|21.4|23.9|22.6|1378|II Lymphomas and reticuloendothelial neoplasms|60999208|2015
+0-19|29.0|31.4|30.2|2489|II Lymphomas and reticuloendothelial neoplasms|82083918|2015
+0-14|5.3|6.5|5.9|356|II(a) Hodgkin lymphomas|60999208|2015
+0-19|11.5|13.0|12.3|1015|II(a) Hodgkin lymphomas|82083918|2015
+0-14|6.6|8.0|7.3|443|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|60999208|2015
+0-19|9.0|10.3|9.7|795|II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma)|82083918|2015
+0-14|2.1|3.0|2.5|154|II(c) Burkitt lymphoma|60999208|2015
+0-19|2.1|2.8|2.5|201|II(c) Burkitt lymphoma|82083918|2015
+0-14|6.0|7.4|6.7|409|II(d) Miscellaneous lymphoreticular neoplasms|60999208|2015
+0-19|4.9|5.9|5.4|443|II(d) Miscellaneous lymphoreticular neoplasms|82083918|2015
+0-14|0.2|0.4|0.3|16|II(e) Unspecified lymphomas|60999208|2015
+0-19|0.3|0.6|0.4|35|II(e) Unspecified lymphomas|82083918|2015
+0-14|32.8|35.7|34.2|2090|III CNS and misc intracranial and intraspinal neoplasms|60999208|2015
+0-19|30.2|32.7|31.4|2579|III CNS and misc intracranial and intraspinal neoplasms|82083918|2015
+0-14|2.6|3.5|3.1|187|III(a) Ependymomas and choroid plexus tumor|60999208|2015
+0-19|2.4|3.1|2.7|223|III(a) Ependymomas and choroid plexus tumor|82083918|2015
+0-14|16.2|18.3|17.3|1054|III(b) Astrocytomas|60999208|2015
+0-19|15.0|16.7|15.9|1300|III(b) Astrocytomas|82083918|2015
+0-14|6.5|7.9|7.2|440|III(c) Intracranial and intraspinal embryonal tumors|60999208|2015
+0-19|5.5|6.6|6.0|492|III(c) Intracranial and intraspinal embryonal tumors|82083918|2015
+0-14|5.1|6.3|5.6|343|III(d) Other gliomas|60999208|2015
+0-19|5.1|6.2|5.6|462|III(d) Other gliomas|82083918|2015
+0-14|0.5|0.9|0.7|40|III(e) Other specified intracranial & intraspinal neoplasms|60999208|2015
+0-19|0.6|1.0|0.8|64|III(e) Other specified intracranial & intraspinal neoplasms|82083918|2015
+0-14|0.3|0.6|0.4|26|III(f) Unspecified intracranial and intraspinal neoplasms|60999208|2015
+0-19|0.3|0.6|0.5|38|III(f) Unspecified intracranial and intraspinal neoplasms|82083918|2015
+0-14|11.2|12.9|12.0|742|IV Neuroblastoma and other peripheral nervous cell tumors|60999208|2015
+0-19|8.7|10.0|9.3|768|IV Neuroblastoma and other peripheral nervous cell tumors|82083918|2015
+0-14|11.0|12.8|11.9|733|IV(a) Neuroblastoma and ganglioneuroblastoma|60999208|2015
+0-19|8.4|9.8|9.1|748|IV(a) Neuroblastoma and ganglioneuroblastoma|82083918|2015
+0-14|~|~|~|~|IV(b) Other peripheral nervous cell tumors|60999208|2015
+0-19|0.1|0.4|0.2|20|IV(b) Other peripheral nervous cell tumors|82083918|2015
+0-14|10.2|11.9|11.0|673|IX Soft tissue and other extraosseous sarcomas|60999208|2015
+0-19|11.5|13.0|12.2|1007|IX Soft tissue and other extraosseous sarcomas|82083918|2015
+0-14|4.6|5.7|5.1|313|IX(a) Rhabdomyosarcomas|60999208|2015
+0-19|4.2|5.2|4.7|386|IX(a) Rhabdomyosarcomas|82083918|2015
+0-14|0.8|1.4|1.1|65|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|60999208|2015
+0-19|1.1|1.6|1.4|112|IX(b) Fibrosarcomas, peripheral nerve sheath tumors & other fibrous neoplams|82083918|2015
+0-14|~|~|~|~|IX(c) Kaposi sarcoma|60999208|2015
+0-19|~|~|~|~|IX(c) Kaposi sarcoma|82083918|2015
+0-14|3.2|4.2|3.7|226|IX(d) Other specified soft tissue sarcomas|60999208|2015
+0-19|4.2|5.2|4.7|386|IX(d) Other specified soft tissue sarcomas|82083918|2015
+0-14|0.9|1.4|1.1|68|IX(e) Unspecified soft tissue sarcomas|60999208|2015
+0-19|1.2|1.7|1.4|119|IX(e) Unspecified soft tissue sarcomas|82083918|2015
+0-14|~|~|~|~|Not classified by ICCC|60999208|2015
+0-19|~|~|~|~|Not classified by ICCC|82083918|2015
+0-14|4.2|5.3|4.8|294|V Retinoblastoma|60999208|2015
+0-19|3.2|4.0|3.6|295|V Retinoblastoma|82083918|2015
+0-14|9.0|10.6|9.8|600|VI Renal tumors|60999208|2015
+0-19|7.3|8.5|7.9|649|VI Renal tumors|82083918|2015
+0-14|8.6|10.1|9.3|572|VI(a) Nephroblastoma and other nonepithelial renal tumors|60999208|2015
+0-19|6.5|7.6|7.0|577|VI(a) Nephroblastoma and other nonepithelial renal tumors|82083918|2015
+0-14|0.3|0.6|0.4|25|VI(b) Renal carcinomas|60999208|2015
+0-19|0.6|1.1|0.8|69|VI(b) Renal carcinomas|82083918|2015
+0-14|~|~|~|~|VI(c) Unspecified malignant renal tumors|60999208|2015
+0-19|~|~|~|~|VI(c) Unspecified malignant renal tumors|82083918|2015
+0-14|2.8|3.7|3.2|198|VII Hepatic tumors|60999208|2015
+0-19|2.4|3.2|2.8|230|VII Hepatic tumors|82083918|2015
+0-14|2.4|3.2|2.8|171|VII(a) Hepatoblastoma|60999208|2015
+0-19|1.8|2.4|2.1|172|VII(a) Hepatoblastoma|82083918|2015
+0-14|0.3|0.6|0.4|26|VII(b) Hepatic carcinomas|60999208|2015
+0-19|0.5|0.9|0.7|56|VII(b) Hepatic carcinomas|82083918|2015
+0-14|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|60999208|2015
+0-19|~|~|~|~|VII(c) Unspecified malignant hepatic tumors|82083918|2015
+0-14|6.8|8.2|7.4|452|VIII Malignant bone tumors|60999208|2015
+0-19|8.4|9.7|9.0|740|VIII Malignant bone tumors|82083918|2015
+0-14|3.4|4.5|3.9|238|VIII(a) Osteosarcomas|60999208|2015
+0-19|4.4|5.4|4.9|402|VIII(a) Osteosarcomas|82083918|2015
+0-14|~|~|~|~|VIII(b) Chondrosarcomas|60999208|2015
+0-19|0.2|0.5|0.4|30|VIII(b) Chondrosarcomas|82083918|2015
+0-14|2.3|3.1|2.7|161|VIII(c) Ewing tumor and related sarcomas of bone|60999208|2015
+0-19|2.7|3.4|3.0|249|VIII(c) Ewing tumor and related sarcomas of bone|82083918|2015
+0-14|0.3|0.7|0.5|30|VIII(d) Other specified malignant bone tumors|60999208|2015
+0-19|0.4|0.7|0.5|42|VIII(d) Other specified malignant bone tumors|82083918|2015
+0-14|~|~|~|~|VIII(e) Unspecified malignant bone tumors|60999208|2015
+0-19|0.1|0.3|0.2|17|VIII(e) Unspecified malignant bone tumors|82083918|2015
+0-14|4.8|6.0|5.4|330|X Germ cell, trophoblastic tumors & neoplasms of gonads|60999208|2015
+0-19|10.6|12.1|11.4|942|X Germ cell, trophoblastic tumors & neoplasms of gonads|82083918|2015
+0-14|1.3|1.9|1.6|97|X(a) Intracranial & intraspinal germ cell tumors|60999208|2015
+0-19|1.5|2.1|1.8|150|X(a) Intracranial & intraspinal germ cell tumors|82083918|2015
+0-14|1.0|1.6|1.3|80|X(b) Malignant extracranial & extragonadal germ cell tumors|60999208|2015
+0-19|1.1|1.6|1.3|108|X(b) Malignant extracranial & extragonadal germ cell tumors|82083918|2015
+0-14|1.9|2.6|2.2|136|X(c) Malignant gonadal germ cell tumors|60999208|2015
+0-19|6.8|8.0|7.4|616|X(c) Malignant gonadal germ cell tumors|82083918|2015
+0-14|~|~|~|~|X(d) Gonadal carcinomas|60999208|2015
+0-19|0.3|0.6|0.5|39|X(d) Gonadal carcinomas|82083918|2015
+0-14|~|~|~|~|X(e) Other and unspecified malignant gonadal tumors|60999208|2015
+0-19|0.2|0.5|0.4|29|X(e) Other and unspecified malignant gonadal tumors|82083918|2015
+0-14|9.0|10.6|9.8|593|XI Other malignant epithelial neoplasms and malignant melanomas|60999208|2015
+0-19|22.3|24.4|23.3|1934|XI Other malignant epithelial neoplasms and malignant melanomas|82083918|2015
+0-14|~|~|~|~|XI(a) Adrenocortical carcinomas|60999208|2015
+0-19|~|~|~|~|XI(a) Adrenocortical carcinomas|82083918|2015
+0-14|3.0|4.0|3.5|212|XI(b) Thyroid carcinomas|60999208|2015
+0-19|9.9|11.3|10.6|879|XI(b) Thyroid carcinomas|82083918|2015
+0-14|~|~|~|~|XI(c) Nasopharyngeal carcinomas|60999208|2015
+0-19|0.4|0.8|0.6|50|XI(c) Nasopharyngeal carcinomas|82083918|2015
+0-14|1.8|2.6|2.2|132|XI(d) Malignant melanomas|60999208|2015
+0-19|3.4|4.3|3.9|319|XI(d) Malignant melanomas|82083918|2015
+0-14|~|~|~|~|XI(e) Skin carcinomas|60999208|2015
+0-19|~|~|~|~|XI(e) Skin carcinomas|82083918|2015
+0-14|3.3|4.3|3.8|229|XI(f) Other and unspecified carcinomas|60999208|2015
+0-19|7.5|8.7|8.1|669|XI(f) Other and unspecified carcinomas|82083918|2015
+0-14|0.5|0.9|0.7|42|XII Other and unspecified malignant neoplasms|60999208|2015
+0-19|0.6|1.0|0.8|65|XII Other and unspecified malignant neoplasms|82083918|2015
+0-14|0.3|0.7|0.5|31|XII(a) Other specified malignant tumors|60999208|2015
+0-19|0.4|0.7|0.5|44|XII(a) Other specified malignant tumors|82083918|2015
+0-14|~|~|~|~|XII(b) Other unspecified malignant tumors|60999208|2015
+0-19|0.2|0.4|0.3|21|XII(b) Other unspecified malignant tumors|82083918|2015
